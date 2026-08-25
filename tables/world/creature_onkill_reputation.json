@@ -1,0 +1,1272 @@
+[
+  {
+    "creature_id": 674,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 675,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 677,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 737,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 773,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1094,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1095,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1096,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1097,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1411,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1561,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1562,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1563,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1564,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1565,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 1653,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2482,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2487,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2488,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2490,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2491,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2493,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2494,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2495,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2496,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2498,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2499,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2500,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2501,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2502,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2542,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2545,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2546,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2547,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2548,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2549,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2550,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2551,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2594,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2610,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2622,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2625,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2627,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2636,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2663,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2664,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2670,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2685,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2699,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2774,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2778,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2817,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2832,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2834,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2836,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2837,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2838,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2839,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2840,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2842,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2843,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2844,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2845,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2846,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2847,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2848,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2849,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 3537,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 3538,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 3945,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4260,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4505,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4506,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 87,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -25,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4624,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 5,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4631,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4638,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4639,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4640,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4641,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4642,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4643,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4644,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4645,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4646,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4647,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4648,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4649,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4651,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4652,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4653,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4661,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4662,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 100,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -500,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 4723,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 5601,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 100,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -500,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6068,
+    "RewOnKillRepFaction1": 92,
+    "RewOnKillRepFaction2": 93,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 100,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -500,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6707,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6766,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6768,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6771,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6777,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 6779,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7323,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7324,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7325,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7406,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7794,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 7853,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 8123,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 8305,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 8309,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 8320,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 9179,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 6,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 9536,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 9559,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 10060,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 10267,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 12136,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 13085,
+    "RewOnKillRepFaction1": 70,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 3,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 921,
+    "RewOnKillRepFaction1": 21,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 6,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2769,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 2767,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 5,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 15088,
+    "RewOnKillRepFaction1": 87,
+    "RewOnKillRepFaction2": 21,
+    "MaxStanding1": 5,
+    "RewOnKillRepValue1": 25,
+    "MaxStanding2": 7,
+    "RewOnKillRepValue2": -125,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 3149,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 9564,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 9566,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 12137,
+    "RewOnKillRepFaction1": 169,
+    "RewOnKillRepFaction2": 0,
+    "MaxStanding1": 7,
+    "RewOnKillRepValue1": -125,
+    "MaxStanding2": 0,
+    "RewOnKillRepValue2": 0,
+    "TeamDependent": 0
+  },
+  {
+    "creature_id": 5602,
+    "RewOnKillRepFaction1": 93,
+    "RewOnKillRepFaction2": 92,
+    "MaxStanding1": 4,
+    "RewOnKillRepValue1": 20,
+    "MaxStanding2": 4,
+    "RewOnKillRepValue2": -100,
+    "TeamDependent": 0
+  }
+]

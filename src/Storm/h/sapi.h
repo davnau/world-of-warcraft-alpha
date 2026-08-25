@@ -1,0 +1,11 @@
+#pragma once
+#include "Storm/h/storm.h"
+#include "Storm/h/SFile.h"
+#include "Storm/h/SEvt.h"
+#include "Storm/h/SMem.h"
+#include "Storm/h/SSignature.h"
+#include "Storm/h/SLog.h"
+#include "Storm/h/LogMachineState.h"
+#include "Storm/h/SCmd.h"
+#include "Storm/h/SMsg.h"
+#include "Storm/h/SComp.h"

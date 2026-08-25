@@ -1,0 +1,10 @@
+#include "ENGINE/Source/Tempest/tempest_intersect.h"
+#include <algorithm>
+#include <cmath>
+namespace NTempest {
+bool __fastcall Intersect(const CAaBox&b,const C3Vector&p){return p.x>=b.b.x&&p.x<=b.t.x&&p.y>=b.b.y&&p.y<=b.t.y&&p.z>=b.b.z&&p.z<=b.t.z;}bool __fastcall Intersect(const CAaBox&a,const CAaBox&b){return a.b.x<=b.t.x&&a.t.x>=b.b.x&&a.b.y<=b.t.y&&a.t.y>=b.b.y&&a.b.z<=b.t.z&&a.t.z>=b.b.z;}
+bool __fastcall Intersect(const CAaSphere&s,const C3Vector&p,SolidIntersect){return (p-s.c).SquaredMag()<=s.r*s.r;}bool __fastcall Intersect2d(const CAaSphere&s,const C3Vector&p,SolidIntersect){float x=p.x-s.c.x,y=p.y-s.c.y;return x*x+y*y<=s.r*s.r;}bool __fastcall Intersect(const CAaSphere&a,const CAaSphere&b,SolidIntersect){float r=a.r+b.r;return (a.c-b.c).SquaredMag()<=r*r;}
+bool __fastcall Intersect(const C4Plane&p,const C3Vector&point,float&distance){distance=C3Vector::Dot(p.n,point)+p.d;return std::fabs(distance)<=1e-6F;}
+bool __fastcall Intersect(const CFacet&f,const C3Vector&o,const C3Vector&d,float&t){C3Vector e1=f.vertices[1]-f.vertices[0],e2=f.vertices[2]-f.vertices[0],q=C3Vector::Cross(d,e2);float det=C3Vector::Dot(e1,q);if(std::fabs(det)<1e-7F)return false;float inv=1/det;C3Vector s=o-f.vertices[0];float u=C3Vector::Dot(s,q)*inv;if(u<0||u>1)return false;C3Vector r=C3Vector::Cross(s,e1);float v=C3Vector::Dot(d,r)*inv;if(v<0||u+v>1)return false;t=C3Vector::Dot(e2,r)*inv;return t>=0;}
+bool __fastcall IntersectCull(const CFacet&f,const C3Vector&o,const C3Vector&d,float&t){if(C3Vector::Dot(f.plane.n,d)>=0)return false;return Intersect(f,o,d,t);}bool __fastcall Intersect(const CCone&c,const C3Vector&p){C3Vector v=p-c.position;float h=C3Vector::Dot(v,c.axis);return h>=0&&h<=c.height&&C3Vector::Dot(v,c.axis)*C3Vector::Dot(v,c.axis)>=v.SquaredMag()*c.cosAngle*c.cosAngle;}bool __fastcall Intersect(const CObBox&b,const C3Vector&p){C3Vector q=b.b.Inverse()*(p-b.c);return std::fabs(q.x)<=b.e.x&&std::fabs(q.y)<=b.e.y&&std::fabs(q.z)<=b.e.z;}bool __fastcall Intersect(const CFacet&f,const C3Vector&p){float d;return Intersect(f.plane,p,d);}
+}

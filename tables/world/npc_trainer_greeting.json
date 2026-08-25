@@ -1,0 +1,1962 @@
+[
+  {
+    "entry": 198,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 223,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 328,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 331,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 375,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 376,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 377,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 459,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 460,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 461,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 514,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 543,
+    "content_default": ""
+  },
+  {
+    "entry": 812,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 837,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 895,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 906,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 908,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 911,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 912,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 913,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 914,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 915,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 916,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 917,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 918,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 925,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 926,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 927,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 928,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 944,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 957,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 985,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 986,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 987,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 988,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 1103,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 1215,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 1218,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 1226,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 1228,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 1229,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 1231,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 1232,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 1234,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 1241,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 1246,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 1292,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 1300,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 1317,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 1346,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 1355,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 1382,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 1383,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 1385,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 1386,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 1404,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 1411,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 1430,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 1458,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 1466,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 1470,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 1473,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 1632,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 1651,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 1676,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 1680,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 1681,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 1683,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 1699,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 1700,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 1701,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 1702,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 1703,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 1901,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 2114,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 2119,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 2122,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 2123,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 2124,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 2126,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 2127,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 2128,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 2129,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 2130,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 2131,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 2132,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 2326,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 2327,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 2329,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 2367,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 2390,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 2391,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 2399,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 2485,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 2489,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 2492,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 2627,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 2688,
+    "content_default": "Everyone wants to be able to vanish sometimes. Like when people"
+  },
+  {
+    "entry": 2704,
+    "content_default": ""
+  },
+  {
+    "entry": 2798,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 2818,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 2834,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 2836,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 2837,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 2855,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 2856,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 2857,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 2878,
+    "content_default": ""
+  },
+  {
+    "entry": 2879,
+    "content_default": ""
+  },
+  {
+    "entry": 2998,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3001,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 3004,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 3007,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3008,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3009,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 3011,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 3013,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 3026,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 3028,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 3030,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3031,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3032,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3033,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3034,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3036,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3038,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3039,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3040,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3041,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3042,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3043,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3044,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3045,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3046,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3047,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 3048,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 3049,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 3059,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3060,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3061,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3062,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3063,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3064,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3065,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3066,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3067,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 3069,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3087,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 3136,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3137,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 3153,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3154,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3155,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3156,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 3157,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3169,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3170,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3171,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3172,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 3173,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3174,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3175,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 3179,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 3181,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 3184,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 3185,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 3290,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 3306,
+    "content_default": ""
+  },
+  {
+    "entry": 3324,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 3325,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 3326,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 3327,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3328,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3332,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 3344,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3345,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 3347,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 3352,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3353,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3354,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3355,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3357,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 3363,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 3365,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3373,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 3399,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 3401,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3403,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 3404,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 3406,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3407,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3408,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3412,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 3478,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3484,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 3494,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 3523,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 3545,
+    "content_default": ""
+  },
+  {
+    "entry": 3549,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3555,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 3557,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 3593,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3594,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3595,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3596,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3597,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3598,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 3599,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 3600,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3601,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3602,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 3603,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 3604,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 3605,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3606,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 3607,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 3620,
+    "content_default": ""
+  },
+  {
+    "entry": 3622,
+    "content_default": ""
+  },
+  {
+    "entry": 3624,
+    "content_default": ""
+  },
+  {
+    "entry": 3688,
+    "content_default": ""
+  },
+  {
+    "entry": 3690,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 3698,
+    "content_default": ""
+  },
+  {
+    "entry": 3703,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 3704,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 3706,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3707,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 3963,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 3964,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 3965,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 3967,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 4087,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 4089,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 4090,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4091,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4092,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4138,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 4146,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 4156,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 4159,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 4160,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 4163,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4165,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 4193,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 4204,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 4205,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 4210,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 4211,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 4212,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 4213,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 4214,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4215,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4217,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 4218,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 4219,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 4254,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 4258,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 4320,
+    "content_default": ""
+  },
+  {
+    "entry": 4552,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 4563,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 4564,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 4565,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 4566,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 4567,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 4568,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 4573,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 4576,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 4578,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 4582,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4583,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4584,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 4586,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 4588,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 4591,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 4593,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 4594,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 4595,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 4596,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 4598,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 4605,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 4606,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4607,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4608,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 4611,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 4614,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 4616,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 4732,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 4752,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 4753,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 4772,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 4773,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 4898,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 4900,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 5032,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 5037,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 5038,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 5040,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 5041,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 5113,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 5114,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 5115,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5116,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5117,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5127,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 5137,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 5141,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 5142,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 5143,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 5144,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5145,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5146,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5147,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 5148,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 5149,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 5150,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 5153,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 5157,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 5159,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 5161,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 5164,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 5165,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 5166,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 5167,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 5171,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5172,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5173,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5174,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 5177,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 5392,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 5479,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 5480,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 5482,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 5484,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 5489,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 5491,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 5492,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 5493,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 5495,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5496,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5497,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5498,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5499,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 5500,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 5501,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5502,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 5504,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 5505,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 5506,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 5511,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 5513,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 5515,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5516,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5517,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 5518,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 5564,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 5566,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 5612,
+    "content_default": "Hello, warlock! Ready for some training?"
+  },
+  {
+    "entry": 5690,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 5695,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 5759,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 5784,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 5811,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 5880,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5882,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5883,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5884,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5885,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 5938,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 5939,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 5941,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 5943,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 5957,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 5958,
+    "content_default": "Welcome!"
+  },
+  {
+    "entry": 5994,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 6014,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 6018,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 6094,
+    "content_default": "Here, let me show you how to bind those wounds...."
+  },
+  {
+    "entry": 6251,
+    "content_default": "Hello, warlock!  Ready for some training?"
+  },
+  {
+    "entry": 6286,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 6287,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6288,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6289,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6290,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6291,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6292,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6295,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6297,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 6299,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 6306,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6387,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 6707,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 7087,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 7088,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 7089,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 7230,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 7231,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 7232,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 7311,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 7312,
+    "content_default": "Hello, mage!  Ready for some training?"
+  },
+  {
+    "entry": 7315,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 7406,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 7866,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7867,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7868,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7869,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7870,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7871,
+    "content_default": "Greetings! Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 7944,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 7946,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 7948,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 7949,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 7953,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 7954,
+    "content_default": "Hello!  Can I teach you something?"
+  },
+  {
+    "entry": 8126,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 8128,
+    "content_default": "You have not lived until you have dug deep into the earth."
+  },
+  {
+    "entry": 8140,
+    "content_default": "Hello, paladin!  Ready for some training?"
+  },
+  {
+    "entry": 8141,
+    "content_default": "Hello, warrior!  Ready for some training?"
+  },
+  {
+    "entry": 8142,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 8144,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 8146,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 8153,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 8306,
+    "content_default": "Can I teach you how to turn the meat you find on beasts into a feast?"
+  },
+  {
+    "entry": 8308,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 8736,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 8738,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 9465,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 9584,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 10086,
+    "content_default": ""
+  },
+  {
+    "entry": 10088,
+    "content_default": ""
+  },
+  {
+    "entry": 10089,
+    "content_default": ""
+  },
+  {
+    "entry": 10090,
+    "content_default": ""
+  },
+  {
+    "entry": 10266,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 10276,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 10277,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 10278,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 10930,
+    "content_default": "Hello, hunter!  Ready for some training?"
+  },
+  {
+    "entry": 10993,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11017,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11025,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11026,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11028,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11029,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11031,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11037,
+    "content_default": "Engineering is very simple once you grasp the basics."
+  },
+  {
+    "entry": 11041,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 11042,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 11044,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 11046,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 11047,
+    "content_default": "With alchemy you can turn found herbs into healing and other types of potions."
+  },
+  {
+    "entry": 11048,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11049,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11050,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11051,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11052,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11065,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11066,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11067,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11068,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11070,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11071,
+    "content_default": "Enchanting is the art of improving existing items through magic."
+  },
+  {
+    "entry": 11072,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 11073,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 11074,
+    "content_default": "Enchanting is the art of improving existing items through magic. "
+  },
+  {
+    "entry": 11081,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11083,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11084,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11096,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11097,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11098,
+    "content_default": "Greetings!  Can I teach you how to turn beast hides into armor?"
+  },
+  {
+    "entry": 11146,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 11177,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 11178,
+    "content_default": "Care to learn how to turn the ore that you find into weapons and metal armor?"
+  },
+  {
+    "entry": 11397,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 11401,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 11406,
+    "content_default": "Hello, priest!  Ready for some training?"
+  },
+  {
+    "entry": 11557,
+    "content_default": "Greetings!  Can I teach you how to turn found cloth into cloth armor?"
+  },
+  {
+    "entry": 11865,
+    "content_default": ""
+  },
+  {
+    "entry": 11866,
+    "content_default": ""
+  },
+  {
+    "entry": 11867,
+    "content_default": ""
+  },
+  {
+    "entry": 11868,
+    "content_default": ""
+  },
+  {
+    "entry": 11869,
+    "content_default": ""
+  },
+  {
+    "entry": 11870,
+    "content_default": ""
+  },
+  {
+    "entry": 12025,
+    "content_default": "Searching for herbs requires both knowledge and instinct."
+  },
+  {
+    "entry": 12030,
+    "content_default": "It requires a steady hand to remove the leather from a slain beast."
+  },
+  {
+    "entry": 12032,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 12042,
+    "content_default": "Hello, druid!  Ready for some training?"
+  },
+  {
+    "entry": 12961,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  },
+  {
+    "entry": 13084,
+    "content_default": ""
+  },
+  {
+    "entry": 13283,
+    "content_default": "Hello, rogue!  Ready for some training?"
+  },
+  {
+    "entry": 13417,
+    "content_default": "Hello, shaman!  Ready for some training?"
+  },
+  {
+    "entry": 14740,
+    "content_default": "I can teach you how to use a fishing pole to catch fish."
+  }
+]

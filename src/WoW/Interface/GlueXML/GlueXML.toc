@@ -1,0 +1,13 @@
+Interface\GlueXML\GlueFonts.xml
+Interface\GlueXML\GlueBasicControls.xml
+Interface\GlueXML\GlueParent.xml
+Interface\GlueXML\GlueButtons.xml
+Interface\GlueXML\GlueTemplates.xml
+Interface\GlueXML\GlueDialog.xml
+Interface\GlueXML\GlueSplash.xml
+Interface\GlueXML\RealmList.xml
+Interface\GlueXML\AccountLogin.xml
+Interface\GlueXML\AccountCredentials.xml
+Interface\GlueXML\CharacterSelect.xml
+#Interface\GlueXML\RaceSelect.xml
+Interface\GlueXML\CharacterCreate.xml

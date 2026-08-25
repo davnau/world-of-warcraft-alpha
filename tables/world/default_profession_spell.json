@@ -1,0 +1,150 @@
+[
+  {
+    "trainer_spell": 2020,
+    "default_spell": 2660
+  },
+  {
+    "trainer_spell": 2020,
+    "default_spell": 2663
+  },
+  {
+    "trainer_spell": 2020,
+    "default_spell": 3115
+  },
+  {
+    "trainer_spell": 2154,
+    "default_spell": 2153
+  },
+  {
+    "trainer_spell": 2155,
+    "default_spell": 2149
+  },
+  {
+    "trainer_spell": 2155,
+    "default_spell": 2152
+  },
+  {
+    "trainer_spell": 2155,
+    "default_spell": 2881
+  },
+  {
+    "trainer_spell": 2155,
+    "default_spell": 7126
+  },
+  {
+    "trainer_spell": 2275,
+    "default_spell": 2329
+  },
+  {
+    "trainer_spell": 2275,
+    "default_spell": 2330
+  },
+  {
+    "trainer_spell": 2275,
+    "default_spell": 7183
+  },
+  {
+    "trainer_spell": 2372,
+    "default_spell": 2383
+  },
+  {
+    "trainer_spell": 2551,
+    "default_spell": 2538
+  },
+  {
+    "trainer_spell": 2551,
+    "default_spell": 2540
+  },
+  {
+    "trainer_spell": 2581,
+    "default_spell": 2580
+  },
+  {
+    "trainer_spell": 2581,
+    "default_spell": 2656
+  },
+  {
+    "trainer_spell": 2581,
+    "default_spell": 2657
+  },
+  {
+    "trainer_spell": 3279,
+    "default_spell": 3275
+  },
+  {
+    "trainer_spell": 3812,
+    "default_spell": 3765
+  },
+  {
+    "trainer_spell": 3911,
+    "default_spell": 2387
+  },
+  {
+    "trainer_spell": 3911,
+    "default_spell": 2963
+  },
+  {
+    "trainer_spell": 3912,
+    "default_spell": 2964
+  },
+  {
+    "trainer_spell": 3912,
+    "default_spell": 3839
+  },
+  {
+    "trainer_spell": 4039,
+    "default_spell": 3918
+  },
+  {
+    "trainer_spell": 4040,
+    "default_spell": 3973
+  },
+  {
+    "trainer_spell": 7414,
+    "default_spell": 7418
+  },
+  {
+    "trainer_spell": 7414,
+    "default_spell": 7421
+  },
+  {
+    "trainer_spell": 7414,
+    "default_spell": 7426
+  },
+  {
+    "trainer_spell": 7414,
+    "default_spell": 7428
+  },
+  {
+    "trainer_spell": 7414,
+    "default_spell": 7439
+  },
+  {
+    "trainer_spell": 7415,
+    "default_spell": 7448
+  },
+  {
+    "trainer_spell": 7415,
+    "default_spell": 7454
+  },
+  {
+    "trainer_spell": 7415,
+    "default_spell": 7769
+  },
+  {
+    "trainer_spell": 7415,
+    "default_spell": 7779
+  },
+  {
+    "trainer_spell": 7415,
+    "default_spell": 7855
+  },
+  {
+    "trainer_spell": 7416,
+    "default_spell": 7795
+  },
+  {
+    "trainer_spell": 7733,
+    "default_spell": 7738
+  }
+]

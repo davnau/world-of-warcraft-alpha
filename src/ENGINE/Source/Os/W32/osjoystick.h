@@ -1,0 +1,2 @@
+#pragma once
+int __fastcall OsNumJoysticks();unsigned int __fastcall OsOpenJoystick(unsigned int index);void OsCloseJoystick();unsigned int __fastcall OsGetNumButtons(unsigned int index);unsigned int __fastcall OsGetNumAxes(unsigned int index);unsigned int __fastcall OsGetButtonState(unsigned int index);unsigned int __fastcall OsGetButtonState(unsigned int index,unsigned int button);int __fastcall OsGetAxisState(unsigned int index,unsigned int axis);

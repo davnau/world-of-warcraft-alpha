@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>BattleNet.Server</AssemblyName>
+    <RootNamespace>BattleNet.Server</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BattleNet.Core\BattleNet.Core.csproj" />
+    <ProjectReference Include="..\BattleNet.Persistence\BattleNet.Persistence.csproj" />
+    <ProjectReference Include="..\BattleNet.Protocol\BattleNet.Protocol.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <None Update="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6254 @@
+[
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 199,
+    "Note": "Two-Handed Maces"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 635,
+    "Note": "Holy Light"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 2,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 585,
+    "Note": "Smite"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 2050,
+    "Note": "Lesser Heal"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 5,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 133,
+    "Note": "Fireball"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 168,
+    "Note": "Frost Armor"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 8,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 686,
+    "Note": "Shadow Bolt"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 687,
+    "Note": "Demon Skin"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 1,
+    "class": 9,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 197,
+    "Note": "Two-Handed Axes"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 2,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 264,
+    "Note": "Bows"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 1485,
+    "Note": "Shoot"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 2,
+    "class": 3,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 2,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 331,
+    "Note": "Healing Wave"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 403,
+    "Note": "Lightning Bolt"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 2,
+    "class": 7,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 686,
+    "Note": "Shadow Bolt"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 687,
+    "Note": "Demon Skin"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 2,
+    "class": 9,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 197,
+    "Note": "Two-Handed Axes"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 199,
+    "Note": "Two-Handed Maces"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 635,
+    "Note": "Holy Light"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 2,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 266,
+    "Note": "Guns"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 1485,
+    "Note": "Shoot"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 3,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 585,
+    "Note": "Smite"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 2050,
+    "Note": "Lesser Heal"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 5,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 133,
+    "Note": "Fireball"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 168,
+    "Note": "Frost Armor"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 522,
+    "Note": "SPELLDFENSE (DND)"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 672,
+    "Note": "Language Dwarven"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 2481,
+    "Note": "Find Treasure"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 4080,
+    "Note": "Frost Resistance"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 3,
+    "class": 8,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 671,
+    "Note": "Language Darnassian"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 743,
+    "Note": "Shadowmeld"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 4081,
+    "Note": "Nature Resistance"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 4,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 264,
+    "Note": "Bows"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 671,
+    "Note": "Language Darnassian"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 743,
+    "Note": "Shadowmeld"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 1485,
+    "Note": "Shoot"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 4081,
+    "Note": "Nature Resistance"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 4,
+    "class": 3,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 671,
+    "Note": "Language Darnassian"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 743,
+    "Note": "Shadowmeld"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 4081,
+    "Note": "Nature Resistance"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 4,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 585,
+    "Note": "Smite"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 671,
+    "Note": "Language Darnassian"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 743,
+    "Note": "Shadowmeld"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 2050,
+    "Note": "Lesser Heal"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 4081,
+    "Note": "Nature Resistance"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 4,
+    "class": 5,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 197,
+    "Note": "Two-Handed Axes"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 199,
+    "Note": "Two-Handed Maces"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 671,
+    "Note": "Language Darnassian"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 743,
+    "Note": "Shadowmeld"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 4081,
+    "Note": "Nature Resistance"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 5176,
+    "Note": "Wrath"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 5185,
+    "Note": "Healing Touch"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 4,
+    "class": 11,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 202,
+    "Note": "Two-Handed Swords"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 4084,
+    "Note": "Shadow Resistance"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 5227,
+    "Note": "Underwater Breathing"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 1,
+    "Spell": 7744,
+    "Note": "Will of the Forsaken"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 4084,
+    "Note": "Shadow Resistance"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 5227,
+    "Note": "Underwater Breathing"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 4,
+    "Spell": 7744,
+    "Note": "Will of the Forsaken"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 585,
+    "Note": "Smite"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 2050,
+    "Note": "Lesser Heal"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 4084,
+    "Note": "Shadow Resistance"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 5227,
+    "Note": "Underwater Breathing"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 5,
+    "Spell": 7744,
+    "Note": "Will of the Forsaken"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 133,
+    "Note": "Fireball"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 168,
+    "Note": "Frost Armor"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 4084,
+    "Note": "Shadow Resistance"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 5227,
+    "Note": "Underwater Breathing"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 8,
+    "Spell": 7744,
+    "Note": "Will of the Forsaken"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 686,
+    "Note": "Shadow Bolt"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 687,
+    "Note": "Demon Skin"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 4084,
+    "Note": "Shadow Resistance"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 5227,
+    "Note": "Underwater Breathing"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 5,
+    "class": 9,
+    "Spell": 7744,
+    "Note": "Will of the Forsaken"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 199,
+    "Note": "Two-Handed Maces"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 670,
+    "Note": "Language Taurahe"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 4083,
+    "Note": "Bull Rush"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 6,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 266,
+    "Note": "Guns"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 670,
+    "Note": "Language Taurahe"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 1485,
+    "Note": "Shoot"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 4083,
+    "Note": "Bull Rush"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 6,
+    "class": 3,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 331,
+    "Note": "Healing Wave"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 403,
+    "Note": "Lightning Bolt"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 670,
+    "Note": "Language Taurahe"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 4083,
+    "Note": "Bull Rush"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 6,
+    "class": 7,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 197,
+    "Note": "Two-Handed Axes"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 199,
+    "Note": "Two-Handed Maces"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 670,
+    "Note": "Language Taurahe"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 4083,
+    "Note": "Bull Rush"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 5176,
+    "Note": "Wrath"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 5185,
+    "Note": "Healing Touch"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 6,
+    "class": 11,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 7340,
+    "Note": "Language Gnomish"
+  },
+  {
+    "race": 7,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 7340,
+    "Note": "Language Gnomish"
+  },
+  {
+    "race": 7,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 133,
+    "Note": "Fireball"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 168,
+    "Note": "Frost Armor"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 7340,
+    "Note": "Language Gnomish"
+  },
+  {
+    "race": 7,
+    "class": 8,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 668,
+    "Note": "Language Common"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 686,
+    "Note": "Shadow Bolt"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 687,
+    "Note": "Demon Skin"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 7340,
+    "Note": "Language Gnomish"
+  },
+  {
+    "race": 7,
+    "class": 9,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 78,
+    "Note": "Heroic Strike"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 201,
+    "Note": "One-Handed Swords"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 2457,
+    "Note": "Battle Stance"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 5301,
+    "Note": "Defensive State (DND)"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 1,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 196,
+    "Note": "One-Handed Axes"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 264,
+    "Note": "Bows"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 1485,
+    "Note": "Shoot"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 3,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 1180,
+    "Note": "Daggers"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 1752,
+    "Note": "Sinister Strike"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 2098,
+    "Note": "Eviscerate"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 2567,
+    "Note": "Thrown"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 2764,
+    "Note": "Throw"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 4,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 585,
+    "Note": "Smite"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 2050,
+    "Note": "Lesser Heal"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 5,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 107,
+    "Note": "Block"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 198,
+    "Note": "One-Handed Maces"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 268,
+    "Note": "FIST WEAPON (DND)"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 331,
+    "Note": "Healing Wave"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 403,
+    "Note": "Lightning Bolt"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 7,
+    "Spell": 7355,
+    "Note": "Stuck"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 81,
+    "Note": "Dodge"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 133,
+    "Note": "Fireball"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 168,
+    "Note": "Frost Armor"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 203,
+    "Note": "Unarmed"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 204,
+    "Note": "Defense"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 227,
+    "Note": "Staves"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 522,
+    "Note": "SPELLDEFENSE (DND)"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 669,
+    "Note": "Language Orcish"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 2382,
+    "Note": "Generic"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 3050,
+    "Note": "Detect"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 3365,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 5009,
+    "Note": "Wands"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 5019,
+    "Note": "Shoot"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6233,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6246,
+    "Note": "Closing"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6247,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6477,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6478,
+    "Note": "Opening"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 6603,
+    "Note": "Attack"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 7266,
+    "Note": "Duel"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 7267,
+    "Note": "Grovel"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 7341,
+    "Note": "Language Troll"
+  },
+  {
+    "race": 8,
+    "class": 8,
+    "Spell": 7355,
+    "Note": "Stuck"
+  }
+]

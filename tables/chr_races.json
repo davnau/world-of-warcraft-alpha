@@ -1,0 +1,74 @@
+[
+  {
+    "Race": 1,
+    "FactionId": 1,
+    "MaleDisplayId": 49,
+    "FemaleDisplayId": 50,
+    "MountScale": 1.0,
+    "BaseLanguage": 7,
+    "CreatureType": 7
+  },
+  {
+    "Race": 2,
+    "FactionId": 2,
+    "MaleDisplayId": 51,
+    "FemaleDisplayId": 52,
+    "MountScale": 1.1,
+    "BaseLanguage": 1,
+    "CreatureType": 7
+  },
+  {
+    "Race": 3,
+    "FactionId": 3,
+    "MaleDisplayId": 53,
+    "FemaleDisplayId": 54,
+    "MountScale": 1.0,
+    "BaseLanguage": 7,
+    "CreatureType": 7
+  },
+  {
+    "Race": 4,
+    "FactionId": 4,
+    "MaleDisplayId": 55,
+    "FemaleDisplayId": 56,
+    "MountScale": 1.0,
+    "BaseLanguage": 7,
+    "CreatureType": 7
+  },
+  {
+    "Race": 5,
+    "FactionId": 5,
+    "MaleDisplayId": 57,
+    "FemaleDisplayId": 58,
+    "MountScale": 1.0,
+    "BaseLanguage": 1,
+    "CreatureType": 6
+  },
+  {
+    "Race": 6,
+    "FactionId": 6,
+    "MaleDisplayId": 59,
+    "FemaleDisplayId": 60,
+    "MountScale": 1.0,
+    "BaseLanguage": 1,
+    "CreatureType": 7
+  },
+  {
+    "Race": 7,
+    "FactionId": 115,
+    "MaleDisplayId": 1563,
+    "FemaleDisplayId": 1564,
+    "MountScale": 0.8,
+    "BaseLanguage": 7,
+    "CreatureType": 7
+  },
+  {
+    "Race": 8,
+    "FactionId": 116,
+    "MaleDisplayId": 1478,
+    "FemaleDisplayId": 1479,
+    "MountScale": 1.0,
+    "BaseLanguage": 1,
+    "CreatureType": 7
+  }
+]

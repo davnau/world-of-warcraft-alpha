@@ -1,0 +1,352 @@
+[
+  {
+    "id": 9956,
+    "pool_entry": 25610,
+    "chance": 0,
+    "description": "BRD - Shadowforge Flame Keeper",
+    "flags": 0
+  },
+  {
+    "id": 462,
+    "pool_entry": 462,
+    "chance": 0,
+    "description": "Vultros (462)",
+    "flags": 0
+  },
+  {
+    "id": 3735,
+    "pool_entry": 3735,
+    "chance": 0,
+    "description": "Apothecary Falthis (3735)",
+    "flags": 0
+  },
+  {
+    "id": 448,
+    "pool_entry": 1270,
+    "chance": 0,
+    "description": "Elwynn Forest - Forests Edge - Hogger (448)",
+    "flags": 0
+  },
+  {
+    "id": 730,
+    "pool_entry": 125,
+    "chance": 0,
+    "description": "Tethis (730)",
+    "flags": 0
+  },
+  {
+    "id": 2038,
+    "pool_entry": 108,
+    "chance": 0,
+    "description": "Lord Melenas",
+    "flags": 0
+  },
+  {
+    "id": 7319,
+    "pool_entry": 109,
+    "chance": 0,
+    "description": "Lady Sathra",
+    "flags": 0
+  },
+  {
+    "id": 3467,
+    "pool_entry": 110,
+    "chance": 0,
+    "description": "Baron Longshore",
+    "flags": 0
+  },
+  {
+    "id": 3204,
+    "pool_entry": 111,
+    "chance": 0,
+    "description": "Gazz'uz",
+    "flags": 0
+  },
+  {
+    "id": 2304,
+    "pool_entry": 112,
+    "chance": 0,
+    "description": "Captain Ironhill",
+    "flags": 0
+  },
+  {
+    "id": 5822,
+    "pool_entry": 113,
+    "chance": 0,
+    "description": "Felweaver Scornn",
+    "flags": 0
+  },
+  {
+    "id": 5808,
+    "pool_entry": 114,
+    "chance": 0,
+    "description": "Warlord Kolkanis",
+    "flags": 0
+  },
+  {
+    "id": 5824,
+    "pool_entry": 115,
+    "chance": 0,
+    "description": "Captain Flat Tusk",
+    "flags": 0
+  },
+  {
+    "id": 5826,
+    "pool_entry": 116,
+    "chance": 0,
+    "description": "Geolord Mottle",
+    "flags": 0
+  },
+  {
+    "id": 5809,
+    "pool_entry": 117,
+    "chance": 0,
+    "description": "Watch Commander Zalaphil",
+    "flags": 0
+  },
+  {
+    "id": 3392,
+    "pool_entry": 118,
+    "chance": 0,
+    "description": "Prospector Khazgorm",
+    "flags": 0
+  },
+  {
+    "id": 5847,
+    "pool_entry": 119,
+    "chance": 0,
+    "description": "Heggin Stonewhisker",
+    "flags": 0
+  },
+  {
+    "id": 5859,
+    "pool_entry": 120,
+    "chance": 0,
+    "description": "Hagg Taurenbane",
+    "flags": 0
+  },
+  {
+    "id": 3472,
+    "pool_entry": 121,
+    "chance": 0,
+    "description": "Washte Pawne",
+    "flags": 0
+  },
+  {
+    "id": 3473,
+    "pool_entry": 122,
+    "chance": 0,
+    "description": "Owatanka",
+    "flags": 0
+  },
+  {
+    "id": 3474,
+    "pool_entry": 123,
+    "chance": 0,
+    "description": "Lakota'mani",
+    "flags": 0
+  },
+  {
+    "id": 14275,
+    "pool_entry": 124,
+    "chance": 0,
+    "description": "Tamra Stormpike",
+    "flags": 0
+  },
+  {
+    "id": 521,
+    "pool_entry": 521,
+    "chance": 0,
+    "description": "Lupos",
+    "flags": 0
+  },
+  {
+    "id": 2598,
+    "pool_entry": 2598,
+    "chance": 0,
+    "description": "Darbel Montrose",
+    "flags": 0
+  },
+  {
+    "id": 2605,
+    "pool_entry": 2605,
+    "chance": 0,
+    "description": "Zalas Witherbark",
+    "flags": 0
+  },
+  {
+    "id": 2606,
+    "pool_entry": 2606,
+    "chance": 0,
+    "description": "Nimar the Slayer",
+    "flags": 0
+  },
+  {
+    "id": 2779,
+    "pool_entry": 2779,
+    "chance": 0,
+    "description": "Prince Nazjak",
+    "flags": 0
+  },
+  {
+    "id": 2850,
+    "pool_entry": 2850,
+    "chance": 0,
+    "description": "Broken Tooth",
+    "flags": 0
+  },
+  {
+    "id": 61,
+    "pool_entry": 3200,
+    "chance": 0,
+    "description": "Thuros Lightfingers",
+    "flags": 0
+  },
+  {
+    "id": 7850,
+    "pool_entry": 9002,
+    "chance": 0,
+    "description": "Kernobee",
+    "flags": 0
+  },
+  {
+    "id": 832,
+    "pool_entry": 10003,
+    "chance": 0,
+    "description": "Dust Devil",
+    "flags": 0
+  },
+  {
+    "id": 3671,
+    "pool_entry": 10004,
+    "chance": 0,
+    "description": "Lady Anacondra",
+    "flags": 0
+  },
+  {
+    "id": 12902,
+    "pool_entry": 12902,
+    "chance": 0,
+    "description": "Lorgus Jett",
+    "flags": 0
+  },
+  {
+    "id": 14222,
+    "pool_entry": 14222,
+    "chance": 0,
+    "description": "Araga",
+    "flags": 0
+  },
+  {
+    "id": 14281,
+    "pool_entry": 14281,
+    "chance": 0,
+    "description": "Jimmy the Bleeder",
+    "flags": 0
+  },
+  {
+    "id": 10558,
+    "pool_entry": 25468,
+    "chance": 25,
+    "description": "Hearthsinger Forresten",
+    "flags": 0
+  },
+  {
+    "id": 14231,
+    "pool_entry": 42939,
+    "chance": 0,
+    "description": "Drogoth the Roamer",
+    "flags": 0
+  },
+  {
+    "id": 14233,
+    "pool_entry": 43157,
+    "chance": 0,
+    "description": "Ripscale",
+    "flags": 0
+  },
+  {
+    "id": 14230,
+    "pool_entry": 43517,
+    "chance": 0,
+    "description": "Burgle Eye",
+    "flags": 0
+  },
+  {
+    "id": 13602,
+    "pool_entry": 43525,
+    "chance": 0,
+    "description": "The Abominable Greench",
+    "flags": 0
+  },
+  {
+    "id": 1112,
+    "pool_entry": 1608,
+    "chance": 0,
+    "description": "Wetlands - Leech Widow",
+    "flags": 0
+  },
+  {
+    "id": 3736,
+    "pool_entry": 1609,
+    "chance": 0,
+    "description": "Ashenvale - Darkslayer Mordenthal",
+    "flags": 0
+  },
+  {
+    "id": 4202,
+    "pool_entry": 1610,
+    "chance": 0,
+    "description": "Stonetalon Mountains - Gerenzo Wrenchwhistle",
+    "flags": 0
+  },
+  {
+    "id": 5350,
+    "pool_entry": 1604,
+    "chance": 0,
+    "description": "Feralas - Qirot",
+    "flags": 0
+  },
+  {
+    "id": 5863,
+    "pool_entry": 1611,
+    "chance": 0,
+    "description": "Barrens - Geopriest Gukk'rok",
+    "flags": 0
+  },
+  {
+    "id": 7057,
+    "pool_entry": 1605,
+    "chance": 0,
+    "description": "Uldaman (Outside) - Digmaster Shovelphlange",
+    "flags": 0
+  },
+  {
+    "id": 7895,
+    "pool_entry": 1606,
+    "chance": 0,
+    "description": "Barrens - Ambassador Bloodrage",
+    "flags": 0
+  },
+  {
+    "id": 8212,
+    "pool_entry": 1607,
+    "chance": 0,
+    "description": "Hinterlands - The Reak",
+    "flags": 0
+  },
+  {
+    "id": 10077,
+    "pool_entry": 1602,
+    "chance": 0,
+    "description": "Burning Steppes - Deathmaw",
+    "flags": 0
+  },
+  {
+    "id": 3581,
+    "pool_entry": 279,
+    "chance": 0,
+    "description": "Stormwind City - Sewer Beast",
+    "flags": 0
+  }
+]

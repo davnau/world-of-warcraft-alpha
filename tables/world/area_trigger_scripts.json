@@ -1,0 +1,26 @@
+[
+  {
+    "id": 171,
+    "delay": 0,
+    "priority": 0,
+    "command": 39,
+    "datalong": 27301,
+    "datalong2": 0,
+    "datalong3": 0,
+    "datalong4": 0,
+    "target_param1": 0,
+    "target_param2": 0,
+    "target_type": 0,
+    "data_flags": 8,
+    "dataint": 100,
+    "dataint2": 0,
+    "dataint3": 0,
+    "dataint4": 0,
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "o": 0,
+    "condition_id": 273,
+    "comments": "Resupplying the Excavation - Ambush Event"
+  }
+]

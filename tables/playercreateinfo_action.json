@@ -1,0 +1,1190 @@
+[
+  {
+    "Race": 1,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 1,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 1,
+    "Class": 2,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 2,
+    "Button": 1,
+    "Action": 635
+  },
+  {
+    "Race": 1,
+    "Class": 2,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 1,
+    "Class": 2,
+    "Button": 11,
+    "Action": -2070
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Button": 11,
+    "Action": -2070
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Button": 1,
+    "Action": 585
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Button": 2,
+    "Action": 2050
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Button": 11,
+    "Action": -2070
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Button": 1,
+    "Action": 133
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Button": 2,
+    "Action": 168
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Button": 11,
+    "Action": -2070
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Button": 1,
+    "Action": 686
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Button": 2,
+    "Action": 687
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 2,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 2,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 2,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 2,
+    "Class": 3,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 2,
+    "Class": 3,
+    "Button": 1,
+    "Action": 1485
+  },
+  {
+    "Race": 2,
+    "Class": 3,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 2,
+    "Class": 3,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Button": 1,
+    "Action": 403
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Button": 2,
+    "Action": 331
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Button": 1,
+    "Action": 686
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Button": 2,
+    "Action": 687
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 3,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 3,
+    "Class": 1,
+    "Button": 74,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Button": 1,
+    "Action": 635
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Button": 2,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Button": 1,
+    "Action": 1485
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Button": 2,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 4,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 1,
+    "Action": 585
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 2,
+    "Action": 2050
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 3,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 1,
+    "Action": 133
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 2,
+    "Action": 168
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 3,
+    "Action": 2481
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 4,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 4,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 4,
+    "Class": 1,
+    "Button": 74,
+    "Action": 743
+  },
+  {
+    "Race": 4,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Button": 1,
+    "Action": 1485
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Button": 2,
+    "Action": 743
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 4,
+    "Action": 743
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 1,
+    "Action": 585
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 2,
+    "Action": 2050
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 3,
+    "Action": 743
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Button": 11,
+    "Action": -2070
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 1,
+    "Action": 5176
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 2,
+    "Action": 5185
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 3,
+    "Action": 743
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Button": 11,
+    "Action": -4536
+  },
+  {
+    "Race": 5,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 5,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 5,
+    "Class": 1,
+    "Button": 83,
+    "Action": -4604
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Button": 1,
+    "Action": 585
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Button": 2,
+    "Action": 2050
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Button": 1,
+    "Action": 133
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Button": 2,
+    "Action": 168
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Button": 1,
+    "Action": 686
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Button": 2,
+    "Action": 687
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 6,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 6,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 6,
+    "Class": 1,
+    "Button": 74,
+    "Action": 4083
+  },
+  {
+    "Race": 6,
+    "Class": 1,
+    "Button": 83,
+    "Action": -4540
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Button": 1,
+    "Action": 1485
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Button": 2,
+    "Action": 4083
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 1,
+    "Action": 403
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 2,
+    "Action": 331
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 3,
+    "Action": 4083
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 1,
+    "Action": 5176
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 2,
+    "Action": 5185
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 3,
+    "Action": 4083
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Button": 11,
+    "Action": -4536
+  },
+  {
+    "Race": 7,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 7,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 7,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Button": 1,
+    "Action": 133
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Button": 2,
+    "Action": 168
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Button": 11,
+    "Action": -4536
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Button": 1,
+    "Action": 686
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Button": 2,
+    "Action": 687
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 8,
+    "Class": 1,
+    "Button": 72,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 1,
+    "Button": 73,
+    "Action": 78
+  },
+  {
+    "Race": 8,
+    "Class": 1,
+    "Button": 74,
+    "Action": 2764
+  },
+  {
+    "Race": 8,
+    "Class": 1,
+    "Button": 83,
+    "Action": -117
+  },
+  {
+    "Race": 8,
+    "Class": 3,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 3,
+    "Button": 1,
+    "Action": 1485
+  },
+  {
+    "Race": 8,
+    "Class": 3,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 8,
+    "Class": 3,
+    "Button": 11,
+    "Action": -4604
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Button": 1,
+    "Action": 1752
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Button": 2,
+    "Action": 2098
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Button": 3,
+    "Action": 2764
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Button": 1,
+    "Action": 585
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Button": 2,
+    "Action": 2050
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Button": 11,
+    "Action": -4540
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Button": 1,
+    "Action": 403
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Button": 2,
+    "Action": 331
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Button": 11,
+    "Action": -117
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Button": 0,
+    "Action": 6603
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Button": 1,
+    "Action": 133
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Button": 2,
+    "Action": 168
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Button": 10,
+    "Action": -159
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Button": 11,
+    "Action": -117
+  }
+]

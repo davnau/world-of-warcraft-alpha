@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>BattleNet.Protocol</AssemblyName>
+    <RootNamespace>BattleNet.Protocol</RootNamespace>
+  </PropertyGroup>
+</Project>

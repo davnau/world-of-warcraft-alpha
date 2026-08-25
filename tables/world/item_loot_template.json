@@ -1,0 +1,5411 @@
+[
+  {
+    "entry": 4632,
+    "item": 2002,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2002,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4632,
+    "item": 2003,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2003,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4633,
+    "item": 2011,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2011,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4633,
+    "item": 2012,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2012,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4633,
+    "item": 2013,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2013,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4633,
+    "item": 2014,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2014,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4634,
+    "item": 2022,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2022,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4634,
+    "item": 2023,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2023,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4634,
+    "item": 2024,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2024,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4636,
+    "item": 2032,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2032,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4636,
+    "item": 2033,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2033,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4636,
+    "item": 2034,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2034,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4637,
+    "item": 2042,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2042,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4637,
+    "item": 2043,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2043,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4637,
+    "item": 2044,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2044,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4638,
+    "item": 2052,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2052,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4638,
+    "item": 2053,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2053,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 4638,
+    "item": 2054,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2054,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5335,
+    "item": 4957,
+    "ChanceOrQuestChance": 99.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5523,
+    "item": 5498,
+    "ChanceOrQuestChance": 5,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5523,
+    "item": 5503,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5524,
+    "item": 5498,
+    "ChanceOrQuestChance": 5,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5524,
+    "item": 5500,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5524,
+    "item": 5504,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5738,
+    "item": 5692,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5738,
+    "item": 5693,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5738,
+    "item": 5694,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5738,
+    "item": 5695,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5738,
+    "item": 5737,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5758,
+    "item": 2061,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2061,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5758,
+    "item": 2062,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2062,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5758,
+    "item": 2063,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2063,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5758,
+    "item": 2064,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2064,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5759,
+    "item": 2072,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": -2072,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5759,
+    "item": 2073,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2073,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5759,
+    "item": 2074,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2074,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5760,
+    "item": 2093,
+    "ChanceOrQuestChance": 100,
+    "groupid": 1,
+    "mincountOrRef": -2093,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 5760,
+    "item": 2094,
+    "ChanceOrQuestChance": 3,
+    "groupid": 1,
+    "mincountOrRef": -2094,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 954,
+    "ChanceOrQuestChance": 9.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 955,
+    "ChanceOrQuestChance": 8.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 1180,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 1181,
+    "ChanceOrQuestChance": 11.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 1478,
+    "ChanceOrQuestChance": 9.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 1712,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 3012,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 3013,
+    "ChanceOrQuestChance": 8.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 4294,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 4363,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 4377,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 4382,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 6304,
+    "ChanceOrQuestChance": 6.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 6305,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 6306,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6307,
+    "item": 6348,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6351,
+    "item": 2318,
+    "ChanceOrQuestChance": 4.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6351,
+    "item": 4359,
+    "ChanceOrQuestChance": 28.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6351,
+    "item": 4361,
+    "ChanceOrQuestChance": 7.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6351,
+    "item": 4363,
+    "ChanceOrQuestChance": 17.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6351,
+    "item": 4364,
+    "ChanceOrQuestChance": 46.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 4363,
+    "ChanceOrQuestChance": 28,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 4364,
+    "ChanceOrQuestChance": 14.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 4371,
+    "ChanceOrQuestChance": 11,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 4377,
+    "ChanceOrQuestChance": 36.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 4382,
+    "ChanceOrQuestChance": 9.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6352,
+    "item": 6304,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1499,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1501,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1505,
+    "ChanceOrQuestChance": 2.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1731,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1738,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1740,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1744,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1769,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1770,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1787,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1791,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1793,
+    "ChanceOrQuestChance": 3.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1794,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 1817,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 2215,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 2318,
+    "ChanceOrQuestChance": 30.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 2319,
+    "ChanceOrQuestChance": 14.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 2996,
+    "ChanceOrQuestChance": 18.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 2997,
+    "ChanceOrQuestChance": 8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 3376,
+    "ChanceOrQuestChance": 2.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 4677,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6353,
+    "item": 6271,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1746,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1748,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1758,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1759,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1760,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1772,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1774,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1780,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1783,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1784,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1785,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1796,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1798,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1800,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1801,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1803,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1804,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1805,
+    "ChanceOrQuestChance": 2.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1806,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1807,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1808,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1810,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1818,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1819,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1823,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1824,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1830,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 1831,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2220,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2221,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2222,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2319,
+    "ChanceOrQuestChance": 38.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2782,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2783,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 2997,
+    "ChanceOrQuestChance": 27.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 3013,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 3378,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 3381,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 3611,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 3656,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 4234,
+    "ChanceOrQuestChance": 9.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 4305,
+    "ChanceOrQuestChance": 2.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 4339,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 4663,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 5576,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 6344,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6354,
+    "item": 6395,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 2319,
+    "ChanceOrQuestChance": 29.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 2997,
+    "ChanceOrQuestChance": 26.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3783,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3793,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3794,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3796,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3798,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3799,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3801,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3802,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3809,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3812,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 3816,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 4066,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 4234,
+    "ChanceOrQuestChance": 16.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 4305,
+    "ChanceOrQuestChance": 16.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6355,
+    "item": 4377,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1415,
+    "ChanceOrQuestChance": 16.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1418,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1419,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1420,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1421,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1422,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1423,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1425,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1427,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1429,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1430,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1431,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 1433,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2212,
+    "ChanceOrQuestChance": 2.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2213,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2318,
+    "ChanceOrQuestChance": 34.4,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2642,
+    "ChanceOrQuestChance": 2.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2643,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2644,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2648,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 2996,
+    "ChanceOrQuestChance": 37.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 3370,
+    "ChanceOrQuestChance": 1.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6356,
+    "item": 3373,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6357,
+    "item": 4377,
+    "ChanceOrQuestChance": 60.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6357,
+    "item": 4382,
+    "ChanceOrQuestChance": 10.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6357,
+    "item": 4387,
+    "ChanceOrQuestChance": 24.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6357,
+    "item": 4389,
+    "ChanceOrQuestChance": 4.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6643,
+    "item": 774,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6643,
+    "item": 818,
+    "ChanceOrQuestChance": 20,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6645,
+    "item": 774,
+    "ChanceOrQuestChance": 10,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6645,
+    "item": 818,
+    "ChanceOrQuestChance": 45,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6645,
+    "item": 1206,
+    "ChanceOrQuestChance": 15,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6645,
+    "item": 1210,
+    "ChanceOrQuestChance": 30,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 1206,
+    "ChanceOrQuestChance": 47,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 1210,
+    "ChanceOrQuestChance": 8,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 1529,
+    "ChanceOrQuestChance": 12,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 1705,
+    "ChanceOrQuestChance": 30,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 4998,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 4999,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 5001,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6647,
+    "item": 5002,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 774,
+    "ChanceOrQuestChance": 59.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 818,
+    "ChanceOrQuestChance": 57.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 1206,
+    "ChanceOrQuestChance": 76.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 1210,
+    "ChanceOrQuestChance": 69.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 1529,
+    "ChanceOrQuestChance": 15.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 1705,
+    "ChanceOrQuestChance": 19,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 5498,
+    "ChanceOrQuestChance": 63.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6755,
+    "item": 5500,
+    "ChanceOrQuestChance": 83,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 929,
+    "ChanceOrQuestChance": 3.1,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 1477,
+    "ChanceOrQuestChance": 15.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 1710,
+    "ChanceOrQuestChance": 3.8,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 1711,
+    "ChanceOrQuestChance": 2.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 2289,
+    "ChanceOrQuestChance": 2.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 2290,
+    "ChanceOrQuestChance": 2.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 2453,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 3,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3355,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3356,
+    "ChanceOrQuestChance": 2.5,
+    "groupid": 0,
+    "mincountOrRef": 3,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3357,
+    "ChanceOrQuestChance": 3.4,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3385,
+    "ChanceOrQuestChance": 2.5,
+    "groupid": 0,
+    "mincountOrRef": 3,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3818,
+    "ChanceOrQuestChance": 2.5,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 3827,
+    "ChanceOrQuestChance": 5.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 4421,
+    "ChanceOrQuestChance": 2.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 4424,
+    "ChanceOrQuestChance": 2.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 6827,
+    "item": 6402,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 7190,
+    "item": 4234,
+    "ChanceOrQuestChance": 82.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 7973,
+    "item": 5498,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 7973,
+    "item": 5500,
+    "ChanceOrQuestChance": 2.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 1529,
+    "ChanceOrQuestChance": 47,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 1705,
+    "ChanceOrQuestChance": 15,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 3864,
+    "ChanceOrQuestChance": 25,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 4614,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 5003,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 5007,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 5009,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8366,
+    "item": 5011,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 1645,
+    "ChanceOrQuestChance": 98.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 3928,
+    "ChanceOrQuestChance": 23,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 4419,
+    "ChanceOrQuestChance": 3.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 4422,
+    "ChanceOrQuestChance": 3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 4425,
+    "ChanceOrQuestChance": 2.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 4426,
+    "ChanceOrQuestChance": 1.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 4602,
+    "ChanceOrQuestChance": 98.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 8484,
+    "item": 6149,
+    "ChanceOrQuestChance": 25.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 1685,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 3864,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4045,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4046,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4047,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4058,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4062,
+    "ChanceOrQuestChance": 5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4063,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4734,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4735,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4737,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 4738,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 6415,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 6424,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 6425,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 6428,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9265,
+    "item": 6429,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9363,
+    "item": 30548,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": -30548,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9539,
+    "item": 1645,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 9539,
+    "item": 3928,
+    "ChanceOrQuestChance": 22.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9539,
+    "item": 4602,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 9539,
+    "item": 6149,
+    "ChanceOrQuestChance": 26.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 1477,
+    "ChanceOrQuestChance": 27.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 2289,
+    "ChanceOrQuestChance": 6.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4419,
+    "ChanceOrQuestChance": 34.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4421,
+    "ChanceOrQuestChance": 31,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4422,
+    "ChanceOrQuestChance": 37.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4424,
+    "ChanceOrQuestChance": 51.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4425,
+    "ChanceOrQuestChance": 6.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 9540,
+    "item": 4426,
+    "ChanceOrQuestChance": 13.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10479,
+    "item": 4082,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10479,
+    "item": 4338,
+    "ChanceOrQuestChance": 40.5,
+    "groupid": 0,
+    "mincountOrRef": 4,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 10479,
+    "item": 6430,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 929,
+    "ChanceOrQuestChance": 4.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1529,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1707,
+    "ChanceOrQuestChance": 15,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1708,
+    "ChanceOrQuestChance": 40,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1710,
+    "ChanceOrQuestChance": 9.8,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1725,
+    "ChanceOrQuestChance": 4.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 1988,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2319,
+    "ChanceOrQuestChance": 8.4,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2453,
+    "ChanceOrQuestChance": 4.7,
+    "groupid": 0,
+    "mincountOrRef": 3,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2771,
+    "ChanceOrQuestChance": 7.9,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2772,
+    "ChanceOrQuestChance": 5.8,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2775,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2776,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2836,
+    "ChanceOrQuestChance": 6.1,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 2838,
+    "ChanceOrQuestChance": 4.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3355,
+    "ChanceOrQuestChance": 3.8,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3356,
+    "ChanceOrQuestChance": 2.6,
+    "groupid": 0,
+    "mincountOrRef": 3,
+    "maxcount": 7,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3357,
+    "ChanceOrQuestChance": 4.4,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3385,
+    "ChanceOrQuestChance": 6.1,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3771,
+    "ChanceOrQuestChance": 16.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3792,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3793,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3794,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3795,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3796,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3798,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3799,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3800,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3802,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3803,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3805,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3808,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3809,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3810,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3813,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3814,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3816,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3817,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3818,
+    "ChanceOrQuestChance": 6.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3827,
+    "ChanceOrQuestChance": 9.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 3864,
+    "ChanceOrQuestChance": 2.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4041,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4042,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4043,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4057,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4059,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4060,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4074,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4078,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4079,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4232,
+    "ChanceOrQuestChance": 3.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4234,
+    "ChanceOrQuestChance": 16.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4235,
+    "ChanceOrQuestChance": 3.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4305,
+    "ChanceOrQuestChance": 6.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4306,
+    "ChanceOrQuestChance": 15.2,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4338,
+    "ChanceOrQuestChance": 5.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4539,
+    "ChanceOrQuestChance": 20.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4544,
+    "ChanceOrQuestChance": 20.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4607,
+    "ChanceOrQuestChance": 23.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4725,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4726,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4729,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4731,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 4732,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 5009,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 5011,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6402,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6405,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6412,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6413,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6416,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6417,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6418,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6419,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6420,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6421,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10569,
+    "item": 6422,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 1203,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 1685,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 2564,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 4084,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 4733,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 10752,
+    "item": 5266,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 785,
+    "ChanceOrQuestChance": 6,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 2449,
+    "ChanceOrQuestChance": 9,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 2450,
+    "ChanceOrQuestChance": 6,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 3356,
+    "ChanceOrQuestChance": 10,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 3357,
+    "ChanceOrQuestChance": 7,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 3820,
+    "ChanceOrQuestChance": 4,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 3821,
+    "ChanceOrQuestChance": 4,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11024,
+    "item": 4625,
+    "ChanceOrQuestChance": 2,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11422,
+    "item": 4394,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 4,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 11422,
+    "item": 4416,
+    "ChanceOrQuestChance": 5,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11422,
+    "item": 4417,
+    "ChanceOrQuestChance": 5,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11568,
+    "item": 2450,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11568,
+    "item": 3820,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 1645,
+    "ChanceOrQuestChance": 71.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 10,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 2450,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3108,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3356,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3669,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3829,
+    "ChanceOrQuestChance": 15.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3927,
+    "ChanceOrQuestChance": 74.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 10,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 3928,
+    "ChanceOrQuestChance": 42.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4419,
+    "ChanceOrQuestChance": 11.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4421,
+    "ChanceOrQuestChance": 8.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4422,
+    "ChanceOrQuestChance": 12.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4424,
+    "ChanceOrQuestChance": 8.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4425,
+    "ChanceOrQuestChance": 14.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4426,
+    "ChanceOrQuestChance": 12.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 4623,
+    "ChanceOrQuestChance": 12.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11887,
+    "item": 6149,
+    "ChanceOrQuestChance": 44.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 11937,
+    "item": 818,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11937,
+    "item": 1210,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 11937,
+    "item": 1529,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11937,
+    "item": 3864,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11937,
+    "item": 5498,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 774,
+    "ChanceOrQuestChance": 62,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 818,
+    "ChanceOrQuestChance": 53.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 1206,
+    "ChanceOrQuestChance": 61.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 1210,
+    "ChanceOrQuestChance": 60.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 1529,
+    "ChanceOrQuestChance": 59.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 1705,
+    "ChanceOrQuestChance": 65.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 3864,
+    "ChanceOrQuestChance": 27.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 5498,
+    "ChanceOrQuestChance": 38.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 11938,
+    "item": 5500,
+    "ChanceOrQuestChance": 20.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 12033,
+    "item": 1206,
+    "ChanceOrQuestChance": 15,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 12033,
+    "item": 1529,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 12033,
+    "item": 1705,
+    "ChanceOrQuestChance": 45,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 12033,
+    "item": 3864,
+    "ChanceOrQuestChance": 45,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 12033,
+    "item": 5500,
+    "ChanceOrQuestChance": 30,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 2077,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 2319,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 2997,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3430,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3942,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3943,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3961,
+    "ChanceOrQuestChance": 17.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3962,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3965,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3967,
+    "ChanceOrQuestChance": 2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3968,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3986,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 3989,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4002,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4004,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4007,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4017,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4020,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4089,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4234,
+    "ChanceOrQuestChance": 33.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4304,
+    "ChanceOrQuestChance": 13.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4305,
+    "ChanceOrQuestChance": 31.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4339,
+    "ChanceOrQuestChance": 13.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13875,
+    "item": 4705,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13881,
+    "item": 3864,
+    "ChanceOrQuestChance": 20,
+    "groupid": 1,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 3975,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 3993,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 3999,
+    "ChanceOrQuestChance": 0.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 4234,
+    "ChanceOrQuestChance": 4.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 4304,
+    "ChanceOrQuestChance": 28.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 4339,
+    "ChanceOrQuestChance": 52.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 13918,
+    "item": 4414,
+    "ChanceOrQuestChance": 4.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 765,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 785,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 1645,
+    "ChanceOrQuestChance": 2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 2447,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 2449,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 2450,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 2452,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 2453,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3669,
+    "ChanceOrQuestChance": 11.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3670,
+    "ChanceOrQuestChance": 10.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3671,
+    "ChanceOrQuestChance": 10.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3673,
+    "ChanceOrQuestChance": 12.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3674,
+    "ChanceOrQuestChance": 11.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3676,
+    "ChanceOrQuestChance": 10.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3818,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3819,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3820,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3821,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 3928,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 4608,
+    "ChanceOrQuestChance": 5.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 4625,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15102,
+    "item": 6149,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 765,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 785,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 1645,
+    "ChanceOrQuestChance": 2.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 2447,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 2449,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 2450,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 2452,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 2453,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3669,
+    "ChanceOrQuestChance": 11.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3670,
+    "ChanceOrQuestChance": 12,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3671,
+    "ChanceOrQuestChance": 11.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3673,
+    "ChanceOrQuestChance": 12.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3674,
+    "ChanceOrQuestChance": 10.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3676,
+    "ChanceOrQuestChance": 11.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3818,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3819,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3820,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3821,
+    "ChanceOrQuestChance": 0.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 3928,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 4419,
+    "ChanceOrQuestChance": 0.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 4425,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 4608,
+    "ChanceOrQuestChance": 4.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 4625,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15103,
+    "item": 6149,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15699,
+    "item": 2449,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15699,
+    "item": 3356,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15699,
+    "item": 3821,
+    "ChanceOrQuestChance": 1.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15699,
+    "item": 4425,
+    "ChanceOrQuestChance": 6.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15699,
+    "item": 4426,
+    "ChanceOrQuestChance": 7.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 15902,
+    "item": 30495,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": -30495,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 422,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 929,
+    "ChanceOrQuestChance": 10.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1000,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": -1000,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1005,
+    "ChanceOrQuestChance": 3,
+    "groupid": 0,
+    "mincountOrRef": -1005,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1006,
+    "ChanceOrQuestChance": 3,
+    "groupid": 0,
+    "mincountOrRef": -1006,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1206,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1529,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1705,
+    "ChanceOrQuestChance": 1.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 1710,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 2836,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 3013,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 3864,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5374,
+    "ChanceOrQuestChance": 10.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5498,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5500,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5503,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5504,
+    "ChanceOrQuestChance": 0.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 5568,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16882,
+    "item": 6409,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1002,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": -1002,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1007,
+    "ChanceOrQuestChance": 1.6,
+    "groupid": 0,
+    "mincountOrRef": -1007,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1008,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": -1008,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1009,
+    "ChanceOrQuestChance": 0.65,
+    "groupid": 0,
+    "mincountOrRef": -1009,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1529,
+    "ChanceOrQuestChance": 1.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1645,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1708,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1710,
+    "ChanceOrQuestChance": 13,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 1712,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 2928,
+    "ChanceOrQuestChance": 19.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 2930,
+    "ChanceOrQuestChance": 18.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 3771,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 3864,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 3914,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 3928,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4234,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4425,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4539,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4544,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4601,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4602,
+    "ChanceOrQuestChance": 0.3,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 4607,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5140,
+    "ChanceOrQuestChance": 5.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5173,
+    "ChanceOrQuestChance": 19.3,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5374,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5427,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5429,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5431,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5433,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5498,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5504,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 5530,
+    "ChanceOrQuestChance": 11.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 16883,
+    "item": 6149,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 785,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 1010,
+    "ChanceOrQuestChance": 1.2,
+    "groupid": 0,
+    "mincountOrRef": -1010,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 1011,
+    "ChanceOrQuestChance": 1.55,
+    "groupid": 0,
+    "mincountOrRef": -1011,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 1645,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 1710,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 2164,
+    "ChanceOrQuestChance": 1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 2928,
+    "ChanceOrQuestChance": 19.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 2930,
+    "ChanceOrQuestChance": 19.7,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3356,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3419,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3818,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3829,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3864,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3927,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 3928,
+    "ChanceOrQuestChance": 10,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4305,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4425,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4601,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4602,
+    "ChanceOrQuestChance": 0.4,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4623,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 4625,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5140,
+    "ChanceOrQuestChance": 10.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 5,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5173,
+    "ChanceOrQuestChance": 17.9,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 7,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5428,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5432,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5498,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5500,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 5530,
+    "ChanceOrQuestChance": 22.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 6,
+    "condition_id": 0
+  },
+  {
+    "entry": 16884,
+    "item": 6149,
+    "ChanceOrQuestChance": 0.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 785,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 1012,
+    "ChanceOrQuestChance": 1.45,
+    "groupid": 0,
+    "mincountOrRef": -1012,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 1013,
+    "ChanceOrQuestChance": 1.4,
+    "groupid": 0,
+    "mincountOrRef": -1013,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 1014,
+    "ChanceOrQuestChance": 0.5,
+    "groupid": 0,
+    "mincountOrRef": -1014,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 2450,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 2928,
+    "ChanceOrQuestChance": 19.8,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 2930,
+    "ChanceOrQuestChance": 20.4,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 2,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 3356,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 3357,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 3419,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 3821,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 3928,
+    "ChanceOrQuestChance": 0.2,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 5140,
+    "ChanceOrQuestChance": 20.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 9,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 5173,
+    "ChanceOrQuestChance": 19.1,
+    "groupid": 0,
+    "mincountOrRef": 2,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 5428,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 5500,
+    "ChanceOrQuestChance": 0.05,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  },
+  {
+    "entry": 16885,
+    "item": 5530,
+    "ChanceOrQuestChance": 42.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 8,
+    "condition_id": 0
+  },
+  {
+    "entry": 17727,
+    "item": 785,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 10,
+    "maxcount": 10,
+    "condition_id": 0
+  },
+  {
+    "entry": 17727,
+    "item": 2318,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 10,
+    "maxcount": 10,
+    "condition_id": 0
+  },
+  {
+    "entry": 17727,
+    "item": 2840,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 10,
+    "maxcount": 10,
+    "condition_id": 0
+  },
+  {
+    "entry": 17727,
+    "item": 2996,
+    "ChanceOrQuestChance": 0,
+    "groupid": 1,
+    "mincountOrRef": 4,
+    "maxcount": 4,
+    "condition_id": 0
+  },
+  {
+    "entry": 17962,
+    "item": 1529,
+    "ChanceOrQuestChance": 67.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17962,
+    "item": 3864,
+    "ChanceOrQuestChance": 55.9,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17963,
+    "item": 1529,
+    "ChanceOrQuestChance": 84.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17963,
+    "item": 3864,
+    "ChanceOrQuestChance": 71.7,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17964,
+    "item": 1529,
+    "ChanceOrQuestChance": 76.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17964,
+    "item": 3864,
+    "ChanceOrQuestChance": 61.8,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17965,
+    "item": 1529,
+    "ChanceOrQuestChance": 73.5,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17965,
+    "item": 3864,
+    "ChanceOrQuestChance": 47.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17969,
+    "item": 1529,
+    "ChanceOrQuestChance": 89.6,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17969,
+    "item": 3864,
+    "ChanceOrQuestChance": 77.1,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 3,
+    "condition_id": 0
+  },
+  {
+    "entry": 17969,
+    "item": 6332,
+    "ChanceOrQuestChance": 100,
+    "groupid": 0,
+    "mincountOrRef": 1,
+    "maxcount": 1,
+    "condition_id": 0
+  }
+]

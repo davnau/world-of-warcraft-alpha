@@ -1,0 +1,5 @@
+#include "ENGINE/Source/Os/W32/osjoystick.h"
+#include <windows.h>
+#include <mmsystem.h>
+namespace{unsigned s_open=UINT_MAX;JOYCAPSA Caps(unsigned i){JOYCAPSA c{};joyGetDevCapsA(i,&c,sizeof(c));return c;}JOYINFOEX Info(unsigned i){JOYINFOEX x{sizeof(x),JOY_RETURNALL};joyGetPosEx(i,&x);return x;}}
+int __fastcall OsNumJoysticks(){return int(joyGetNumDevs());}unsigned __fastcall OsOpenJoystick(unsigned i){JOYINFOEX x=Info(i);if(joyGetPosEx(i,&x)!=JOYERR_NOERROR)return 0;s_open=i;return 1;}void OsCloseJoystick(){s_open=UINT_MAX;}unsigned __fastcall OsGetNumButtons(unsigned i){return Caps(i).wNumButtons;}unsigned __fastcall OsGetNumAxes(unsigned i){return Caps(i).wNumAxes;}unsigned __fastcall OsGetButtonState(unsigned i){return Info(i).dwButtons;}unsigned __fastcall OsGetButtonState(unsigned i,unsigned b){return (Info(i).dwButtons&(1U<<b))!=0;}int __fastcall OsGetAxisState(unsigned i,unsigned a){JOYINFOEX x=Info(i);DWORD v[]={x.dwXpos,x.dwYpos,x.dwZpos,x.dwRpos,x.dwUpos,x.dwVpos};return a<6?int(v[a])-32767:0;}

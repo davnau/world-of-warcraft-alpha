@@ -1,0 +1,297 @@
+{
+  "source": "Alpha Core world.sql",
+  "tables": [
+    {
+      "name": "applied_item_updates",
+      "rows": 3624
+    },
+    {
+      "name": "applied_updates",
+      "rows": 470
+    },
+    {
+      "name": "area_template",
+      "rows": 1081
+    },
+    {
+      "name": "area_trigger_scripts",
+      "rows": 1
+    },
+    {
+      "name": "areatrigger_quest_relation",
+      "rows": 22
+    },
+    {
+      "name": "areatrigger_teleport",
+      "rows": 101
+    },
+    {
+      "name": "broadcast_text",
+      "rows": 11108
+    },
+    {
+      "name": "conditions",
+      "rows": 1761
+    },
+    {
+      "name": "creature_addon",
+      "rows": 6444
+    },
+    {
+      "name": "creature_ai_events",
+      "rows": 5823
+    },
+    {
+      "name": "creature_ai_scripts",
+      "rows": 6882
+    },
+    {
+      "name": "creature_classlevelstats",
+      "rows": 765
+    },
+    {
+      "name": "creature_equip_template",
+      "rows": 4152
+    },
+    {
+      "name": "creature_groups",
+      "rows": 5673
+    },
+    {
+      "name": "creature_loot_template",
+      "rows": 127052
+    },
+    {
+      "name": "creature_model_info",
+      "rows": 10534
+    },
+    {
+      "name": "creature_movement",
+      "rows": 68393
+    },
+    {
+      "name": "creature_movement_scripts",
+      "rows": 1788
+    },
+    {
+      "name": "creature_movement_special",
+      "rows": 1485
+    },
+    {
+      "name": "creature_movement_template",
+      "rows": 8988
+    },
+    {
+      "name": "creature_onkill_reputation",
+      "rows": 127
+    },
+    {
+      "name": "creature_quest_finisher",
+      "rows": 2665
+    },
+    {
+      "name": "creature_quest_starter",
+      "rows": 2576
+    },
+    {
+      "name": "creature_spells",
+      "rows": 1662
+    },
+    {
+      "name": "creature_spells_scripts",
+      "rows": 15
+    },
+    {
+      "name": "creature_template",
+      "rows": 8592
+    },
+    {
+      "name": "default_profession_spell",
+      "rows": 37
+    },
+    {
+      "name": "event_scripts",
+      "rows": 356
+    },
+    {
+      "name": "exploration_base_xp",
+      "rows": 61
+    },
+    {
+      "name": "fishing_loot_template",
+      "rows": 1483
+    },
+    {
+      "name": "gameobject_loot_template",
+      "rows": 5927
+    },
+    {
+      "name": "gameobject_quest_finisher",
+      "rows": 184
+    },
+    {
+      "name": "gameobject_quest_starter",
+      "rows": 222
+    },
+    {
+      "name": "gameobject_scripts",
+      "rows": 129
+    },
+    {
+      "name": "gameobject_template",
+      "rows": 8093
+    },
+    {
+      "name": "generic_scripts",
+      "rows": 2526
+    },
+    {
+      "name": "gossip_menu",
+      "rows": 3175
+    },
+    {
+      "name": "item_loot_template",
+      "rows": 601
+    },
+    {
+      "name": "item_template",
+      "rows": 13120
+    },
+    {
+      "name": "npc_gossip",
+      "rows": 1567
+    },
+    {
+      "name": "npc_text",
+      "rows": 4490
+    },
+    {
+      "name": "npc_trainer_greeting",
+      "rows": 490
+    },
+    {
+      "name": "npc_vendor",
+      "rows": 7984
+    },
+    {
+      "name": "npc_vendor_template",
+      "rows": 51
+    },
+    {
+      "name": "page_text",
+      "rows": 1256
+    },
+    {
+      "name": "pet_levelstats",
+      "rows": 1203
+    },
+    {
+      "name": "pickpocketing_loot_template",
+      "rows": 4848
+    },
+    {
+      "name": "player_classlevelstats",
+      "rows": 540
+    },
+    {
+      "name": "player_levelstats",
+      "rows": 2400
+    },
+    {
+      "name": "playercreateinfo",
+      "rows": 41
+    },
+    {
+      "name": "playercreateinfo_action",
+      "rows": 198
+    },
+    {
+      "name": "playercreateinfo_item",
+      "rows": 259
+    },
+    {
+      "name": "playercreateinfo_spell",
+      "rows": 1042
+    },
+    {
+      "name": "pool_creature",
+      "rows": 93
+    },
+    {
+      "name": "pool_creature_template",
+      "rows": 50
+    },
+    {
+      "name": "pool_gameobject",
+      "rows": 22676
+    },
+    {
+      "name": "pool_gameobject_template",
+      "rows": 84
+    },
+    {
+      "name": "pool_pool",
+      "rows": 4086
+    },
+    {
+      "name": "pool_template",
+      "rows": 4930
+    },
+    {
+      "name": "quest_end_scripts",
+      "rows": 1631
+    },
+    {
+      "name": "quest_greeting",
+      "rows": 173
+    },
+    {
+      "name": "quest_start_scripts",
+      "rows": 691
+    },
+    {
+      "name": "quest_template",
+      "rows": 2854
+    },
+    {
+      "name": "reference_loot_template",
+      "rows": 1770
+    },
+    {
+      "name": "skill_fishing_base_level",
+      "rows": 56
+    },
+    {
+      "name": "skinning_loot_template",
+      "rows": 1812
+    },
+    {
+      "name": "spawns_creatures",
+      "rows": 57065
+    },
+    {
+      "name": "spawns_gameobjects",
+      "rows": 35182
+    },
+    {
+      "name": "spell_chain",
+      "rows": 572
+    },
+    {
+      "name": "spell_script_target",
+      "rows": 25
+    },
+    {
+      "name": "spell_target_position",
+      "rows": 34
+    },
+    {
+      "name": "trainer_template",
+      "rows": 1534
+    },
+    {
+      "name": "worldports",
+      "rows": 1522
+    }
+  ]
+}

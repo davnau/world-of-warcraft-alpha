@@ -1,0 +1,653 @@
+[
+  {
+    "guid": 300739,
+    "pool_entry": 32901,
+    "chance": 15,
+    "description": "Skul",
+    "flags": 0
+  },
+  {
+    "guid": 300740,
+    "pool_entry": 32901,
+    "chance": 15,
+    "description": "Skul",
+    "flags": 0
+  },
+  {
+    "guid": 52838,
+    "pool_entry": 32901,
+    "chance": 0,
+    "description": "Gardien squelettique",
+    "flags": 0
+  },
+  {
+    "guid": 52621,
+    "pool_entry": 32901,
+    "chance": 0,
+    "description": "Gardien squelettique",
+    "flags": 0
+  },
+  {
+    "guid": 40466,
+    "pool_entry": 22901,
+    "chance": 0,
+    "description": "Elite Main-noire",
+    "flags": 0
+  },
+  {
+    "guid": 300741,
+    "pool_entry": 22901,
+    "chance": 15,
+    "description": "Jed Runewatcher",
+    "flags": 0
+  },
+  {
+    "guid": 90627,
+    "pool_entry": 23001,
+    "chance": 0,
+    "description": "Paysan Ombreforge",
+    "flags": 0
+  },
+  {
+    "guid": 47771,
+    "pool_entry": 23001,
+    "chance": 15,
+    "description": "Pyromancer Loregrain",
+    "flags": 0
+  },
+  {
+    "guid": 47777,
+    "pool_entry": 23002,
+    "chance": 0,
+    "description": "Golem de lave de guerre",
+    "flags": 0
+  },
+  {
+    "guid": 300627,
+    "pool_entry": 23002,
+    "chance": 15,
+    "description": "Panzor the Invincible",
+    "flags": 0
+  },
+  {
+    "guid": 84082,
+    "pool_entry": 3601,
+    "chance": 0,
+    "description": "Miner Johson - placeholder (Defias Miner)",
+    "flags": 0
+  },
+  {
+    "guid": 45763,
+    "pool_entry": 22903,
+    "chance": 0,
+    "description": "Ecumeur Hache Sanglante",
+    "flags": 0
+  },
+  {
+    "guid": 300742,
+    "pool_entry": 22903,
+    "chance": 15,
+    "description": "Ghok Bashguud",
+    "flags": 0
+  },
+  {
+    "guid": 44376,
+    "pool_entry": 22904,
+    "chance": 0,
+    "description": "Jeune araignée du Pic",
+    "flags": 0
+  },
+  {
+    "guid": 44422,
+    "pool_entry": 22904,
+    "chance": 15,
+    "description": "Crystal Fang",
+    "flags": 0
+  },
+  {
+    "guid": 300743,
+    "pool_entry": 22905,
+    "chance": 0,
+    "description": "Massacreur pierre du pic",
+    "flags": 0
+  },
+  {
+    "guid": 43523,
+    "pool_entry": 22905,
+    "chance": 15,
+    "description": "Spirestone Butcher",
+    "flags": 0
+  },
+  {
+    "guid": 43516,
+    "pool_entry": 22906,
+    "chance": 0,
+    "description": "Ogre Magus pierre du pic",
+    "flags": 0
+  },
+  {
+    "guid": 300744,
+    "pool_entry": 22906,
+    "chance": 15,
+    "description": "Spirestone Battle Lord",
+    "flags": 0
+  },
+  {
+    "guid": 43509,
+    "pool_entry": 22907,
+    "chance": 0,
+    "description": "Ogre Magus pierre du pic",
+    "flags": 0
+  },
+  {
+    "guid": 43521,
+    "pool_entry": 22907,
+    "chance": 15,
+    "description": "Spirestone Lord Magus",
+    "flags": 0
+  },
+  {
+    "guid": 79090,
+    "pool_entry": 10001,
+    "chance": 15,
+    "description": "Bruegal Ironknuckle",
+    "flags": 0
+  },
+  {
+    "guid": 79091,
+    "pool_entry": 10001,
+    "chance": 0,
+    "description": "Defias Inmate",
+    "flags": 0
+  },
+  {
+    "guid": 69113,
+    "pool_entry": 2453,
+    "chance": 0,
+    "description": "Lo'Grosh (Youfie)",
+    "flags": 0
+  },
+  {
+    "guid": 301285,
+    "pool_entry": 2453,
+    "chance": 0,
+    "description": "Lo'Grosh (Youfie)",
+    "flags": 0
+  },
+  {
+    "guid": 84079,
+    "pool_entry": 3601,
+    "chance": 20,
+    "description": "Miner Johnson (3586) Deadmines",
+    "flags": 0
+  },
+  {
+    "guid": 87485,
+    "pool_entry": 4701,
+    "chance": 30,
+    "description": "Blind Hunter (4425) Razorfen Kraul",
+    "flags": 0
+  },
+  {
+    "guid": 300379,
+    "pool_entry": 4702,
+    "chance": 30,
+    "description": "Earthcaller Halmgar (4842) Razorfen Kraul",
+    "flags": 0
+  },
+  {
+    "guid": 87327,
+    "pool_entry": 4702,
+    "chance": 70,
+    "description": "Alternate creature to Halmgar (4842) Razorfen Kraul",
+    "flags": 0
+  },
+  {
+    "guid": 301710,
+    "pool_entry": 34901,
+    "chance": 30,
+    "description": "Meshlok the Harvester (12237) Maraudon",
+    "flags": 0
+  },
+  {
+    "guid": 54652,
+    "pool_entry": 34901,
+    "chance": 70,
+    "description": "Meshlok the Harvester (12237) Maraudon, alternate mob",
+    "flags": 0
+  },
+  {
+    "guid": 30132,
+    "pool_entry": 9001,
+    "chance": 70,
+    "description": "Alternate creature to Dark Iron Ambassador (6228) Gnomeregan",
+    "flags": 0
+  },
+  {
+    "guid": 300376,
+    "pool_entry": 9001,
+    "chance": 30,
+    "description": "Dark Iron Ambassador (6228) Gnomeregan",
+    "flags": 0
+  },
+  {
+    "guid": 31774,
+    "pool_entry": 12901,
+    "chance": 30,
+    "description": "Ragglesnout (7354) Razorfen Downs",
+    "flags": 0
+  },
+  {
+    "guid": 87241,
+    "pool_entry": 12901,
+    "chance": 70,
+    "description": "Alternate creature to Ragglesnout (7354) Razorfen Downs",
+    "flags": 0
+  },
+  {
+    "guid": 16440,
+    "pool_entry": 3301,
+    "chance": 30,
+    "description": "Fel Steed ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 300843,
+    "pool_entry": 3301,
+    "chance": 70,
+    "description": "Shadow Charger ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 16441,
+    "pool_entry": 3302,
+    "chance": 30,
+    "description": "Fel Steed ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 300844,
+    "pool_entry": 3302,
+    "chance": 70,
+    "description": "Shadow Charger ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 16442,
+    "pool_entry": 3303,
+    "chance": 30,
+    "description": "Fel Steed ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 300845,
+    "pool_entry": 3303,
+    "chance": 70,
+    "description": "Shadow Charger ShadowfandKeep",
+    "flags": 0
+  },
+  {
+    "guid": 39893,
+    "pool_entry": 18901,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 1",
+    "flags": 0
+  },
+  {
+    "guid": 39894,
+    "pool_entry": 18901,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 1",
+    "flags": 0
+  },
+  {
+    "guid": 39883,
+    "pool_entry": 18901,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 1",
+    "flags": 0
+  },
+  {
+    "guid": 39884,
+    "pool_entry": 18901,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 1",
+    "flags": 0
+  },
+  {
+    "guid": 39888,
+    "pool_entry": 18902,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 2",
+    "flags": 0
+  },
+  {
+    "guid": 39885,
+    "pool_entry": 18902,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 2",
+    "flags": 0
+  },
+  {
+    "guid": 39886,
+    "pool_entry": 18902,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 2",
+    "flags": 0
+  },
+  {
+    "guid": 39887,
+    "pool_entry": 18902,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 2",
+    "flags": 0
+  },
+  {
+    "guid": 12164,
+    "pool_entry": 18903,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 3",
+    "flags": 0
+  },
+  {
+    "guid": 39918,
+    "pool_entry": 18903,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 3",
+    "flags": 0
+  },
+  {
+    "guid": 39919,
+    "pool_entry": 18903,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 3",
+    "flags": 0
+  },
+  {
+    "guid": 39859,
+    "pool_entry": 18903,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 3",
+    "flags": 0
+  },
+  {
+    "guid": 39882,
+    "pool_entry": 18904,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 4",
+    "flags": 0
+  },
+  {
+    "guid": 39920,
+    "pool_entry": 18904,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 4",
+    "flags": 0
+  },
+  {
+    "guid": 39921,
+    "pool_entry": 18904,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 4",
+    "flags": 0
+  },
+  {
+    "guid": 39922,
+    "pool_entry": 18904,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 4",
+    "flags": 0
+  },
+  {
+    "guid": 39895,
+    "pool_entry": 18905,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 5",
+    "flags": 0
+  },
+  {
+    "guid": 39923,
+    "pool_entry": 18905,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 5",
+    "flags": 0
+  },
+  {
+    "guid": 39924,
+    "pool_entry": 18905,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 5",
+    "flags": 0
+  },
+  {
+    "guid": 39925,
+    "pool_entry": 18905,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 5",
+    "flags": 0
+  },
+  {
+    "guid": 39907,
+    "pool_entry": 18906,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 6",
+    "flags": 0
+  },
+  {
+    "guid": 39926,
+    "pool_entry": 18906,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 6",
+    "flags": 0
+  },
+  {
+    "guid": 39927,
+    "pool_entry": 18906,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 6",
+    "flags": 0
+  },
+  {
+    "guid": 39928,
+    "pool_entry": 18906,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 6",
+    "flags": 0
+  },
+  {
+    "guid": 39944,
+    "pool_entry": 18907,
+    "chance": 0,
+    "description": "Graveyard Random Rare Boss spawn 7",
+    "flags": 0
+  },
+  {
+    "guid": 39858,
+    "pool_entry": 18907,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 7",
+    "flags": 0
+  },
+  {
+    "guid": 39864,
+    "pool_entry": 18907,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 7",
+    "flags": 0
+  },
+  {
+    "guid": 39929,
+    "pool_entry": 18907,
+    "chance": 2,
+    "description": "Graveyard Random Rare Boss spawn 7",
+    "flags": 0
+  },
+  {
+    "guid": 17600,
+    "pool_entry": 2452,
+    "chance": 0,
+    "description": "Skhowl",
+    "flags": 0
+  },
+  {
+    "guid": 301286,
+    "pool_entry": 2452,
+    "chance": 0,
+    "description": "Skhowl",
+    "flags": 0
+  },
+  {
+    "guid": 40461,
+    "pool_entry": 5004,
+    "chance": 95,
+    "description": "Jed Runewatcher",
+    "flags": 0
+  },
+  {
+    "guid": 87490,
+    "pool_entry": 4701,
+    "chance": 0,
+    "description": "Blind Hunter - placeholder (Greater Kraul Bat)",
+    "flags": 0
+  },
+  {
+    "guid": 99291,
+    "pool_entry": 1601,
+    "chance": 30,
+    "description": "Deathsworn Captain",
+    "flags": 0
+  },
+  {
+    "guid": 134517,
+    "pool_entry": 1601,
+    "chance": 70,
+    "description": "Tormented Officer",
+    "flags": 0
+  },
+  {
+    "guid": 47774,
+    "pool_entry": 42907,
+    "chance": 100,
+    "description": "BRD : Warder Stilgiss",
+    "flags": 0
+  },
+  {
+    "guid": 47775,
+    "pool_entry": 42907,
+    "chance": 100,
+    "description": "BRD : Verek (pet of Warder Stilgiss)",
+    "flags": 0
+  },
+  {
+    "guid": 47895,
+    "pool_entry": 42908,
+    "chance": 100,
+    "description": "BRD : Anvilrage Guardsman",
+    "flags": 0
+  },
+  {
+    "guid": 47894,
+    "pool_entry": 42908,
+    "chance": 100,
+    "description": "BRD : Anvilrage Guardsman",
+    "flags": 0
+  },
+  {
+    "guid": 47893,
+    "pool_entry": 42908,
+    "chance": 100,
+    "description": "BRD : Anvilrage Guardsman",
+    "flags": 0
+  },
+  {
+    "guid": 47304,
+    "pool_entry": 42909,
+    "chance": 25,
+    "description": "BRD : Lord Roccor",
+    "flags": 0
+  },
+  {
+    "guid": 90861,
+    "pool_entry": 42909,
+    "chance": 0,
+    "description": "BRD : Bloodhound",
+    "flags": 0
+  },
+  {
+    "guid": 44170,
+    "pool_entry": 1501,
+    "chance": 0,
+    "description": "Zul'Farrak : Sandfury Shadowhunter",
+    "flags": 0
+  },
+  {
+    "guid": 155625,
+    "pool_entry": 1501,
+    "chance": 30,
+    "description": "Zul'Farrak : Zerillis",
+    "flags": 0
+  },
+  {
+    "guid": 44148,
+    "pool_entry": 1502,
+    "chance": 25,
+    "description": "Zul'Farrak : Sandarr Dunereaver",
+    "flags": 0
+  },
+  {
+    "guid": 44162,
+    "pool_entry": 1502,
+    "chance": 75,
+    "description": "Zul'Farrak : Sandfury Shadowcaster",
+    "flags": 0
+  },
+  {
+    "guid": 53805,
+    "pool_entry": 32979,
+    "chance": 0,
+    "description": "Strat - Rockwing Gargoyle / Rockwing Screecher / Stonespine",
+    "flags": 0
+  },
+  {
+    "guid": 53806,
+    "pool_entry": 32979,
+    "chance": 0,
+    "description": "Strat - Rockwing Gargoyle / Rockwing Screecher / Stonespine",
+    "flags": 0
+  },
+  {
+    "guid": 53807,
+    "pool_entry": 32979,
+    "chance": 15,
+    "description": "Strat - Rockwing Gargoyle / Rockwing Screecher / Stonespine",
+    "flags": 0
+  },
+  {
+    "guid": 43176,
+    "pool_entry": 1612,
+    "chance": 50,
+    "description": "Silithus - Shade of Ambermoon",
+    "flags": 0
+  },
+  {
+    "guid": 43132,
+    "pool_entry": 1612,
+    "chance": 50,
+    "description": "Silithus - Shade of Ambermoon",
+    "flags": 0
+  },
+  {
+    "guid": 4975,
+    "pool_entry": 1603,
+    "chance": 50,
+    "description": "Duskwood - Nefaru",
+    "flags": 0
+  },
+  {
+    "guid": 4277,
+    "pool_entry": 1603,
+    "chance": 50,
+    "description": "Duskwood - Nefaru",
+    "flags": 0
+  }
+]

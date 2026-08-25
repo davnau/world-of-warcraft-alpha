@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>BattleNet.Persistence</AssemblyName>
+    <RootNamespace>BattleNet.Persistence</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.4.0" />
+    <ProjectReference Include="..\BattleNet.Core\BattleNet.Core.csproj" />
+    <ProjectReference Include="..\BattleNet.Protocol\BattleNet.Protocol.csproj" />
+  </ItemGroup>
+</Project>

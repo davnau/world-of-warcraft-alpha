@@ -1,0 +1,461 @@
+[
+  {
+    "entry": 66,
+    "item": 2320,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 6
+  },
+  {
+    "entry": 66,
+    "item": 2321,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 19
+  },
+  {
+    "entry": 66,
+    "item": 2324,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 13
+  },
+  {
+    "entry": 66,
+    "item": 2325,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 14
+  },
+  {
+    "entry": 66,
+    "item": 2604,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 12
+  },
+  {
+    "entry": 66,
+    "item": 2605,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 17
+  },
+  {
+    "entry": 66,
+    "item": 2678,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 5
+  },
+  {
+    "entry": 66,
+    "item": 2692,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 27
+  },
+  {
+    "entry": 66,
+    "item": 2880,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 7
+  },
+  {
+    "entry": 66,
+    "item": 2901,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 1
+  },
+  {
+    "entry": 66,
+    "item": 2928,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 29
+  },
+  {
+    "entry": 66,
+    "item": 3371,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 8
+  },
+  {
+    "entry": 66,
+    "item": 3372,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 33
+  },
+  {
+    "entry": 66,
+    "item": 3466,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 28
+  },
+  {
+    "entry": 66,
+    "item": 3713,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 22
+  },
+  {
+    "entry": 66,
+    "item": 3777,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 24
+  },
+  {
+    "entry": 66,
+    "item": 3857,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 23
+  },
+  {
+    "entry": 66,
+    "item": 4289,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 9
+  },
+  {
+    "entry": 66,
+    "item": 4291,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 21
+  },
+  {
+    "entry": 66,
+    "item": 4340,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 16
+  },
+  {
+    "entry": 66,
+    "item": 4341,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 25
+  },
+  {
+    "entry": 66,
+    "item": 4342,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 18
+  },
+  {
+    "entry": 66,
+    "item": 4399,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 34
+  },
+  {
+    "entry": 66,
+    "item": 4400,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 31
+  },
+  {
+    "entry": 66,
+    "item": 5956,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 2
+  },
+  {
+    "entry": 66,
+    "item": 6183,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 66,
+    "item": 6216,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 10
+  },
+  {
+    "entry": 66,
+    "item": 6217,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 4
+  },
+  {
+    "entry": 66,
+    "item": 6256,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 3
+  },
+  {
+    "entry": 66,
+    "item": 6260,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 15
+  },
+  {
+    "entry": 66,
+    "item": 6374,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 26
+  },
+  {
+    "entry": 66,
+    "item": 6529,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 11
+  },
+  {
+    "entry": 66,
+    "item": 6530,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 35
+  },
+  {
+    "entry": 66,
+    "item": 6532,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 32
+  },
+  {
+    "entry": 66,
+    "item": 7005,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 66,
+    "item": 8343,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 20
+  },
+  {
+    "entry": 66,
+    "item": 8925,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 30
+  },
+  {
+    "entry": 301400,
+    "item": 3371,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 301400,
+    "item": 3372,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2320,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2321,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2324,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2325,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2604,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 2605,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 4291,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 4340,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 4341,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 4342,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 6260,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  },
+  {
+    "entry": 1155700,
+    "item": 6261,
+    "maxcount": 0,
+    "incrtime": 0,
+    "itemflags": 0,
+    "condition_id": 0,
+    "slot": 0
+  }
+]

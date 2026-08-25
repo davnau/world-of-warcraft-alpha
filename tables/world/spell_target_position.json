@@ -1,0 +1,274 @@
+[
+  {
+    "id": 31,
+    "target_map": 0,
+    "target_position_x": -9464,
+    "target_position_y": 62,
+    "target_position_z": 56,
+    "target_orientation": 0
+  },
+  {
+    "id": 33,
+    "target_map": 0,
+    "target_position_x": -10643,
+    "target_position_y": 1052,
+    "target_position_z": 34,
+    "target_orientation": 0
+  },
+  {
+    "id": 34,
+    "target_map": 0,
+    "target_position_x": -10368,
+    "target_position_y": -422,
+    "target_position_z": 66,
+    "target_orientation": 0
+  },
+  {
+    "id": 35,
+    "target_map": 0,
+    "target_position_x": -9104,
+    "target_position_y": -70,
+    "target_position_z": 83,
+    "target_orientation": 0
+  },
+  {
+    "id": 427,
+    "target_map": 0,
+    "target_position_x": 2851.2,
+    "target_position_y": -711.075,
+    "target_position_z": 144.4,
+    "target_orientation": 5.45
+  },
+  {
+    "id": 428,
+    "target_map": 0,
+    "target_position_x": -11020,
+    "target_position_y": 1436,
+    "target_position_z": 44,
+    "target_orientation": 0
+  },
+  {
+    "id": 442,
+    "target_map": 129,
+    "target_position_x": 2592.55,
+    "target_position_y": 1107.5,
+    "target_position_z": 51.29,
+    "target_orientation": 4.74
+  },
+  {
+    "id": 443,
+    "target_map": 0,
+    "target_position_x": 16229,
+    "target_position_y": 16265,
+    "target_position_z": 14,
+    "target_orientation": 4.74
+  },
+  {
+    "id": 444,
+    "target_map": 1,
+    "target_position_x": -4658.12,
+    "target_position_y": -2526.35,
+    "target_position_z": 82.9671,
+    "target_orientation": 0
+  },
+  {
+    "id": 445,
+    "target_map": 0,
+    "target_position_x": -10566,
+    "target_position_y": -1189,
+    "target_position_z": 28,
+    "target_orientation": 0
+  },
+  {
+    "id": 446,
+    "target_map": 109,
+    "target_position_x": -319.24,
+    "target_position_y": 99.9,
+    "target_position_z": -131.85,
+    "target_orientation": 3.19
+  },
+  {
+    "id": 447,
+    "target_map": 0,
+    "target_position_x": 16229,
+    "target_position_y": 16265,
+    "target_position_z": 14,
+    "target_orientation": 3.19
+  },
+  {
+    "id": 1936,
+    "target_map": 0,
+    "target_position_x": 16229,
+    "target_position_y": 16265,
+    "target_position_z": 14,
+    "target_orientation": 0
+  },
+  {
+    "id": 3561,
+    "target_map": 0,
+    "target_position_x": -9003.46,
+    "target_position_y": 870.031,
+    "target_position_z": 129.72,
+    "target_orientation": 5.28
+  },
+  {
+    "id": 3562,
+    "target_map": 0,
+    "target_position_x": -4613.62,
+    "target_position_y": -915.38,
+    "target_position_z": 519.3,
+    "target_orientation": 3.88
+  },
+  {
+    "id": 3563,
+    "target_map": 0,
+    "target_position_x": 1773.47,
+    "target_position_y": 61.121,
+    "target_position_z": -46.3207,
+    "target_orientation": 0.54
+  },
+  {
+    "id": 3565,
+    "target_map": 1,
+    "target_position_x": 9660.81,
+    "target_position_y": 2513.64,
+    "target_position_z": 1331.66,
+    "target_orientation": 3.06
+  },
+  {
+    "id": 3566,
+    "target_map": 1,
+    "target_position_x": -964.98,
+    "target_position_y": 283.433,
+    "target_position_z": 111.187,
+    "target_orientation": 3.02
+  },
+  {
+    "id": 3567,
+    "target_map": 1,
+    "target_position_x": 1552.5,
+    "target_position_y": -4420.66,
+    "target_position_z": 8.94802,
+    "target_orientation": 5.98
+  },
+  {
+    "id": 3721,
+    "target_map": 0,
+    "target_position_x": 16229,
+    "target_position_y": 16265,
+    "target_position_z": 14,
+    "target_orientation": 3.19
+  },
+  {
+    "id": 4996,
+    "target_map": 1,
+    "target_position_x": 1552.5,
+    "target_position_y": -4420.66,
+    "target_position_z": 8.94802,
+    "target_orientation": 0
+  },
+  {
+    "id": 4997,
+    "target_map": 0,
+    "target_position_x": -14457,
+    "target_position_y": 496.45,
+    "target_position_z": 39.1392,
+    "target_orientation": 0
+  },
+  {
+    "id": 4998,
+    "target_map": 0,
+    "target_position_x": -12383.6,
+    "target_position_y": 172.574,
+    "target_position_z": 3.28056,
+    "target_orientation": 0
+  },
+  {
+    "id": 4999,
+    "target_map": 1,
+    "target_position_x": -954.183,
+    "target_position_y": -3680.25,
+    "target_position_z": 8.07897,
+    "target_orientation": 0
+  },
+  {
+    "id": 5000,
+    "target_map": 0,
+    "target_position_x": 1893.04,
+    "target_position_y": 238.585,
+    "target_position_z": 58,
+    "target_orientation": 0
+  },
+  {
+    "id": 6348,
+    "target_map": 0,
+    "target_position_x": -3752.81,
+    "target_position_y": -851.558,
+    "target_position_z": 10.1153,
+    "target_orientation": 0
+  },
+  {
+    "id": 6349,
+    "target_map": 1,
+    "target_position_x": 6482.04,
+    "target_position_y": 614.423,
+    "target_position_z": 5.458,
+    "target_orientation": 2.893
+  },
+  {
+    "id": 6483,
+    "target_map": 1,
+    "target_position_x": 5483.9,
+    "target_position_y": -749.881,
+    "target_position_z": 334.621,
+    "target_orientation": 0
+  },
+  {
+    "id": 6714,
+    "target_map": 1,
+    "target_position_x": -4884.49,
+    "target_position_y": -1596.2,
+    "target_position_z": 101.2,
+    "target_orientation": 3.17
+  },
+  {
+    "id": 6719,
+    "target_map": 1,
+    "target_position_x": -3615.49,
+    "target_position_y": -4467.34,
+    "target_position_z": 24.3141,
+    "target_orientation": 0
+  },
+  {
+    "id": 6766,
+    "target_map": 1,
+    "target_position_x": -2354.03,
+    "target_position_y": -1902.07,
+    "target_position_z": 95.78,
+    "target_orientation": 4.6
+  },
+  {
+    "id": 7136,
+    "target_map": 33,
+    "target_position_x": -85.767,
+    "target_position_y": 2150.22,
+    "target_position_z": 155.607,
+    "target_orientation": 3.97629
+  },
+  {
+    "id": 7586,
+    "target_map": 33,
+    "target_position_x": -105.88,
+    "target_position_y": 2154.87,
+    "target_position_z": 156.445,
+    "target_orientation": 5.82146
+  },
+  {
+    "id": 7587,
+    "target_map": 33,
+    "target_position_x": -102.933,
+    "target_position_y": 2124.29,
+    "target_position_z": 155.648,
+    "target_orientation": 1.08944
+  }
+]

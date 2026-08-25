@@ -1,0 +1,15 @@
+#include "ENGINE/Source/Tempest/c34matrix.h"
+#include "ENGINE/Source/Tempest/c33matrix.h"
+#include "ENGINE/Source/Tempest/c4quaternion.h"
+#include <algorithm>
+namespace NTempest {
+bool operator==(const C34Matrix&a,const C34Matrix&b){return std::equal(a.Data(),a.Data()+12,b.Data());} bool operator!=(const C34Matrix&a,const C34Matrix&b){return !(a==b);}
+C34Matrix& C34Matrix::operator+=(const C34Matrix&a){for(int i=0;i<12;++i)Data()[i]+=a.Data()[i];return *this;} C34Matrix& C34Matrix::operator-=(const C34Matrix&a){for(int i=0;i<12;++i)Data()[i]-=a.Data()[i];return *this;} C34Matrix& C34Matrix::operator*=(float a){for(float&v:*reinterpret_cast<float(*)[12]>(Data()))v*=a;return *this;} C34Matrix& C34Matrix::operator/=(float a){return *this*=1/a;}
+C3Vector operator*(const C34Matrix&m,const C3Vector&v){return {m.a0*v.x+m.b0*v.y+m.c0*v.z+m.d0,m.a1*v.x+m.b1*v.y+m.c1*v.z+m.d1,m.a2*v.x+m.b2*v.y+m.c2*v.z+m.d2};}
+C4Vector operator*(const C34Matrix&m,const C4Vector&v){return {m.a0*v.x+m.b0*v.y+m.c0*v.z+m.d0*v.w,m.a1*v.x+m.b1*v.y+m.c1*v.z+m.d1*v.w,m.a2*v.x+m.b2*v.y+m.c2*v.z+m.d2*v.w,v.w};}
+C34Matrix operator*(const C34Matrix&l,const C34Matrix&r){C34Matrix o;for(int c=0;c<3;++c)for(int row=0;row<3;++row){o.Data()[c*3+row]=0;for(int k=0;k<3;++k)o.Data()[c*3+row]+=l.Data()[k*3+row]*r.Data()[c*3+k];}C3Vector t=l*C3Vector(r.d0,r.d1,r.d2);o.d0=t.x;o.d1=t.y;o.d2=t.z;return o;} C34Matrix& C34Matrix::operator*=(const C34Matrix&a){return *this=*this*a;}
+C34Matrix operator+(C34Matrix a,const C34Matrix&b){return a+=b;} C34Matrix operator-(C34Matrix a,const C34Matrix&b){return a-=b;} C34Matrix operator*(C34Matrix a,float s){return a*=s;} C34Matrix operator*(float s,C34Matrix a){return a*=s;} C34Matrix operator/(C34Matrix a,float s){return a/=s;}
+C34Matrix C34Matrix::AffineInverse()const{C33Matrix r(a0,a1,a2,b0,b1,b2,c0,c1,c2);r=r.Inverse();C34Matrix o;o.a0=r.a0;o.a1=r.a1;o.a2=r.a2;o.b0=r.b0;o.b1=r.b1;o.b2=r.b2;o.c0=r.c0;o.c1=r.c1;o.c2=r.c2;C3Vector t=r*C3Vector(-d0,-d1,-d2);o.d0=t.x;o.d1=t.y;o.d2=t.z;return o;} C34Matrix C34Matrix::AffineInverse(float s)const{C34Matrix o=AffineInverse();o*=s;return o;} C34Matrix C34Matrix::AffineInverse(const C3Vector&s)const{C34Matrix o=AffineInverse();o.Scale(s);return o;}
+C34Matrix C34Matrix::Rotation(const C3Vector&a,float angle,bool unit){C33Matrix r=C33Matrix::Rotation(a,angle,unit);C34Matrix o;o.a0=r.a0;o.a1=r.a1;o.a2=r.a2;o.b0=r.b0;o.b1=r.b1;o.b2=r.b2;o.c0=r.c0;o.c1=r.c1;o.c2=r.c2;return o;}
+void C34Matrix::Translate(const C3Vector&m){d0+=a0*m.x+b0*m.y+c0*m.z;d1+=a1*m.x+b1*m.y+c1*m.z;d2+=a2*m.x+b2*m.y+c2*m.z;} void C34Matrix::Scale(const C3Vector&s){a0*=s.x;a1*=s.x;a2*=s.x;b0*=s.y;b1*=s.y;b2*=s.y;c0*=s.z;c1*=s.z;c2*=s.z;} void C34Matrix::Scale(float s){for(int i=0;i<9;++i)Data()[i]*=s;} void C34Matrix::Rotate(const C3Vector&a,const C3Vector&v,char u){*this*=Rotation(a,v.x,u!=0);} void C34Matrix::Rotate(const C4Quaternion&q){C33Matrix r;r.Rotate(q);C34Matrix m;m.a0=r.a0;m.a1=r.a1;m.a2=r.a2;m.b0=r.b0;m.b1=r.b1;m.b2=r.b2;m.c0=r.c0;m.c1=r.c1;m.c2=r.c2;*this*=m;}
+}

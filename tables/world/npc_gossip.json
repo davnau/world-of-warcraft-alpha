@@ -1,0 +1,6270 @@
+[
+  {
+    "npc_guid": 2,
+    "textid": 2282
+  },
+  {
+    "npc_guid": 9,
+    "textid": 2493
+  },
+  {
+    "npc_guid": 29,
+    "textid": 5054
+  },
+  {
+    "npc_guid": 31,
+    "textid": 5031
+  },
+  {
+    "npc_guid": 32,
+    "textid": 5118
+  },
+  {
+    "npc_guid": 36,
+    "textid": 2137
+  },
+  {
+    "npc_guid": 37,
+    "textid": 7194
+  },
+  {
+    "npc_guid": 38,
+    "textid": 8128
+  },
+  {
+    "npc_guid": 41,
+    "textid": 4732
+  },
+  {
+    "npc_guid": 43,
+    "textid": 10300
+  },
+  {
+    "npc_guid": 44,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 45,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 46,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 47,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 49,
+    "textid": 5204
+  },
+  {
+    "npc_guid": 50,
+    "textid": 5186
+  },
+  {
+    "npc_guid": 57,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 58,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 59,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 62,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 64,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 66,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 68,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 70,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 72,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 74,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 76,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 78,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 82,
+    "textid": 5000
+  },
+  {
+    "npc_guid": 83,
+    "textid": 5724
+  },
+  {
+    "npc_guid": 84,
+    "textid": 4988
+  },
+  {
+    "npc_guid": 87,
+    "textid": 5000
+  },
+  {
+    "npc_guid": 88,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 89,
+    "textid": 6295
+  },
+  {
+    "npc_guid": 90,
+    "textid": 6293
+  },
+  {
+    "npc_guid": 96,
+    "textid": 9385
+  },
+  {
+    "npc_guid": 97,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 101,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 103,
+    "textid": 6514
+  },
+  {
+    "npc_guid": 105,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 106,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 107,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 114,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 115,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 121,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 125,
+    "textid": 2713
+  },
+  {
+    "npc_guid": 128,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 129,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 131,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 132,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 133,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 134,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 135,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 136,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 138,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 139,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 140,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 141,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 142,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 144,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 145,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 177,
+    "textid": 5857
+  },
+  {
+    "npc_guid": 184,
+    "textid": 5753
+  },
+  {
+    "npc_guid": 188,
+    "textid": 907
+  },
+  {
+    "npc_guid": 189,
+    "textid": 933
+  },
+  {
+    "npc_guid": 190,
+    "textid": 933
+  },
+  {
+    "npc_guid": 192,
+    "textid": 559
+  },
+  {
+    "npc_guid": 193,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 194,
+    "textid": 3975
+  },
+  {
+    "npc_guid": 196,
+    "textid": 1215
+  },
+  {
+    "npc_guid": 197,
+    "textid": 7028
+  },
+  {
+    "npc_guid": 199,
+    "textid": 823
+  },
+  {
+    "npc_guid": 200,
+    "textid": 4446
+  },
+  {
+    "npc_guid": 204,
+    "textid": 10182
+  },
+  {
+    "npc_guid": 206,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 213,
+    "textid": 3395
+  },
+  {
+    "npc_guid": 223,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 265,
+    "textid": 4990
+  },
+  {
+    "npc_guid": 279,
+    "textid": 2641
+  },
+  {
+    "npc_guid": 288,
+    "textid": 7514
+  },
+  {
+    "npc_guid": 309,
+    "textid": 7515
+  },
+  {
+    "npc_guid": 310,
+    "textid": 7556
+  },
+  {
+    "npc_guid": 311,
+    "textid": 7534
+  },
+  {
+    "npc_guid": 312,
+    "textid": 7615
+  },
+  {
+    "npc_guid": 351,
+    "textid": 4937
+  },
+  {
+    "npc_guid": 361,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 364,
+    "textid": 5002
+  },
+  {
+    "npc_guid": 366,
+    "textid": 7574
+  },
+  {
+    "npc_guid": 368,
+    "textid": 2644
+  },
+  {
+    "npc_guid": 369,
+    "textid": 2642
+  },
+  {
+    "npc_guid": 385,
+    "textid": 7718
+  },
+  {
+    "npc_guid": 386,
+    "textid": 7717
+  },
+  {
+    "npc_guid": 387,
+    "textid": 2136
+  },
+  {
+    "npc_guid": 388,
+    "textid": 7965
+  },
+  {
+    "npc_guid": 391,
+    "textid": 7454
+  },
+  {
+    "npc_guid": 403,
+    "textid": 3974
+  },
+  {
+    "npc_guid": 407,
+    "textid": 10978
+  },
+  {
+    "npc_guid": 421,
+    "textid": 4833
+  },
+  {
+    "npc_guid": 436,
+    "textid": 7720
+  },
+  {
+    "npc_guid": 453,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 455,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 457,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 459,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 461,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 463,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 465,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 467,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 469,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 471,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 531,
+    "textid": 6535
+  },
+  {
+    "npc_guid": 532,
+    "textid": 9218
+  },
+  {
+    "npc_guid": 537,
+    "textid": 825
+  },
+  {
+    "npc_guid": 540,
+    "textid": 3806
+  },
+  {
+    "npc_guid": 565,
+    "textid": 8855
+  },
+  {
+    "npc_guid": 573,
+    "textid": 5479
+  },
+  {
+    "npc_guid": 580,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 607,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 636,
+    "textid": 7074
+  },
+  {
+    "npc_guid": 637,
+    "textid": 3488
+  },
+  {
+    "npc_guid": 638,
+    "textid": 5535
+  },
+  {
+    "npc_guid": 640,
+    "textid": 5074
+  },
+  {
+    "npc_guid": 643,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 644,
+    "textid": 6165
+  },
+  {
+    "npc_guid": 645,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 647,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 649,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 651,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 653,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 655,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 657,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 659,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 661,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 662,
+    "textid": 5345
+  },
+  {
+    "npc_guid": 667,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 690,
+    "textid": 938
+  },
+  {
+    "npc_guid": 702,
+    "textid": 2822
+  },
+  {
+    "npc_guid": 723,
+    "textid": 7718
+  },
+  {
+    "npc_guid": 755,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 757,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 1022,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 1023,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 1024,
+    "textid": 5723
+  },
+  {
+    "npc_guid": 1025,
+    "textid": 561
+  },
+  {
+    "npc_guid": 1026,
+    "textid": 1914
+  },
+  {
+    "npc_guid": 1079,
+    "textid": 4434
+  },
+  {
+    "npc_guid": 1724,
+    "textid": 4881
+  },
+  {
+    "npc_guid": 1743,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1745,
+    "textid": 823
+  },
+  {
+    "npc_guid": 1748,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1750,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1753,
+    "textid": 2234
+  },
+  {
+    "npc_guid": 1757,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1759,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1760,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1763,
+    "textid": 5276
+  },
+  {
+    "npc_guid": 1765,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1766,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1767,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1769,
+    "textid": 3974
+  },
+  {
+    "npc_guid": 1770,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 1771,
+    "textid": 5877
+  },
+  {
+    "npc_guid": 1772,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 1773,
+    "textid": 561
+  },
+  {
+    "npc_guid": 1774,
+    "textid": 561
+  },
+  {
+    "npc_guid": 1777,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 1778,
+    "textid": 3974
+  },
+  {
+    "npc_guid": 1779,
+    "textid": 561
+  },
+  {
+    "npc_guid": 1780,
+    "textid": 4435
+  },
+  {
+    "npc_guid": 1781,
+    "textid": 3975
+  },
+  {
+    "npc_guid": 1782,
+    "textid": 561
+  },
+  {
+    "npc_guid": 1783,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1789,
+    "textid": 8269
+  },
+  {
+    "npc_guid": 1791,
+    "textid": 7780
+  },
+  {
+    "npc_guid": 1794,
+    "textid": 5794
+  },
+  {
+    "npc_guid": 1795,
+    "textid": 5524
+  },
+  {
+    "npc_guid": 1796,
+    "textid": 5422
+  },
+  {
+    "npc_guid": 1799,
+    "textid": 2253
+  },
+  {
+    "npc_guid": 1803,
+    "textid": 5722
+  },
+  {
+    "npc_guid": 1806,
+    "textid": 4833
+  },
+  {
+    "npc_guid": 1807,
+    "textid": 5723
+  },
+  {
+    "npc_guid": 1809,
+    "textid": 4833
+  },
+  {
+    "npc_guid": 1810,
+    "textid": 4798
+  },
+  {
+    "npc_guid": 1811,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 1812,
+    "textid": 5581
+  },
+  {
+    "npc_guid": 1813,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 1816,
+    "textid": 2355
+  },
+  {
+    "npc_guid": 1817,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1818,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1819,
+    "textid": 7195
+  },
+  {
+    "npc_guid": 1821,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1888,
+    "textid": 5495
+  },
+  {
+    "npc_guid": 1889,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1892,
+    "textid": 5800
+  },
+  {
+    "npc_guid": 1893,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1894,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 1895,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2005,
+    "textid": 6383
+  },
+  {
+    "npc_guid": 2007,
+    "textid": 3077
+  },
+  {
+    "npc_guid": 2008,
+    "textid": 5582
+  },
+  {
+    "npc_guid": 2009,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2010,
+    "textid": 3937
+  },
+  {
+    "npc_guid": 2011,
+    "textid": 3456
+  },
+  {
+    "npc_guid": 2012,
+    "textid": 3398
+  },
+  {
+    "npc_guid": 2013,
+    "textid": 1261
+  },
+  {
+    "npc_guid": 2015,
+    "textid": 7026
+  },
+  {
+    "npc_guid": 2016,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 2019,
+    "textid": 1217
+  },
+  {
+    "npc_guid": 2020,
+    "textid": 5000
+  },
+  {
+    "npc_guid": 2023,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2024,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2025,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2026,
+    "textid": 8333
+  },
+  {
+    "npc_guid": 2027,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2028,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2029,
+    "textid": 3959
+  },
+  {
+    "npc_guid": 2030,
+    "textid": 1135
+  },
+  {
+    "npc_guid": 2032,
+    "textid": 8129
+  },
+  {
+    "npc_guid": 2065,
+    "textid": 580
+  },
+  {
+    "npc_guid": 2079,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2081,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2084,
+    "textid": 5330
+  },
+  {
+    "npc_guid": 2085,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2086,
+    "textid": 2760
+  },
+  {
+    "npc_guid": 2473,
+    "textid": 933
+  },
+  {
+    "npc_guid": 2685,
+    "textid": 1371
+  },
+  {
+    "npc_guid": 2686,
+    "textid": 1351
+  },
+  {
+    "npc_guid": 2702,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 2704,
+    "textid": 2213
+  },
+  {
+    "npc_guid": 2722,
+    "textid": 6995
+  },
+  {
+    "npc_guid": 2755,
+    "textid": 1302
+  },
+  {
+    "npc_guid": 3162,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 3328,
+    "textid": 6933
+  },
+  {
+    "npc_guid": 3329,
+    "textid": 6990
+  },
+  {
+    "npc_guid": 3349,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 3366,
+    "textid": 678
+  },
+  {
+    "npc_guid": 3368,
+    "textid": 3795
+  },
+  {
+    "npc_guid": 3382,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3383,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3384,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3385,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3386,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3387,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3388,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3389,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3390,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3391,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3393,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 3394,
+    "textid": 8733
+  },
+  {
+    "npc_guid": 3421,
+    "textid": 7188
+  },
+  {
+    "npc_guid": 3422,
+    "textid": 7186
+  },
+  {
+    "npc_guid": 3428,
+    "textid": 3954
+  },
+  {
+    "npc_guid": 3429,
+    "textid": 3961
+  },
+  {
+    "npc_guid": 3430,
+    "textid": 3960
+  },
+  {
+    "npc_guid": 3443,
+    "textid": 3583
+  },
+  {
+    "npc_guid": 3452,
+    "textid": 5715
+  },
+  {
+    "npc_guid": 3454,
+    "textid": 638
+  },
+  {
+    "npc_guid": 3461,
+    "textid": 5715
+  },
+  {
+    "npc_guid": 3462,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3463,
+    "textid": 4693
+  },
+  {
+    "npc_guid": 3464,
+    "textid": 2642
+  },
+  {
+    "npc_guid": 3465,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 3467,
+    "textid": 7403
+  },
+  {
+    "npc_guid": 3471,
+    "textid": 565
+  },
+  {
+    "npc_guid": 3472,
+    "textid": 4440
+  },
+  {
+    "npc_guid": 3473,
+    "textid": 4440
+  },
+  {
+    "npc_guid": 3474,
+    "textid": 565
+  },
+  {
+    "npc_guid": 3602,
+    "textid": 11567
+  },
+  {
+    "npc_guid": 3615,
+    "textid": 4440
+  },
+  {
+    "npc_guid": 3616,
+    "textid": 565
+  },
+  {
+    "npc_guid": 3646,
+    "textid": 5883
+  },
+  {
+    "npc_guid": 3648,
+    "textid": 565
+  },
+  {
+    "npc_guid": 4078,
+    "textid": 4253
+  },
+  {
+    "npc_guid": 4091,
+    "textid": 5112
+  },
+  {
+    "npc_guid": 4093,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 4150,
+    "textid": 4871
+  },
+  {
+    "npc_guid": 4152,
+    "textid": 4855
+  },
+  {
+    "npc_guid": 4174,
+    "textid": 3868
+  },
+  {
+    "npc_guid": 4206,
+    "textid": 3461
+  },
+  {
+    "npc_guid": 4208,
+    "textid": 820
+  },
+  {
+    "npc_guid": 4209,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 4242,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 4383,
+    "textid": 7594
+  },
+  {
+    "npc_guid": 4476,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 4491,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 4569,
+    "textid": 3295
+  },
+  {
+    "npc_guid": 4595,
+    "textid": 6594
+  },
+  {
+    "npc_guid": 4597,
+    "textid": 2993
+  },
+  {
+    "npc_guid": 4601,
+    "textid": 6991
+  },
+  {
+    "npc_guid": 4602,
+    "textid": 7043
+  },
+  {
+    "npc_guid": 4661,
+    "textid": 938
+  },
+  {
+    "npc_guid": 4663,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 4664,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 4665,
+    "textid": 5008
+  },
+  {
+    "npc_guid": 4669,
+    "textid": 3412
+  },
+  {
+    "npc_guid": 4670,
+    "textid": 1606
+  },
+  {
+    "npc_guid": 4671,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 4672,
+    "textid": 5157
+  },
+  {
+    "npc_guid": 4673,
+    "textid": 5793
+  },
+  {
+    "npc_guid": 4675,
+    "textid": 6233
+  },
+  {
+    "npc_guid": 4676,
+    "textid": 5136
+  },
+  {
+    "npc_guid": 4677,
+    "textid": 4879
+  },
+  {
+    "npc_guid": 4680,
+    "textid": 5425
+  },
+  {
+    "npc_guid": 4681,
+    "textid": 5069
+  },
+  {
+    "npc_guid": 4685,
+    "textid": 5799
+  },
+  {
+    "npc_guid": 4686,
+    "textid": 5279
+  },
+  {
+    "npc_guid": 4765,
+    "textid": 7652
+  },
+  {
+    "npc_guid": 4798,
+    "textid": 565
+  },
+  {
+    "npc_guid": 4799,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 4800,
+    "textid": 5715
+  },
+  {
+    "npc_guid": 4912,
+    "textid": 4440
+  },
+  {
+    "npc_guid": 5169,
+    "textid": 3407
+  },
+  {
+    "npc_guid": 5363,
+    "textid": 2315
+  },
+  {
+    "npc_guid": 5584,
+    "textid": 7094
+  },
+  {
+    "npc_guid": 5585,
+    "textid": 7120
+  },
+  {
+    "npc_guid": 5587,
+    "textid": 7117
+  },
+  {
+    "npc_guid": 5588,
+    "textid": 7095
+  },
+  {
+    "npc_guid": 5598,
+    "textid": 2279
+  },
+  {
+    "npc_guid": 5715,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5717,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5718,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5719,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5721,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5723,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5724,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5725,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5729,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5749,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5752,
+    "textid": 580
+  },
+  {
+    "npc_guid": 5767,
+    "textid": 3001
+  },
+  {
+    "npc_guid": 5921,
+    "textid": 1953
+  },
+  {
+    "npc_guid": 6162,
+    "textid": 10088
+  },
+  {
+    "npc_guid": 6164,
+    "textid": 2277
+  },
+  {
+    "npc_guid": 6165,
+    "textid": 2274
+  },
+  {
+    "npc_guid": 6380,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6382,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6383,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6384,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 6385,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6386,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6387,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6388,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 6389,
+    "textid": 5715
+  },
+  {
+    "npc_guid": 6402,
+    "textid": 4875
+  },
+  {
+    "npc_guid": 6403,
+    "textid": 3896
+  },
+  {
+    "npc_guid": 6491,
+    "textid": 8332
+  },
+  {
+    "npc_guid": 6492,
+    "textid": 7780
+  },
+  {
+    "npc_guid": 6497,
+    "textid": 8269
+  },
+  {
+    "npc_guid": 6499,
+    "textid": 7174
+  },
+  {
+    "npc_guid": 6500,
+    "textid": 6935
+  },
+  {
+    "npc_guid": 6512,
+    "textid": 7010
+  },
+  {
+    "npc_guid": 6519,
+    "textid": 8131
+  },
+  {
+    "npc_guid": 6520,
+    "textid": 8127
+  },
+  {
+    "npc_guid": 6558,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6559,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6560,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6561,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6562,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6563,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6564,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6565,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6566,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6567,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 6593,
+    "textid": 638
+  },
+  {
+    "npc_guid": 6594,
+    "textid": 1124
+  },
+  {
+    "npc_guid": 6595,
+    "textid": 1039
+  },
+  {
+    "npc_guid": 6596,
+    "textid": 2193
+  },
+  {
+    "npc_guid": 6597,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 6598,
+    "textid": 2275
+  },
+  {
+    "npc_guid": 6600,
+    "textid": 5516
+  },
+  {
+    "npc_guid": 6602,
+    "textid": 2280
+  },
+  {
+    "npc_guid": 6603,
+    "textid": 2278
+  },
+  {
+    "npc_guid": 6606,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 6610,
+    "textid": 4986
+  },
+  {
+    "npc_guid": 6613,
+    "textid": 1635
+  },
+  {
+    "npc_guid": 6620,
+    "textid": 5004
+  },
+  {
+    "npc_guid": 6624,
+    "textid": 5037
+  },
+  {
+    "npc_guid": 6625,
+    "textid": 9385
+  },
+  {
+    "npc_guid": 6626,
+    "textid": 5238
+  },
+  {
+    "npc_guid": 6629,
+    "textid": 5530
+  },
+  {
+    "npc_guid": 6630,
+    "textid": 5350
+  },
+  {
+    "npc_guid": 6714,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 6849,
+    "textid": 580
+  },
+  {
+    "npc_guid": 6858,
+    "textid": 580
+  },
+  {
+    "npc_guid": 6875,
+    "textid": 580
+  },
+  {
+    "npc_guid": 6876,
+    "textid": 580
+  },
+  {
+    "npc_guid": 6878,
+    "textid": 3560
+  },
+  {
+    "npc_guid": 6882,
+    "textid": 6947
+  },
+  {
+    "npc_guid": 6889,
+    "textid": 938
+  },
+  {
+    "npc_guid": 6931,
+    "textid": 3802
+  },
+  {
+    "npc_guid": 7281,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 7284,
+    "textid": 638
+  },
+  {
+    "npc_guid": 7290,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7291,
+    "textid": 4985
+  },
+  {
+    "npc_guid": 7292,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7293,
+    "textid": 4888
+  },
+  {
+    "npc_guid": 7294,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7295,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 7296,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7297,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7298,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7397,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7398,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7399,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7415,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7416,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7417,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7418,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7419,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7420,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7421,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7443,
+    "textid": 4985
+  },
+  {
+    "npc_guid": 7446,
+    "textid": 6275
+  },
+  {
+    "npc_guid": 7447,
+    "textid": 3893
+  },
+  {
+    "npc_guid": 7449,
+    "textid": 5003
+  },
+  {
+    "npc_guid": 7463,
+    "textid": 1640
+  },
+  {
+    "npc_guid": 7479,
+    "textid": 5199
+  },
+  {
+    "npc_guid": 7649,
+    "textid": 5004
+  },
+  {
+    "npc_guid": 7651,
+    "textid": 4985
+  },
+  {
+    "npc_guid": 7666,
+    "textid": 5133
+  },
+  {
+    "npc_guid": 7668,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7669,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 7671,
+    "textid": 938
+  },
+  {
+    "npc_guid": 7673,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 7715,
+    "textid": 580
+  },
+  {
+    "npc_guid": 7716,
+    "textid": 580
+  },
+  {
+    "npc_guid": 7941,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7942,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7943,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7945,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7946,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7948,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7949,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7950,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 7968,
+    "textid": 1571
+  },
+  {
+    "npc_guid": 7969,
+    "textid": 5172
+  },
+  {
+    "npc_guid": 7970,
+    "textid": 3466
+  },
+  {
+    "npc_guid": 7971,
+    "textid": 4985
+  },
+  {
+    "npc_guid": 7972,
+    "textid": 5004
+  },
+  {
+    "npc_guid": 8018,
+    "textid": 3590
+  },
+  {
+    "npc_guid": 8019,
+    "textid": 7638
+  },
+  {
+    "npc_guid": 8169,
+    "textid": 7055
+  },
+  {
+    "npc_guid": 8219,
+    "textid": 823
+  },
+  {
+    "npc_guid": 8259,
+    "textid": 5580
+  },
+  {
+    "npc_guid": 8415,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8416,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8417,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8418,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8419,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 8420,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8421,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8422,
+    "textid": 638
+  },
+  {
+    "npc_guid": 8423,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8424,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 8461,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 8464,
+    "textid": 5579
+  },
+  {
+    "npc_guid": 8478,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 8481,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 8486,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 8487,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 8490,
+    "textid": 1818
+  },
+  {
+    "npc_guid": 8521,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8522,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8523,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8524,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8525,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8526,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8527,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8528,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8529,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8530,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 8742,
+    "textid": 2289
+  },
+  {
+    "npc_guid": 8969,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 8971,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 9386,
+    "textid": 580
+  },
+  {
+    "npc_guid": 9448,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 9457,
+    "textid": 5517
+  },
+  {
+    "npc_guid": 9465,
+    "textid": 5481
+  },
+  {
+    "npc_guid": 10076,
+    "textid": 820
+  },
+  {
+    "npc_guid": 10271,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10273,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10274,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10275,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10276,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10277,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10278,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10279,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10280,
+    "textid": 3409
+  },
+  {
+    "npc_guid": 10297,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10298,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10299,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10347,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10348,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10350,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10351,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10352,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10353,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10426,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10427,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10428,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10429,
+    "textid": 4440
+  },
+  {
+    "npc_guid": 10430,
+    "textid": 4037
+  },
+  {
+    "npc_guid": 10450,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10462,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10463,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10464,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10465,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10466,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10467,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10468,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10469,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 10470,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11206,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 11223,
+    "textid": 7554
+  },
+  {
+    "npc_guid": 11263,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 11273,
+    "textid": 822
+  },
+  {
+    "npc_guid": 11315,
+    "textid": 3803
+  },
+  {
+    "npc_guid": 11789,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11790,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11791,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11792,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11793,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11794,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11795,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 11796,
+    "textid": 2593
+  },
+  {
+    "npc_guid": 12604,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 12783,
+    "textid": 580
+  },
+  {
+    "npc_guid": 13100,
+    "textid": 3048
+  },
+  {
+    "npc_guid": 13172,
+    "textid": 1916
+  },
+  {
+    "npc_guid": 13173,
+    "textid": 942
+  },
+  {
+    "npc_guid": 13419,
+    "textid": 5495
+  },
+  {
+    "npc_guid": 13550,
+    "textid": 822
+  },
+  {
+    "npc_guid": 13551,
+    "textid": 8537
+  },
+  {
+    "npc_guid": 13552,
+    "textid": 2133
+  },
+  {
+    "npc_guid": 13637,
+    "textid": 6556
+  },
+  {
+    "npc_guid": 13949,
+    "textid": 1875
+  },
+  {
+    "npc_guid": 13979,
+    "textid": 2533
+  },
+  {
+    "npc_guid": 14077,
+    "textid": 2640
+  },
+  {
+    "npc_guid": 14139,
+    "textid": 822
+  },
+  {
+    "npc_guid": 14344,
+    "textid": 3559
+  },
+  {
+    "npc_guid": 14345,
+    "textid": 3670
+  },
+  {
+    "npc_guid": 14348,
+    "textid": 3554
+  },
+  {
+    "npc_guid": 14350,
+    "textid": 3654
+  },
+  {
+    "npc_guid": 14366,
+    "textid": 2193
+  },
+  {
+    "npc_guid": 14370,
+    "textid": 3586
+  },
+  {
+    "npc_guid": 14385,
+    "textid": 3587
+  },
+  {
+    "npc_guid": 14388,
+    "textid": 519
+  },
+  {
+    "npc_guid": 14389,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 14410,
+    "textid": 5913
+  },
+  {
+    "npc_guid": 14411,
+    "textid": 4933
+  },
+  {
+    "npc_guid": 14413,
+    "textid": 5545
+  },
+  {
+    "npc_guid": 14417,
+    "textid": 3298
+  },
+  {
+    "npc_guid": 14520,
+    "textid": 6414
+  },
+  {
+    "npc_guid": 14740,
+    "textid": 7818
+  },
+  {
+    "npc_guid": 14782,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14783,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14784,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14786,
+    "textid": 4838
+  },
+  {
+    "npc_guid": 14787,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14788,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14811,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14812,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14813,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14815,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14816,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14817,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14819,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14827,
+    "textid": 5939
+  },
+  {
+    "npc_guid": 14828,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14831,
+    "textid": 5981
+  },
+  {
+    "npc_guid": 14832,
+    "textid": 5934
+  },
+  {
+    "npc_guid": 14986,
+    "textid": 825
+  },
+  {
+    "npc_guid": 15033,
+    "textid": 7315
+  },
+  {
+    "npc_guid": 15087,
+    "textid": 3471
+  },
+  {
+    "npc_guid": 15090,
+    "textid": 5288
+  },
+  {
+    "npc_guid": 15096,
+    "textid": 5496
+  },
+  {
+    "npc_guid": 15104,
+    "textid": 5515
+  },
+  {
+    "npc_guid": 15149,
+    "textid": 5127
+  },
+  {
+    "npc_guid": 15286,
+    "textid": 5575
+  },
+  {
+    "npc_guid": 15287,
+    "textid": 821
+  },
+  {
+    "npc_guid": 15292,
+    "textid": 6595
+  },
+  {
+    "npc_guid": 15293,
+    "textid": 5084
+  },
+  {
+    "npc_guid": 15324,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 15326,
+    "textid": 820
+  },
+  {
+    "npc_guid": 15582,
+    "textid": 761
+  },
+  {
+    "npc_guid": 16261,
+    "textid": 799
+  },
+  {
+    "npc_guid": 16262,
+    "textid": 798
+  },
+  {
+    "npc_guid": 16575,
+    "textid": 6475
+  },
+  {
+    "npc_guid": 16579,
+    "textid": 7434
+  },
+  {
+    "npc_guid": 17625,
+    "textid": 3418
+  },
+  {
+    "npc_guid": 17626,
+    "textid": 5453
+  },
+  {
+    "npc_guid": 17647,
+    "textid": 5089
+  },
+  {
+    "npc_guid": 17649,
+    "textid": 580
+  },
+  {
+    "npc_guid": 17650,
+    "textid": 580
+  },
+  {
+    "npc_guid": 17669,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 17865,
+    "textid": 821
+  },
+  {
+    "npc_guid": 18675,
+    "textid": 698
+  },
+  {
+    "npc_guid": 19221,
+    "textid": 3557
+  },
+  {
+    "npc_guid": 19272,
+    "textid": 933
+  },
+  {
+    "npc_guid": 19273,
+    "textid": 933
+  },
+  {
+    "npc_guid": 20179,
+    "textid": 7726
+  },
+  {
+    "npc_guid": 20968,
+    "textid": 1041
+  },
+  {
+    "npc_guid": 21549,
+    "textid": 932
+  },
+  {
+    "npc_guid": 21551,
+    "textid": 778
+  },
+  {
+    "npc_guid": 21552,
+    "textid": 778
+  },
+  {
+    "npc_guid": 21553,
+    "textid": 778
+  },
+  {
+    "npc_guid": 21554,
+    "textid": 778
+  },
+  {
+    "npc_guid": 21555,
+    "textid": 778
+  },
+  {
+    "npc_guid": 21556,
+    "textid": 780
+  },
+  {
+    "npc_guid": 21557,
+    "textid": 780
+  },
+  {
+    "npc_guid": 21558,
+    "textid": 780
+  },
+  {
+    "npc_guid": 21559,
+    "textid": 780
+  },
+  {
+    "npc_guid": 21575,
+    "textid": 822
+  },
+  {
+    "npc_guid": 21592,
+    "textid": 2354
+  },
+  {
+    "npc_guid": 21694,
+    "textid": 10299
+  },
+  {
+    "npc_guid": 21820,
+    "textid": 5177
+  },
+  {
+    "npc_guid": 21821,
+    "textid": 8539
+  },
+  {
+    "npc_guid": 21822,
+    "textid": 7902
+  },
+  {
+    "npc_guid": 21823,
+    "textid": 2954
+  },
+  {
+    "npc_guid": 22681,
+    "textid": 3566
+  },
+  {
+    "npc_guid": 23056,
+    "textid": 1519
+  },
+  {
+    "npc_guid": 23117,
+    "textid": 2038
+  },
+  {
+    "npc_guid": 23268,
+    "textid": 1758
+  },
+  {
+    "npc_guid": 23270,
+    "textid": 2139
+  },
+  {
+    "npc_guid": 23272,
+    "textid": 1493
+  },
+  {
+    "npc_guid": 23273,
+    "textid": 8335
+  },
+  {
+    "npc_guid": 23277,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 23281,
+    "textid": 7251
+  },
+  {
+    "npc_guid": 23287,
+    "textid": 1933
+  },
+  {
+    "npc_guid": 23413,
+    "textid": 5798
+  },
+  {
+    "npc_guid": 23414,
+    "textid": 2138
+  },
+  {
+    "npc_guid": 23443,
+    "textid": 1471
+  },
+  {
+    "npc_guid": 23560,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23561,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23562,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23563,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23564,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23565,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23566,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23567,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23568,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23569,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23570,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23571,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23572,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23573,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23574,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23575,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23576,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23577,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23578,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23579,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23580,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23581,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23582,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23583,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23584,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23585,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23586,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23587,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23588,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23589,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23590,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23591,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23592,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23593,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23594,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23595,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23596,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 23706,
+    "textid": 3546
+  },
+  {
+    "npc_guid": 23717,
+    "textid": 3096
+  },
+  {
+    "npc_guid": 23718,
+    "textid": 3095
+  },
+  {
+    "npc_guid": 23719,
+    "textid": 3094
+  },
+  {
+    "npc_guid": 23720,
+    "textid": 3093
+  },
+  {
+    "npc_guid": 24252,
+    "textid": 2734
+  },
+  {
+    "npc_guid": 24253,
+    "textid": 2816
+  },
+  {
+    "npc_guid": 24351,
+    "textid": 2817
+  },
+  {
+    "npc_guid": 24379,
+    "textid": 6741
+  },
+  {
+    "npc_guid": 24439,
+    "textid": 7041
+  },
+  {
+    "npc_guid": 24664,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 24665,
+    "textid": 9774
+  },
+  {
+    "npc_guid": 24670,
+    "textid": 7661
+  },
+  {
+    "npc_guid": 24714,
+    "textid": 3415
+  },
+  {
+    "npc_guid": 24721,
+    "textid": 5040
+  },
+  {
+    "npc_guid": 24723,
+    "textid": 5428
+  },
+  {
+    "npc_guid": 24726,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 24728,
+    "textid": 4473
+  },
+  {
+    "npc_guid": 24760,
+    "textid": 5196
+  },
+  {
+    "npc_guid": 24768,
+    "textid": 5882
+  },
+  {
+    "npc_guid": 24770,
+    "textid": 5340
+  },
+  {
+    "npc_guid": 24772,
+    "textid": 822
+  },
+  {
+    "npc_guid": 24774,
+    "textid": 822
+  },
+  {
+    "npc_guid": 24775,
+    "textid": 6279
+  },
+  {
+    "npc_guid": 24779,
+    "textid": 5843
+  },
+  {
+    "npc_guid": 24783,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 24787,
+    "textid": 5864
+  },
+  {
+    "npc_guid": 24791,
+    "textid": 2333
+  },
+  {
+    "npc_guid": 24794,
+    "textid": 7654
+  },
+  {
+    "npc_guid": 24796,
+    "textid": 2353
+  },
+  {
+    "npc_guid": 24797,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 24867,
+    "textid": 7190
+  },
+  {
+    "npc_guid": 24917,
+    "textid": 2284
+  },
+  {
+    "npc_guid": 25147,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 25153,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 25541,
+    "textid": 4443
+  },
+  {
+    "npc_guid": 25996,
+    "textid": 4072
+  },
+  {
+    "npc_guid": 25997,
+    "textid": 8132
+  },
+  {
+    "npc_guid": 26053,
+    "textid": 4072
+  },
+  {
+    "npc_guid": 26558,
+    "textid": 4935
+  },
+  {
+    "npc_guid": 26564,
+    "textid": 7667
+  },
+  {
+    "npc_guid": 26566,
+    "textid": 5497
+  },
+  {
+    "npc_guid": 26615,
+    "textid": 5500
+  },
+  {
+    "npc_guid": 26618,
+    "textid": 1615
+  },
+  {
+    "npc_guid": 26620,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 26623,
+    "textid": 5551
+  },
+  {
+    "npc_guid": 26625,
+    "textid": 6513
+  },
+  {
+    "npc_guid": 26626,
+    "textid": 5398
+  },
+  {
+    "npc_guid": 26627,
+    "textid": 5291
+  },
+  {
+    "npc_guid": 26628,
+    "textid": 5079
+  },
+  {
+    "npc_guid": 26630,
+    "textid": 5223
+  },
+  {
+    "npc_guid": 26632,
+    "textid": 9385
+  },
+  {
+    "npc_guid": 26649,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 26651,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 26656,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 26658,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 26659,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 26661,
+    "textid": 4774
+  },
+  {
+    "npc_guid": 26662,
+    "textid": 5717
+  },
+  {
+    "npc_guid": 26753,
+    "textid": 5717
+  },
+  {
+    "npc_guid": 26755,
+    "textid": 4998
+  },
+  {
+    "npc_guid": 26756,
+    "textid": 4996
+  },
+  {
+    "npc_guid": 26758,
+    "textid": 4998
+  },
+  {
+    "npc_guid": 26759,
+    "textid": 4973
+  },
+  {
+    "npc_guid": 26768,
+    "textid": 4973
+  },
+  {
+    "npc_guid": 26770,
+    "textid": 4973
+  },
+  {
+    "npc_guid": 26771,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 26772,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 26774,
+    "textid": 563
+  },
+  {
+    "npc_guid": 26775,
+    "textid": 563
+  },
+  {
+    "npc_guid": 26779,
+    "textid": 522
+  },
+  {
+    "npc_guid": 26780,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 26833,
+    "textid": 933
+  },
+  {
+    "npc_guid": 26894,
+    "textid": 5130
+  },
+  {
+    "npc_guid": 26895,
+    "textid": 7013
+  },
+  {
+    "npc_guid": 26897,
+    "textid": 4973
+  },
+  {
+    "npc_guid": 26898,
+    "textid": 5717
+  },
+  {
+    "npc_guid": 26899,
+    "textid": 4998
+  },
+  {
+    "npc_guid": 26901,
+    "textid": 7819
+  },
+  {
+    "npc_guid": 26902,
+    "textid": 4973
+  },
+  {
+    "npc_guid": 26903,
+    "textid": 4785
+  },
+  {
+    "npc_guid": 26905,
+    "textid": 4998
+  },
+  {
+    "npc_guid": 26906,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 26907,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 26909,
+    "textid": 5285
+  },
+  {
+    "npc_guid": 26910,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 27585,
+    "textid": 5212
+  },
+  {
+    "npc_guid": 27586,
+    "textid": 4891
+  },
+  {
+    "npc_guid": 27660,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 28340,
+    "textid": 822
+  },
+  {
+    "npc_guid": 28415,
+    "textid": 3979
+  },
+  {
+    "npc_guid": 28420,
+    "textid": 4134
+  },
+  {
+    "npc_guid": 28421,
+    "textid": 3753
+  },
+  {
+    "npc_guid": 28422,
+    "textid": 4040
+  },
+  {
+    "npc_guid": 28460,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 28463,
+    "textid": 563
+  },
+  {
+    "npc_guid": 28464,
+    "textid": 4984
+  },
+  {
+    "npc_guid": 28466,
+    "textid": 581
+  },
+  {
+    "npc_guid": 28467,
+    "textid": 5720
+  },
+  {
+    "npc_guid": 28469,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 28472,
+    "textid": 5840
+  },
+  {
+    "npc_guid": 28474,
+    "textid": 821
+  },
+  {
+    "npc_guid": 28475,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 28476,
+    "textid": 563
+  },
+  {
+    "npc_guid": 28477,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 28479,
+    "textid": 581
+  },
+  {
+    "npc_guid": 28481,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28485,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28486,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28487,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28488,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28489,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28490,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 28497,
+    "textid": 4474
+  },
+  {
+    "npc_guid": 28714,
+    "textid": 4813
+  },
+  {
+    "npc_guid": 29063,
+    "textid": 6574
+  },
+  {
+    "npc_guid": 29064,
+    "textid": 6334
+  },
+  {
+    "npc_guid": 29065,
+    "textid": 6335
+  },
+  {
+    "npc_guid": 29069,
+    "textid": 6353
+  },
+  {
+    "npc_guid": 29113,
+    "textid": 6533
+  },
+  {
+    "npc_guid": 29117,
+    "textid": 4857
+  },
+  {
+    "npc_guid": 29133,
+    "textid": 5335
+  },
+  {
+    "npc_guid": 29202,
+    "textid": 4959
+  },
+  {
+    "npc_guid": 29233,
+    "textid": 938
+  },
+  {
+    "npc_guid": 29237,
+    "textid": 5248
+  },
+  {
+    "npc_guid": 29245,
+    "textid": 5443
+  },
+  {
+    "npc_guid": 29246,
+    "textid": 5773
+  },
+  {
+    "npc_guid": 29370,
+    "textid": 5819
+  },
+  {
+    "npc_guid": 29774,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 29780,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 29783,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 29793,
+    "textid": 3653
+  },
+  {
+    "npc_guid": 29796,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 29802,
+    "textid": 580
+  },
+  {
+    "npc_guid": 29804,
+    "textid": 4934
+  },
+  {
+    "npc_guid": 30136,
+    "textid": 1693
+  },
+  {
+    "npc_guid": 30229,
+    "textid": 3156
+  },
+  {
+    "npc_guid": 30432,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 30454,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30459,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30482,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30486,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30487,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30488,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30510,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30521,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30522,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30525,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30631,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30632,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30633,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30634,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30635,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30637,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30638,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30639,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30641,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30643,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30644,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30646,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30656,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30724,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30725,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 30726,
+    "textid": 11406
+  },
+  {
+    "npc_guid": 31804,
+    "textid": 3666
+  },
+  {
+    "npc_guid": 31845,
+    "textid": 1995
+  },
+  {
+    "npc_guid": 31855,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 31857,
+    "textid": 5455
+  },
+  {
+    "npc_guid": 31863,
+    "textid": 5720
+  },
+  {
+    "npc_guid": 31865,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 31866,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 31869,
+    "textid": 563
+  },
+  {
+    "npc_guid": 31871,
+    "textid": 9385
+  },
+  {
+    "npc_guid": 31876,
+    "textid": 5047
+  },
+  {
+    "npc_guid": 31878,
+    "textid": 5195
+  },
+  {
+    "npc_guid": 31879,
+    "textid": 5228
+  },
+  {
+    "npc_guid": 31884,
+    "textid": 5355
+  },
+  {
+    "npc_guid": 31885,
+    "textid": 581
+  },
+  {
+    "npc_guid": 31887,
+    "textid": 5294
+  },
+  {
+    "npc_guid": 31889,
+    "textid": 581
+  },
+  {
+    "npc_guid": 31891,
+    "textid": 9384
+  },
+  {
+    "npc_guid": 31897,
+    "textid": 4984
+  },
+  {
+    "npc_guid": 31901,
+    "textid": 4476
+  },
+  {
+    "npc_guid": 31902,
+    "textid": 1734
+  },
+  {
+    "npc_guid": 31903,
+    "textid": 7189
+  },
+  {
+    "npc_guid": 31924,
+    "textid": 4356
+  },
+  {
+    "npc_guid": 31925,
+    "textid": 4353
+  },
+  {
+    "npc_guid": 31947,
+    "textid": 938
+  },
+  {
+    "npc_guid": 31949,
+    "textid": 5002
+  },
+  {
+    "npc_guid": 31950,
+    "textid": 5108
+  },
+  {
+    "npc_guid": 32028,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 32036,
+    "textid": 2644
+  },
+  {
+    "npc_guid": 32037,
+    "textid": 2753
+  },
+  {
+    "npc_guid": 32038,
+    "textid": 3194
+  },
+  {
+    "npc_guid": 32039,
+    "textid": 10212
+  },
+  {
+    "npc_guid": 32040,
+    "textid": 581
+  },
+  {
+    "npc_guid": 32067,
+    "textid": 7659
+  },
+  {
+    "npc_guid": 32068,
+    "textid": 7668
+  },
+  {
+    "npc_guid": 32076,
+    "textid": 8133
+  },
+  {
+    "npc_guid": 32245,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 32383,
+    "textid": 6033
+  },
+  {
+    "npc_guid": 32720,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 32916,
+    "textid": 5529
+  },
+  {
+    "npc_guid": 33017,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 33073,
+    "textid": 938
+  },
+  {
+    "npc_guid": 33165,
+    "textid": 6193
+  },
+  {
+    "npc_guid": 33282,
+    "textid": 5654
+  },
+  {
+    "npc_guid": 33283,
+    "textid": 5653
+  },
+  {
+    "npc_guid": 33707,
+    "textid": 6793
+  },
+  {
+    "npc_guid": 33711,
+    "textid": 5859
+  },
+  {
+    "npc_guid": 33720,
+    "textid": 4984
+  },
+  {
+    "npc_guid": 33740,
+    "textid": 5233
+  },
+  {
+    "npc_guid": 33741,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 33752,
+    "textid": 5720
+  },
+  {
+    "npc_guid": 33780,
+    "textid": 6415
+  },
+  {
+    "npc_guid": 33823,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 33831,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34102,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34103,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34104,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34105,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34106,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 34111,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 34113,
+    "textid": 4097
+  },
+  {
+    "npc_guid": 34147,
+    "textid": 5006
+  },
+  {
+    "npc_guid": 34151,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 34156,
+    "textid": 4985
+  },
+  {
+    "npc_guid": 34184,
+    "textid": 5613
+  },
+  {
+    "npc_guid": 34501,
+    "textid": 5839
+  },
+  {
+    "npc_guid": 35194,
+    "textid": 4233
+  },
+  {
+    "npc_guid": 35237,
+    "textid": 1391
+  },
+  {
+    "npc_guid": 35865,
+    "textid": 1796
+  },
+  {
+    "npc_guid": 35867,
+    "textid": 7881
+  },
+  {
+    "npc_guid": 35872,
+    "textid": 2033
+  },
+  {
+    "npc_guid": 35874,
+    "textid": 2036
+  },
+  {
+    "npc_guid": 35885,
+    "textid": 3801
+  },
+  {
+    "npc_guid": 35888,
+    "textid": 2293
+  },
+  {
+    "npc_guid": 36021,
+    "textid": 1994
+  },
+  {
+    "npc_guid": 36537,
+    "textid": 5473
+  },
+  {
+    "npc_guid": 36626,
+    "textid": 718
+  },
+  {
+    "npc_guid": 37088,
+    "textid": 5476
+  },
+  {
+    "npc_guid": 37097,
+    "textid": 3334
+  },
+  {
+    "npc_guid": 37102,
+    "textid": 10555
+  },
+  {
+    "npc_guid": 37294,
+    "textid": 769
+  },
+  {
+    "npc_guid": 37571,
+    "textid": 4434
+  },
+  {
+    "npc_guid": 37604,
+    "textid": 3453
+  },
+  {
+    "npc_guid": 37606,
+    "textid": 1225
+  },
+  {
+    "npc_guid": 37607,
+    "textid": 1243
+  },
+  {
+    "npc_guid": 37608,
+    "textid": 4893
+  },
+  {
+    "npc_guid": 37611,
+    "textid": 5147
+  },
+  {
+    "npc_guid": 37612,
+    "textid": 1249
+  },
+  {
+    "npc_guid": 38004,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 38055,
+    "textid": 6159
+  },
+  {
+    "npc_guid": 38057,
+    "textid": 5454
+  },
+  {
+    "npc_guid": 38066,
+    "textid": 5434
+  },
+  {
+    "npc_guid": 38067,
+    "textid": 5566
+  },
+  {
+    "npc_guid": 38069,
+    "textid": 5556
+  },
+  {
+    "npc_guid": 38071,
+    "textid": 5720
+  },
+  {
+    "npc_guid": 38072,
+    "textid": 5885
+  },
+  {
+    "npc_guid": 38073,
+    "textid": 5099
+  },
+  {
+    "npc_guid": 38095,
+    "textid": 581
+  },
+  {
+    "npc_guid": 38096,
+    "textid": 5139
+  },
+  {
+    "npc_guid": 38103,
+    "textid": 5162
+  },
+  {
+    "npc_guid": 38112,
+    "textid": 11042
+  },
+  {
+    "npc_guid": 38128,
+    "textid": 4984
+  },
+  {
+    "npc_guid": 38129,
+    "textid": 6286
+  },
+  {
+    "npc_guid": 38289,
+    "textid": 5282
+  },
+  {
+    "npc_guid": 38296,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38297,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38298,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38299,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38301,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38302,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38305,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 38401,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 38407,
+    "textid": 821
+  },
+  {
+    "npc_guid": 38414,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 38416,
+    "textid": 563
+  },
+  {
+    "npc_guid": 38422,
+    "textid": 563
+  },
+  {
+    "npc_guid": 38424,
+    "textid": 7024
+  },
+  {
+    "npc_guid": 38428,
+    "textid": 3421
+  },
+  {
+    "npc_guid": 39019,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39020,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39022,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39023,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39024,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39025,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39026,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 39063,
+    "textid": 5943
+  },
+  {
+    "npc_guid": 39077,
+    "textid": 3864
+  },
+  {
+    "npc_guid": 39088,
+    "textid": 4960
+  },
+  {
+    "npc_guid": 39091,
+    "textid": 2845
+  },
+  {
+    "npc_guid": 39092,
+    "textid": 2849
+  },
+  {
+    "npc_guid": 39098,
+    "textid": 3874
+  },
+  {
+    "npc_guid": 39100,
+    "textid": 3807
+  },
+  {
+    "npc_guid": 39106,
+    "textid": 7001
+  },
+  {
+    "npc_guid": 39107,
+    "textid": 4393
+  },
+  {
+    "npc_guid": 39108,
+    "textid": 8123
+  },
+  {
+    "npc_guid": 40519,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40520,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40521,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40522,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40523,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40524,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40525,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40528,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40529,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40530,
+    "textid": 7916
+  },
+  {
+    "npc_guid": 40533,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40535,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40536,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40537,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40538,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40539,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40540,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40541,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40542,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40543,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40544,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40545,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40546,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40547,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40548,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40549,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40550,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40551,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40553,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40554,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40555,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40556,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40557,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40559,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40560,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40561,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40562,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40565,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40566,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40567,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40568,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40569,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40570,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40571,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40572,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40573,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40574,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40575,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40576,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40577,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40578,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40579,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40580,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40581,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40582,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40583,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40584,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40585,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40586,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40587,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40591,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40593,
+    "textid": 580
+  },
+  {
+    "npc_guid": 40995,
+    "textid": 6985
+  },
+  {
+    "npc_guid": 41519,
+    "textid": 8538
+  },
+  {
+    "npc_guid": 41642,
+    "textid": 4395
+  },
+  {
+    "npc_guid": 41764,
+    "textid": 8143
+  },
+  {
+    "npc_guid": 41765,
+    "textid": 3377
+  },
+  {
+    "npc_guid": 41769,
+    "textid": 4634
+  },
+  {
+    "npc_guid": 41834,
+    "textid": 5715
+  },
+  {
+    "npc_guid": 41835,
+    "textid": 4439
+  },
+  {
+    "npc_guid": 41841,
+    "textid": 4984
+  },
+  {
+    "npc_guid": 41843,
+    "textid": 1619
+  },
+  {
+    "npc_guid": 41884,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41887,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41888,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41889,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41890,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41891,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41892,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41956,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41960,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41961,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 41964,
+    "textid": 3543
+  },
+  {
+    "npc_guid": 42181,
+    "textid": 825
+  },
+  {
+    "npc_guid": 42205,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 42207,
+    "textid": 3673
+  },
+  {
+    "npc_guid": 42208,
+    "textid": 8292
+  },
+  {
+    "npc_guid": 42209,
+    "textid": 7249
+  },
+  {
+    "npc_guid": 42264,
+    "textid": 3758
+  },
+  {
+    "npc_guid": 42296,
+    "textid": 7245
+  },
+  {
+    "npc_guid": 42297,
+    "textid": 7243
+  },
+  {
+    "npc_guid": 42298,
+    "textid": 7247
+  },
+  {
+    "npc_guid": 42300,
+    "textid": 4841
+  },
+  {
+    "npc_guid": 42329,
+    "textid": 6153
+  },
+  {
+    "npc_guid": 42332,
+    "textid": 6154
+  },
+  {
+    "npc_guid": 42333,
+    "textid": 4977
+  },
+  {
+    "npc_guid": 42334,
+    "textid": 4753
+  },
+  {
+    "npc_guid": 42337,
+    "textid": 4916
+  },
+  {
+    "npc_guid": 42338,
+    "textid": 4913
+  },
+  {
+    "npc_guid": 42598,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 42601,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 42744,
+    "textid": 6812
+  },
+  {
+    "npc_guid": 42749,
+    "textid": 8212
+  },
+  {
+    "npc_guid": 42751,
+    "textid": 7801
+  },
+  {
+    "npc_guid": 42752,
+    "textid": 7736
+  },
+  {
+    "npc_guid": 42753,
+    "textid": 7735
+  },
+  {
+    "npc_guid": 42755,
+    "textid": 7727
+  },
+  {
+    "npc_guid": 42756,
+    "textid": 7728
+  },
+  {
+    "npc_guid": 42757,
+    "textid": 7729
+  },
+  {
+    "npc_guid": 42758,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 42759,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 42760,
+    "textid": 7730
+  },
+  {
+    "npc_guid": 42761,
+    "textid": 7731
+  },
+  {
+    "npc_guid": 42762,
+    "textid": 7732
+  },
+  {
+    "npc_guid": 42764,
+    "textid": 7733
+  },
+  {
+    "npc_guid": 42765,
+    "textid": 7734
+  },
+  {
+    "npc_guid": 42893,
+    "textid": 7662
+  },
+  {
+    "npc_guid": 42914,
+    "textid": 7874
+  },
+  {
+    "npc_guid": 42917,
+    "textid": 7752
+  },
+  {
+    "npc_guid": 42918,
+    "textid": 7747
+  },
+  {
+    "npc_guid": 42919,
+    "textid": 7817
+  },
+  {
+    "npc_guid": 43044,
+    "textid": 8108
+  },
+  {
+    "npc_guid": 43121,
+    "textid": 8217
+  },
+  {
+    "npc_guid": 43122,
+    "textid": 8214
+  },
+  {
+    "npc_guid": 43123,
+    "textid": 8216
+  },
+  {
+    "npc_guid": 43173,
+    "textid": 8960
+  },
+  {
+    "npc_guid": 43174,
+    "textid": 6155
+  },
+  {
+    "npc_guid": 43175,
+    "textid": 7779
+  },
+  {
+    "npc_guid": 43180,
+    "textid": 7782
+  },
+  {
+    "npc_guid": 43200,
+    "textid": 8114
+  },
+  {
+    "npc_guid": 43224,
+    "textid": 7044
+  },
+  {
+    "npc_guid": 43236,
+    "textid": 7797
+  },
+  {
+    "npc_guid": 44187,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 44738,
+    "textid": 623
+  },
+  {
+    "npc_guid": 45225,
+    "textid": 4355
+  },
+  {
+    "npc_guid": 45237,
+    "textid": 4193
+  },
+  {
+    "npc_guid": 45238,
+    "textid": 3940
+  },
+  {
+    "npc_guid": 45239,
+    "textid": 3754
+  },
+  {
+    "npc_guid": 45241,
+    "textid": 4135
+  },
+  {
+    "npc_guid": 45242,
+    "textid": 3984
+  },
+  {
+    "npc_guid": 45245,
+    "textid": 4633
+  },
+  {
+    "npc_guid": 45424,
+    "textid": 4041
+  },
+  {
+    "npc_guid": 45435,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 45437,
+    "textid": 4357
+  },
+  {
+    "npc_guid": 45439,
+    "textid": 3633
+  },
+  {
+    "npc_guid": 45440,
+    "textid": 3668
+  },
+  {
+    "npc_guid": 45452,
+    "textid": 4354
+  },
+  {
+    "npc_guid": 45453,
+    "textid": 3584
+  },
+  {
+    "npc_guid": 45610,
+    "textid": 8280
+  },
+  {
+    "npc_guid": 46166,
+    "textid": 8064
+  },
+  {
+    "npc_guid": 46167,
+    "textid": 8059
+  },
+  {
+    "npc_guid": 46168,
+    "textid": 8215
+  },
+  {
+    "npc_guid": 46178,
+    "textid": 5725
+  },
+  {
+    "npc_guid": 46179,
+    "textid": 4794
+  },
+  {
+    "npc_guid": 46181,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 46182,
+    "textid": 4863
+  },
+  {
+    "npc_guid": 46183,
+    "textid": 4783
+  },
+  {
+    "npc_guid": 46184,
+    "textid": 5725
+  },
+  {
+    "npc_guid": 46186,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 46189,
+    "textid": 4780
+  },
+  {
+    "npc_guid": 46195,
+    "textid": 6960
+  },
+  {
+    "npc_guid": 46205,
+    "textid": 4936
+  },
+  {
+    "npc_guid": 46217,
+    "textid": 4994
+  },
+  {
+    "npc_guid": 46218,
+    "textid": 5437
+  },
+  {
+    "npc_guid": 46221,
+    "textid": 4863
+  },
+  {
+    "npc_guid": 46223,
+    "textid": 3076
+  },
+  {
+    "npc_guid": 46241,
+    "textid": 5187
+  },
+  {
+    "npc_guid": 46244,
+    "textid": 5540
+  },
+  {
+    "npc_guid": 46304,
+    "textid": 9073
+  },
+  {
+    "npc_guid": 46312,
+    "textid": 4794
+  },
+  {
+    "npc_guid": 46320,
+    "textid": 5873
+  },
+  {
+    "npc_guid": 46334,
+    "textid": 5325
+  },
+  {
+    "npc_guid": 46336,
+    "textid": 5273
+  },
+  {
+    "npc_guid": 46341,
+    "textid": 824
+  },
+  {
+    "npc_guid": 46343,
+    "textid": 824
+  },
+  {
+    "npc_guid": 46349,
+    "textid": 6291
+  },
+  {
+    "npc_guid": 46410,
+    "textid": 5838
+  },
+  {
+    "npc_guid": 46415,
+    "textid": 6160
+  },
+  {
+    "npc_guid": 46420,
+    "textid": 7017
+  },
+  {
+    "npc_guid": 46422,
+    "textid": 7026
+  },
+  {
+    "npc_guid": 46466,
+    "textid": 5393
+  },
+  {
+    "npc_guid": 46467,
+    "textid": 5213
+  },
+  {
+    "npc_guid": 46469,
+    "textid": 4794
+  },
+  {
+    "npc_guid": 46470,
+    "textid": 4794
+  },
+  {
+    "npc_guid": 46472,
+    "textid": 2037
+  },
+  {
+    "npc_guid": 46473,
+    "textid": 5844
+  },
+  {
+    "npc_guid": 46474,
+    "textid": 4781
+  },
+  {
+    "npc_guid": 46475,
+    "textid": 4781
+  },
+  {
+    "npc_guid": 46480,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 46559,
+    "textid": 7193
+  },
+  {
+    "npc_guid": 46561,
+    "textid": 5475
+  },
+  {
+    "npc_guid": 46567,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 46570,
+    "textid": 7665
+  },
+  {
+    "npc_guid": 46613,
+    "textid": 2727
+  },
+  {
+    "npc_guid": 46615,
+    "textid": 2973
+  },
+  {
+    "npc_guid": 46616,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46617,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46618,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46619,
+    "textid": 2643
+  },
+  {
+    "npc_guid": 46620,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46621,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 46622,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 46624,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 46625,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46626,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46627,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 46628,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 46629,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 46630,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 46718,
+    "textid": 7017
+  },
+  {
+    "npc_guid": 46722,
+    "textid": 5862
+  },
+  {
+    "npc_guid": 46723,
+    "textid": 5477
+  },
+  {
+    "npc_guid": 46801,
+    "textid": 7354
+  },
+  {
+    "npc_guid": 46803,
+    "textid": 8126
+  },
+  {
+    "npc_guid": 46809,
+    "textid": 5725
+  },
+  {
+    "npc_guid": 46820,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46821,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46822,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46823,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46824,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46825,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46826,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46828,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46829,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46830,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46831,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46832,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46833,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46834,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46835,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46836,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46837,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46838,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46839,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46840,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46841,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46843,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46844,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46845,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46846,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46847,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46848,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46849,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46852,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46853,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46854,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46855,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46880,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46881,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46882,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46883,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46884,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 46903,
+    "textid": 2285
+  },
+  {
+    "npc_guid": 47499,
+    "textid": 7026
+  },
+  {
+    "npc_guid": 47779,
+    "textid": 5834
+  },
+  {
+    "npc_guid": 48092,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 48093,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 48094,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 48152,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 48153,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 48168,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 48169,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 48170,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 48171,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 48172,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 48276,
+    "textid": 1253
+  },
+  {
+    "npc_guid": 48358,
+    "textid": 5124
+  },
+  {
+    "npc_guid": 48459,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48460,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48461,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48462,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48463,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48464,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48465,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48466,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48467,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48468,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48805,
+    "textid": 4446
+  },
+  {
+    "npc_guid": 48879,
+    "textid": 5010
+  },
+  {
+    "npc_guid": 48948,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48949,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48950,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48951,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48952,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48953,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48954,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48955,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48956,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 48957,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 49077,
+    "textid": 7594
+  },
+  {
+    "npc_guid": 49539,
+    "textid": 2153
+  },
+  {
+    "npc_guid": 49843,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49844,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49845,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49846,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49847,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49848,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49849,
+    "textid": 4316
+  },
+  {
+    "npc_guid": 49851,
+    "textid": 5725
+  },
+  {
+    "npc_guid": 49852,
+    "textid": 7818
+  },
+  {
+    "npc_guid": 49859,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 49903,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 49934,
+    "textid": 4437
+  },
+  {
+    "npc_guid": 49936,
+    "textid": 7481
+  },
+  {
+    "npc_guid": 49938,
+    "textid": 5474
+  },
+  {
+    "npc_guid": 49939,
+    "textid": 3016
+  },
+  {
+    "npc_guid": 50014,
+    "textid": 7116
+  },
+  {
+    "npc_guid": 50060,
+    "textid": 822
+  },
+  {
+    "npc_guid": 50080,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 50142,
+    "textid": 5407
+  },
+  {
+    "npc_guid": 50145,
+    "textid": 2433
+  },
+  {
+    "npc_guid": 50147,
+    "textid": 3545
+  },
+  {
+    "npc_guid": 50996,
+    "textid": 2638
+  },
+  {
+    "npc_guid": 51069,
+    "textid": 1757
+  },
+  {
+    "npc_guid": 51234,
+    "textid": 7402
+  },
+  {
+    "npc_guid": 51301,
+    "textid": 5717
+  },
+  {
+    "npc_guid": 51377,
+    "textid": 9385
+  },
+  {
+    "npc_guid": 51780,
+    "textid": 2496
+  },
+  {
+    "npc_guid": 52349,
+    "textid": 7880
+  },
+  {
+    "npc_guid": 52415,
+    "textid": 7790
+  },
+  {
+    "npc_guid": 52416,
+    "textid": 7395
+  },
+  {
+    "npc_guid": 52882,
+    "textid": 5253
+  },
+  {
+    "npc_guid": 52920,
+    "textid": 1231
+  },
+  {
+    "npc_guid": 52924,
+    "textid": 1252
+  },
+  {
+    "npc_guid": 52925,
+    "textid": 1231
+  },
+  {
+    "npc_guid": 52957,
+    "textid": 5894
+  },
+  {
+    "npc_guid": 53171,
+    "textid": 4814
+  },
+  {
+    "npc_guid": 53174,
+    "textid": 4979
+  },
+  {
+    "npc_guid": 53177,
+    "textid": 7778
+  },
+  {
+    "npc_guid": 53618,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 53620,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 53737,
+    "textid": 4716
+  },
+  {
+    "npc_guid": 53739,
+    "textid": 5795
+  },
+  {
+    "npc_guid": 53837,
+    "textid": 4254
+  },
+  {
+    "npc_guid": 53897,
+    "textid": 8455
+  },
+  {
+    "npc_guid": 53898,
+    "textid": 8455
+  },
+  {
+    "npc_guid": 53943,
+    "textid": 3755
+  },
+  {
+    "npc_guid": 54120,
+    "textid": 8355
+  },
+  {
+    "npc_guid": 54145,
+    "textid": 8357
+  },
+  {
+    "npc_guid": 54163,
+    "textid": 8356
+  },
+  {
+    "npc_guid": 54164,
+    "textid": 8513
+  },
+  {
+    "npc_guid": 54186,
+    "textid": 8358
+  },
+  {
+    "npc_guid": 54188,
+    "textid": 8448
+  },
+  {
+    "npc_guid": 54190,
+    "textid": 8359
+  },
+  {
+    "npc_guid": 54192,
+    "textid": 8350
+  },
+  {
+    "npc_guid": 54193,
+    "textid": 8354
+  },
+  {
+    "npc_guid": 54338,
+    "textid": 7339
+  },
+  {
+    "npc_guid": 54340,
+    "textid": 11482
+  },
+  {
+    "npc_guid": 54382,
+    "textid": 7338
+  },
+  {
+    "npc_guid": 54384,
+    "textid": 7337
+  },
+  {
+    "npc_guid": 54386,
+    "textid": 7314
+  },
+  {
+    "npc_guid": 54388,
+    "textid": 7383
+  },
+  {
+    "npc_guid": 54390,
+    "textid": 7395
+  },
+  {
+    "npc_guid": 54393,
+    "textid": 7397
+  },
+  {
+    "npc_guid": 54398,
+    "textid": 7404
+  },
+  {
+    "npc_guid": 54400,
+    "textid": 7387
+  },
+  {
+    "npc_guid": 54402,
+    "textid": 7389
+  },
+  {
+    "npc_guid": 54404,
+    "textid": 7355
+  },
+  {
+    "npc_guid": 54417,
+    "textid": 7390
+  },
+  {
+    "npc_guid": 54426,
+    "textid": 7406
+  },
+  {
+    "npc_guid": 54432,
+    "textid": 7400
+  },
+  {
+    "npc_guid": 54614,
+    "textid": 7653
+  },
+  {
+    "npc_guid": 54625,
+    "textid": 7666
+  },
+  {
+    "npc_guid": 54765,
+    "textid": 8353
+  },
+  {
+    "npc_guid": 54766,
+    "textid": 8351
+  },
+  {
+    "npc_guid": 54768,
+    "textid": 8422
+  },
+  {
+    "npc_guid": 54805,
+    "textid": 8452
+  },
+  {
+    "npc_guid": 54807,
+    "textid": 8352
+  },
+  {
+    "npc_guid": 56324,
+    "textid": 7400
+  },
+  {
+    "npc_guid": 56342,
+    "textid": 7314
+  },
+  {
+    "npc_guid": 56497,
+    "textid": 7389
+  },
+  {
+    "npc_guid": 56498,
+    "textid": 7337
+  },
+  {
+    "npc_guid": 56499,
+    "textid": 7792
+  },
+  {
+    "npc_guid": 56600,
+    "textid": 7334
+  },
+  {
+    "npc_guid": 56611,
+    "textid": 7338
+  },
+  {
+    "npc_guid": 56613,
+    "textid": 7382
+  },
+  {
+    "npc_guid": 56614,
+    "textid": 7397
+  },
+  {
+    "npc_guid": 56615,
+    "textid": 7339
+  },
+  {
+    "npc_guid": 56617,
+    "textid": 7355
+  },
+  {
+    "npc_guid": 56621,
+    "textid": 7387
+  },
+  {
+    "npc_guid": 56623,
+    "textid": 7404
+  },
+  {
+    "npc_guid": 56624,
+    "textid": 7406
+  },
+  {
+    "npc_guid": 56625,
+    "textid": 7390
+  },
+  {
+    "npc_guid": 56680,
+    "textid": 7382
+  },
+  {
+    "npc_guid": 61987,
+    "textid": 7383
+  },
+  {
+    "npc_guid": 68930,
+    "textid": 8366
+  },
+  {
+    "npc_guid": 69680,
+    "textid": 4450
+  },
+  {
+    "npc_guid": 70574,
+    "textid": 7956
+  },
+  {
+    "npc_guid": 70575,
+    "textid": 7933
+  },
+  {
+    "npc_guid": 72002,
+    "textid": 10062
+  },
+  {
+    "npc_guid": 79628,
+    "textid": 580
+  },
+  {
+    "npc_guid": 79645,
+    "textid": 4799
+  },
+  {
+    "npc_guid": 79646,
+    "textid": 7028
+  },
+  {
+    "npc_guid": 79656,
+    "textid": 7179
+  },
+  {
+    "npc_guid": 79658,
+    "textid": 1256
+  },
+  {
+    "npc_guid": 79664,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79666,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79669,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79671,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79672,
+    "textid": 1237
+  },
+  {
+    "npc_guid": 79673,
+    "textid": 1237
+  },
+  {
+    "npc_guid": 79674,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79678,
+    "textid": 1250
+  },
+  {
+    "npc_guid": 79679,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79682,
+    "textid": 1235
+  },
+  {
+    "npc_guid": 79684,
+    "textid": 1250
+  },
+  {
+    "npc_guid": 79686,
+    "textid": 1236
+  },
+  {
+    "npc_guid": 79687,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79688,
+    "textid": 8238
+  },
+  {
+    "npc_guid": 79689,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79695,
+    "textid": 8130
+  },
+  {
+    "npc_guid": 79696,
+    "textid": 1235
+  },
+  {
+    "npc_guid": 79697,
+    "textid": 1235
+  },
+  {
+    "npc_guid": 79698,
+    "textid": 6289
+  },
+  {
+    "npc_guid": 79704,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79714,
+    "textid": 1235
+  },
+  {
+    "npc_guid": 79723,
+    "textid": 1235
+  },
+  {
+    "npc_guid": 79726,
+    "textid": 1238
+  },
+  {
+    "npc_guid": 79727,
+    "textid": 5320
+  },
+  {
+    "npc_guid": 79728,
+    "textid": 1238
+  },
+  {
+    "npc_guid": 79730,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79731,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79732,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79733,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79734,
+    "textid": 5260
+  },
+  {
+    "npc_guid": 79737,
+    "textid": 1238
+  },
+  {
+    "npc_guid": 79738,
+    "textid": 1239
+  },
+  {
+    "npc_guid": 79751,
+    "textid": 1254
+  },
+  {
+    "npc_guid": 79755,
+    "textid": 1207
+  },
+  {
+    "npc_guid": 79756,
+    "textid": 1238
+  },
+  {
+    "npc_guid": 79767,
+    "textid": 3657
+  },
+  {
+    "npc_guid": 79769,
+    "textid": 6957
+  },
+  {
+    "npc_guid": 79778,
+    "textid": 5721
+  },
+  {
+    "npc_guid": 79779,
+    "textid": 5721
+  },
+  {
+    "npc_guid": 79780,
+    "textid": 5721
+  },
+  {
+    "npc_guid": 79782,
+    "textid": 6948
+  },
+  {
+    "npc_guid": 79785,
+    "textid": 5994
+  },
+  {
+    "npc_guid": 79786,
+    "textid": 1258
+  },
+  {
+    "npc_guid": 79787,
+    "textid": 4837
+  },
+  {
+    "npc_guid": 79788,
+    "textid": 4837
+  },
+  {
+    "npc_guid": 79799,
+    "textid": 1236
+  },
+  {
+    "npc_guid": 79806,
+    "textid": 7011
+  },
+  {
+    "npc_guid": 79819,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79821,
+    "textid": 7196
+  },
+  {
+    "npc_guid": 79823,
+    "textid": 1234
+  },
+  {
+    "npc_guid": 79825,
+    "textid": 1202
+  },
+  {
+    "npc_guid": 79826,
+    "textid": 5561
+  },
+  {
+    "npc_guid": 79827,
+    "textid": 1231
+  },
+  {
+    "npc_guid": 79828,
+    "textid": 5207
+  },
+  {
+    "npc_guid": 79829,
+    "textid": 5181
+  },
+  {
+    "npc_guid": 79831,
+    "textid": 1231
+  },
+  {
+    "npc_guid": 79832,
+    "textid": 5016
+  },
+  {
+    "npc_guid": 79833,
+    "textid": 1233
+  },
+  {
+    "npc_guid": 79834,
+    "textid": 5019
+  },
+  {
+    "npc_guid": 79838,
+    "textid": 3484
+  },
+  {
+    "npc_guid": 79840,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79841,
+    "textid": 820
+  },
+  {
+    "npc_guid": 79853,
+    "textid": 1250
+  },
+  {
+    "npc_guid": 79854,
+    "textid": 6936
+  },
+  {
+    "npc_guid": 79857,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79859,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79861,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79863,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79864,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79865,
+    "textid": 933
+  },
+  {
+    "npc_guid": 79963,
+    "textid": 4433
+  },
+  {
+    "npc_guid": 79964,
+    "textid": 1216
+  },
+  {
+    "npc_guid": 79970,
+    "textid": 4938
+  },
+  {
+    "npc_guid": 79986,
+    "textid": 4835
+  },
+  {
+    "npc_guid": 80325,
+    "textid": 3977
+  },
+  {
+    "npc_guid": 80333,
+    "textid": 1216
+  },
+  {
+    "npc_guid": 80334,
+    "textid": 16211
+  },
+  {
+    "npc_guid": 80336,
+    "textid": 3405
+  },
+  {
+    "npc_guid": 80344,
+    "textid": 539
+  },
+  {
+    "npc_guid": 80346,
+    "textid": 820
+  },
+  {
+    "npc_guid": 80347,
+    "textid": 4434
+  },
+  {
+    "npc_guid": 80352,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 80355,
+    "textid": 7015
+  },
+  {
+    "npc_guid": 80471,
+    "textid": 2286
+  },
+  {
+    "npc_guid": 80933,
+    "textid": 5247
+  },
+  {
+    "npc_guid": 81093,
+    "textid": 5257
+  },
+  {
+    "npc_guid": 81094,
+    "textid": 6961
+  },
+  {
+    "npc_guid": 81389,
+    "textid": 4876
+  },
+  {
+    "npc_guid": 81393,
+    "textid": 4859
+  },
+  {
+    "npc_guid": 84656,
+    "textid": 580
+  },
+  {
+    "npc_guid": 84826,
+    "textid": 580
+  },
+  {
+    "npc_guid": 86166,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 86180,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 86182,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 86233,
+    "textid": 6194
+  },
+  {
+    "npc_guid": 86234,
+    "textid": 7806
+  },
+  {
+    "npc_guid": 86263,
+    "textid": 7818
+  },
+  {
+    "npc_guid": 86424,
+    "textid": 8103
+  },
+  {
+    "npc_guid": 87044,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87045,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87046,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87047,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87048,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87049,
+    "textid": 580
+  },
+  {
+    "npc_guid": 87050,
+    "textid": 580
+  },
+  {
+    "npc_guid": 88826,
+    "textid": 7536
+  },
+  {
+    "npc_guid": 88829,
+    "textid": 7535
+  },
+  {
+    "npc_guid": 89522,
+    "textid": 5009
+  },
+  {
+    "npc_guid": 90462,
+    "textid": 538
+  },
+  {
+    "npc_guid": 90468,
+    "textid": 5836
+  },
+  {
+    "npc_guid": 90471,
+    "textid": 6755
+  },
+  {
+    "npc_guid": 90478,
+    "textid": 5919
+  },
+  {
+    "npc_guid": 90480,
+    "textid": 4438
+  },
+  {
+    "npc_guid": 90737,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 90738,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 90739,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90740,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90741,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90742,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90743,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 90744,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90745,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90746,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90881,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90882,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90883,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90884,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90885,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90886,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 90887,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90888,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 90889,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 90890,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91010,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91011,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91012,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91013,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91014,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91015,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91016,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91017,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91018,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91019,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91021,
+    "textid": 2595
+  },
+  {
+    "npc_guid": 91022,
+    "textid": 2598
+  },
+  {
+    "npc_guid": 91023,
+    "textid": 2602
+  },
+  {
+    "npc_guid": 91024,
+    "textid": 2597
+  },
+  {
+    "npc_guid": 91025,
+    "textid": 2596
+  },
+  {
+    "npc_guid": 91026,
+    "textid": 2600
+  },
+  {
+    "npc_guid": 91043,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91044,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91045,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91046,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91047,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91048,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 91049,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91050,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91051,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91052,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91064,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91065,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91066,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91067,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91068,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91069,
+    "textid": 2637
+  },
+  {
+    "npc_guid": 91070,
+    "textid": 2636
+  },
+  {
+    "npc_guid": 91071,
+    "textid": 2758
+  },
+  {
+    "npc_guid": 91312,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91313,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91314,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91315,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91316,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91317,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91318,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91319,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91320,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91321,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91370,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91371,
+    "textid": 4445
+  },
+  {
+    "npc_guid": 91572,
+    "textid": 8205
+  },
+  {
+    "npc_guid": 91603,
+    "textid": 7935
+  },
+  {
+    "npc_guid": 91608,
+    "textid": 8205
+  },
+  {
+    "npc_guid": 91610,
+    "textid": 7935
+  },
+  {
+    "npc_guid": 91613,
+    "textid": 8205
+  },
+  {
+    "npc_guid": 91626,
+    "textid": 8205
+  },
+  {
+    "npc_guid": 91630,
+    "textid": 7933
+  },
+  {
+    "npc_guid": 91631,
+    "textid": 7933
+  },
+  {
+    "npc_guid": 91632,
+    "textid": 8205
+  },
+  {
+    "npc_guid": 91679,
+    "textid": 8202
+  },
+  {
+    "npc_guid": 91710,
+    "textid": 7933
+  },
+  {
+    "npc_guid": 91711,
+    "textid": 7956
+  },
+  {
+    "npc_guid": 91712,
+    "textid": 7956
+  },
+  {
+    "npc_guid": 91713,
+    "textid": 7956
+  },
+  {
+    "npc_guid": 92884,
+    "textid": 7211
+  },
+  {
+    "npc_guid": 92889,
+    "textid": 7175
+  },
+  {
+    "npc_guid": 92909,
+    "textid": 7239
+  },
+  {
+    "npc_guid": 92910,
+    "textid": 7238
+  },
+  {
+    "npc_guid": 92911,
+    "textid": 7240
+  },
+  {
+    "npc_guid": 92912,
+    "textid": 7237
+  },
+  {
+    "npc_guid": 92913,
+    "textid": 7241
+  },
+  {
+    "npc_guid": 92914,
+    "textid": 7242
+  },
+  {
+    "npc_guid": 93209,
+    "textid": 7257
+  },
+  {
+    "npc_guid": 138118,
+    "textid": 6694
+  },
+  {
+    "npc_guid": 150102,
+    "textid": 6066
+  },
+  {
+    "npc_guid": 400030,
+    "textid": 400030
+  },
+  {
+    "npc_guid": 400033,
+    "textid": 3148
+  }
+]

@@ -1,0 +1,8 @@
+#pragma once
+#include "Storm/h/SThread.h"
+#include <cstdint>
+#include <ctime>
+#include <windows.h>
+struct OSFILETIME{std::uint64_t m_value;};struct OSSYSTEMTIME{std::uint16_t year,month,dayOfWeek,day,hour,minute,second,milliseconds;};
+class OsTimeManager{public:struct TimeSnapshot{std::int64_t rdtsc;unsigned int tickCount;LARGE_INTEGER qperfCount;};OsTimeManager();~OsTimeManager();void Shutdown();void Snapshot(TimeSnapshot*);static unsigned int __stdcall TimeKeeper(void*);void Calibrate();std::int64_t cpuTicksPerSecond_qp,cpuTicksPerSecond_ti;SThread timeMgrThread;SEvent shutdownEvt;unsigned int sleepVal;int hasQPF;};
+std::uint64_t __cdecl OsGetAsyncTimeClocks();std::int64_t __fastcall OsGetAsyncClocksPerSecond();double __fastcall OsGetAsyncClocksDivisor();DWORD __stdcall OsGetAsyncTimeMs();unsigned int __fastcall OsGetAsyncTimeMsPrecise();double __fastcall OsGetAsyncTimeSec();void __fastcall OsGetTimeStr(char*,unsigned int);void OsGetTimeStamp(char*,size_t);void OsGetTimeStr(char*,size_t,const char*,std::time_t);std::time_t OsGetTime(std::time_t*);void OsFileTimeGetCurrent(FILETIME*);LONG __fastcall OsFileTimeCompare(const FILETIME*,const FILETIME*);void OsFileTimeAdd(OSFILETIME*,unsigned int);std::uint64_t __fastcall OsGetAsyncThreadTimeMs();unsigned int __fastcall OsGetTime();void OsGetSystemTime(SYSTEMTIME*);void OsGetLocalTime(SYSTEMTIME*);int __fastcall OsSystemTimeCompare(const OSSYSTEMTIME*,const OSSYSTEMTIME*);void OsTimeToFileTime(unsigned int,OSFILETIME*);void OsFileTimeToLocalFileTime(const FILETIME*,FILETIME*);void OsFileTimeToSystemTime(const FILETIME*,SYSTEMTIME*);void OsSystemTimeToFileTime(const SYSTEMTIME*,FILETIME*);void OsTimeToLocalSystemTime(const OSSYSTEMTIME*,SYSTEMTIME*);void OsTimeStartup();void OsTimeShutdown();

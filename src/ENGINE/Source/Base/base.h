@@ -1,0 +1,16 @@
+#pragma once
+#include "ENGINE/Source/Base/activity.h"
+#include "ENGINE/Source/Base/cdataallocator.h"
+#include "ENGINE/Source/Base/cdatarecycler.h"
+#include "ENGINE/Source/Base/cdatastore.h"
+#include "ENGINE/Source/Base/cmdline.h"
+#include "ENGINE/Source/Base/convertutf.h"
+#include "ENGINE/Source/Base/coordinate.h"
+#include "ENGINE/Source/Base/cunreal.h"
+#include "ENGINE/Source/Base/filecache.h"
+#include "ENGINE/Source/Base/handle.h"
+#include "ENGINE/Source/Base/msgbuffer.h"
+#include "ENGINE/Source/Base/prop.h"
+#include "ENGINE/Source/Base/rcstring.h"
+#include "ENGINE/Source/Base/status.h"
+void BaseInitializeGlobal();void BaseDestroyGlobal();void BaseInitializeContext();void BaseDestroyContext();

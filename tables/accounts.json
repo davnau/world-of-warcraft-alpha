@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "TEST",
+    "PasswordHash": "0be64ae89ddd24e225434de95d501711339baeee18f009ba9b4369af27d30d60",
+    "SaltHex": "231199060f802e807cb6a7ef2b048e41ca96b697fbd66eaa987909b3556f74ce",
+    "VerifierHex": "aca88df874f9518a5b54a5efd197fe364ac9a77a1f2ee7c9819f617b85bbf82a",
+    "SessionKeyHex": "e150412023c8336f04bb72cd6f452d1e75257c9551866275b908980525717d0be26b895b270a6f9a",
+    "SecurityLevel": 0,
+    "LastIp": "127.0.0.1:61915"
+  },
+  {
+    "Id": 2,
+    "Name": "ADMIN",
+    "PasswordHash": "37268335dd6931045bdcdf92623ff819a64244b53d0e746d438797349d4da578",
+    "SaltHex": "77ff05f0195fd86f48468c74a8ff3ad1e422d0afddc6ade42a1bb7ee87caf8a1",
+    "VerifierHex": "5e5c0a6017a7b60bc7643c0041bffd3b2dbdd2b32604328c21c835fdc31fc40a",
+    "SessionKeyHex": "d23936f7d6c761482995f6458136016380973297eafa40ca783312f4177f2e19d8b63b39ff818d73",
+    "SecurityLevel": 0,
+    "LastIp": "127.0.0.1:57636"
+  }
+]

@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Owner": 1,
+    "Index": 72,
+    "Action": 6603
+  },
+  {
+    "Owner": 1,
+    "Index": 73,
+    "Action": 78
+  },
+  {
+    "Owner": 1,
+    "Index": 83,
+    "Action": -117
+  },
+  {
+    "Owner": 2,
+    "Index": 0,
+    "Action": 6603
+  },
+  {
+    "Owner": 2,
+    "Index": 1,
+    "Action": 1485
+  },
+  {
+    "Owner": 2,
+    "Index": 2,
+    "Action": 743
+  },
+  {
+    "Owner": 2,
+    "Index": 10,
+    "Action": -159
+  },
+  {
+    "Owner": 2,
+    "Index": 11,
+    "Action": -117
+  },
+  {
+    "Owner": 4,
+    "Index": 72,
+    "Action": 6603
+  },
+  {
+    "Owner": 4,
+    "Index": 73,
+    "Action": 78
+  },
+  {
+    "Owner": 4,
+    "Index": 83,
+    "Action": -117
+  },
+  {
+    "Owner": 5,
+    "Index": 0,
+    "Action": 6603
+  },
+  {
+    "Owner": 5,
+    "Index": 1,
+    "Action": 686
+  },
+  {
+    "Owner": 5,
+    "Index": 2,
+    "Action": 687
+  },
+  {
+    "Owner": 5,
+    "Index": 10,
+    "Action": -159
+  },
+  {
+    "Owner": 5,
+    "Index": 11,
+    "Action": -4604
+  }
+]

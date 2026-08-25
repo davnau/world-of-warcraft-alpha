@@ -1,0 +1,4006 @@
+[
+  {
+    "spell_id": 10,
+    "prev_spell": 0,
+    "first_spell": 10,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 17,
+    "prev_spell": 0,
+    "first_spell": 17,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 53,
+    "prev_spell": 0,
+    "first_spell": 53,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 66,
+    "prev_spell": 0,
+    "first_spell": 66,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 71,
+    "prev_spell": 0,
+    "first_spell": 71,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 78,
+    "prev_spell": 0,
+    "first_spell": 78,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 94,
+    "prev_spell": 7325,
+    "first_spell": 7325,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 99,
+    "prev_spell": 0,
+    "first_spell": 99,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 100,
+    "prev_spell": 0,
+    "first_spell": 100,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 101,
+    "prev_spell": 0,
+    "first_spell": 101,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 113,
+    "prev_spell": 0,
+    "first_spell": 113,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 116,
+    "prev_spell": 0,
+    "first_spell": 116,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 118,
+    "prev_spell": 0,
+    "first_spell": 118,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 122,
+    "prev_spell": 0,
+    "first_spell": 122,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 126,
+    "prev_spell": 0,
+    "first_spell": 126,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 131,
+    "prev_spell": 0,
+    "first_spell": 131,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 132,
+    "prev_spell": 0,
+    "first_spell": 132,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 133,
+    "prev_spell": 0,
+    "first_spell": 133,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 136,
+    "prev_spell": 0,
+    "first_spell": 136,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 139,
+    "prev_spell": 0,
+    "first_spell": 139,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 143,
+    "prev_spell": 133,
+    "first_spell": 133,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 145,
+    "prev_spell": 143,
+    "first_spell": 133,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 168,
+    "prev_spell": 0,
+    "first_spell": 168,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 172,
+    "prev_spell": 0,
+    "first_spell": 172,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 205,
+    "prev_spell": 116,
+    "first_spell": 116,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 246,
+    "prev_spell": 0,
+    "first_spell": 246,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 284,
+    "prev_spell": 78,
+    "first_spell": 78,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 285,
+    "prev_spell": 284,
+    "first_spell": 78,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 308,
+    "prev_spell": 0,
+    "first_spell": 308,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 315,
+    "prev_spell": 0,
+    "first_spell": 315,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 324,
+    "prev_spell": 0,
+    "first_spell": 324,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 325,
+    "prev_spell": 324,
+    "first_spell": 324,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 331,
+    "prev_spell": 0,
+    "first_spell": 331,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 332,
+    "prev_spell": 331,
+    "first_spell": 331,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 339,
+    "prev_spell": 0,
+    "first_spell": 339,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 344,
+    "prev_spell": 0,
+    "first_spell": 344,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 348,
+    "prev_spell": 0,
+    "first_spell": 348,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 355,
+    "prev_spell": 0,
+    "first_spell": 355,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 365,
+    "prev_spell": 0,
+    "first_spell": 365,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 370,
+    "prev_spell": 0,
+    "first_spell": 370,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 403,
+    "prev_spell": 0,
+    "first_spell": 403,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 408,
+    "prev_spell": 0,
+    "first_spell": 408,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 421,
+    "prev_spell": 0,
+    "first_spell": 421,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 465,
+    "prev_spell": 0,
+    "first_spell": 465,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 467,
+    "prev_spell": 0,
+    "first_spell": 467,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 475,
+    "prev_spell": 0,
+    "first_spell": 475,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 491,
+    "prev_spell": 0,
+    "first_spell": 491,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 498,
+    "prev_spell": 0,
+    "first_spell": 498,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 512,
+    "prev_spell": 113,
+    "first_spell": 113,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 526,
+    "prev_spell": 0,
+    "first_spell": 526,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 527,
+    "prev_spell": 0,
+    "first_spell": 527,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 528,
+    "prev_spell": 0,
+    "first_spell": 528,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 529,
+    "prev_spell": 403,
+    "first_spell": 403,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 530,
+    "prev_spell": 0,
+    "first_spell": 530,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 543,
+    "prev_spell": 0,
+    "first_spell": 543,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 544,
+    "prev_spell": 308,
+    "first_spell": 308,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 545,
+    "prev_spell": 315,
+    "first_spell": 315,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 546,
+    "prev_spell": 0,
+    "first_spell": 546,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 547,
+    "prev_spell": 332,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 548,
+    "prev_spell": 529,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 549,
+    "prev_spell": 365,
+    "first_spell": 365,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 550,
+    "prev_spell": 2893,
+    "first_spell": 2893,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 552,
+    "prev_spell": 528,
+    "first_spell": 528,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 554,
+    "prev_spell": 0,
+    "first_spell": 0,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 556,
+    "prev_spell": 0,
+    "first_spell": 556,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 585,
+    "prev_spell": 0,
+    "first_spell": 585,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 587,
+    "prev_spell": 0,
+    "first_spell": 587,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 588,
+    "prev_spell": 0,
+    "first_spell": 588,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 589,
+    "prev_spell": 0,
+    "first_spell": 589,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 591,
+    "prev_spell": 585,
+    "first_spell": 585,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 592,
+    "prev_spell": 17,
+    "first_spell": 17,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 593,
+    "prev_spell": 0,
+    "first_spell": 593,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 594,
+    "prev_spell": 589,
+    "first_spell": 589,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 596,
+    "prev_spell": 0,
+    "first_spell": 596,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 597,
+    "prev_spell": 587,
+    "first_spell": 587,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 598,
+    "prev_spell": 591,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 600,
+    "prev_spell": 592,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 602,
+    "prev_spell": 7128,
+    "first_spell": 588,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 605,
+    "prev_spell": 0,
+    "first_spell": 605,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 606,
+    "prev_spell": 0,
+    "first_spell": 606,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 633,
+    "prev_spell": 0,
+    "first_spell": 633,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 635,
+    "prev_spell": 0,
+    "first_spell": 635,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 636,
+    "prev_spell": 0,
+    "first_spell": 636,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 639,
+    "prev_spell": 635,
+    "first_spell": 635,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 642,
+    "prev_spell": 0,
+    "first_spell": 642,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 643,
+    "prev_spell": 465,
+    "first_spell": 465,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 645,
+    "prev_spell": 636,
+    "first_spell": 636,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 647,
+    "prev_spell": 639,
+    "first_spell": 635,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 648,
+    "prev_spell": 0,
+    "first_spell": 648,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 649,
+    "prev_spell": 0,
+    "first_spell": 649,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 676,
+    "prev_spell": 0,
+    "first_spell": 676,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 678,
+    "prev_spell": 679,
+    "first_spell": 679,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 679,
+    "prev_spell": 0,
+    "first_spell": 679,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 680,
+    "prev_spell": 1866,
+    "first_spell": 679,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 686,
+    "prev_spell": 0,
+    "first_spell": 686,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 687,
+    "prev_spell": 0,
+    "first_spell": 687,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 688,
+    "prev_spell": 0,
+    "first_spell": 688,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 689,
+    "prev_spell": 0,
+    "first_spell": 689,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 691,
+    "prev_spell": 0,
+    "first_spell": 691,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 693,
+    "prev_spell": 0,
+    "first_spell": 693,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 694,
+    "prev_spell": 0,
+    "first_spell": 694,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 695,
+    "prev_spell": 686,
+    "first_spell": 686,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 696,
+    "prev_spell": 687,
+    "first_spell": 687,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 697,
+    "prev_spell": 0,
+    "first_spell": 697,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 698,
+    "prev_spell": 0,
+    "first_spell": 698,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 699,
+    "prev_spell": 689,
+    "first_spell": 689,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 700,
+    "prev_spell": 0,
+    "first_spell": 700,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 703,
+    "prev_spell": 0,
+    "first_spell": 703,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 705,
+    "prev_spell": 695,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 706,
+    "prev_spell": 0,
+    "first_spell": 706,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 707,
+    "prev_spell": 348,
+    "first_spell": 348,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 709,
+    "prev_spell": 699,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 710,
+    "prev_spell": 0,
+    "first_spell": 710,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 712,
+    "prev_spell": 0,
+    "first_spell": 712,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 740,
+    "prev_spell": 0,
+    "first_spell": 740,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 755,
+    "prev_spell": 0,
+    "first_spell": 755,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 759,
+    "prev_spell": 0,
+    "first_spell": 759,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 765,
+    "prev_spell": 0,
+    "first_spell": 765,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 768,
+    "prev_spell": 0,
+    "first_spell": 768,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 771,
+    "prev_spell": 0,
+    "first_spell": 771,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 772,
+    "prev_spell": 0,
+    "first_spell": 772,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 774,
+    "prev_spell": 0,
+    "first_spell": 774,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 776,
+    "prev_spell": 0,
+    "first_spell": 776,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 779,
+    "prev_spell": 0,
+    "first_spell": 779,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 780,
+    "prev_spell": 779,
+    "first_spell": 779,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 782,
+    "prev_spell": 467,
+    "first_spell": 467,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 837,
+    "prev_spell": 205,
+    "first_spell": 116,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 845,
+    "prev_spell": 0,
+    "first_spell": 845,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 853,
+    "prev_spell": 0,
+    "first_spell": 853,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 857,
+    "prev_spell": 491,
+    "first_spell": 491,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 865,
+    "prev_spell": 122,
+    "first_spell": 122,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 879,
+    "prev_spell": 0,
+    "first_spell": 879,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 883,
+    "prev_spell": 0,
+    "first_spell": 883,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 885,
+    "prev_spell": 0,
+    "first_spell": 885,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 899,
+    "prev_spell": 545,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 901,
+    "prev_spell": 544,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 905,
+    "prev_spell": 325,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 909,
+    "prev_spell": 554,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 913,
+    "prev_spell": 547,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 915,
+    "prev_spell": 548,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 921,
+    "prev_spell": 0,
+    "first_spell": 921,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 923,
+    "prev_spell": 899,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 939,
+    "prev_spell": 913,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 943,
+    "prev_spell": 915,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 945,
+    "prev_spell": 905,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 951,
+    "prev_spell": 923,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 959,
+    "prev_spell": 939,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 966,
+    "prev_spell": 0,
+    "first_spell": 966,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 970,
+    "prev_spell": 594,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 972,
+    "prev_spell": 0,
+    "first_spell": 972,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 976,
+    "prev_spell": 0,
+    "first_spell": 976,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 980,
+    "prev_spell": 0,
+    "first_spell": 980,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 984,
+    "prev_spell": 598,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 988,
+    "prev_spell": 527,
+    "first_spell": 527,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 990,
+    "prev_spell": 597,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 992,
+    "prev_spell": 970,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 996,
+    "prev_spell": 596,
+    "first_spell": 596,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 998,
+    "prev_spell": 593,
+    "first_spell": 593,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1004,
+    "prev_spell": 984,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1006,
+    "prev_spell": 602,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1014,
+    "prev_spell": 980,
+    "first_spell": 980,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1020,
+    "prev_spell": 642,
+    "first_spell": 642,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1022,
+    "prev_spell": 0,
+    "first_spell": 1022,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1026,
+    "prev_spell": 647,
+    "first_spell": 635,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1032,
+    "prev_spell": 643,
+    "first_spell": 465,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1034,
+    "prev_spell": 648,
+    "first_spell": 648,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1036,
+    "prev_spell": 0,
+    "first_spell": 1036,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1038,
+    "prev_spell": 0,
+    "first_spell": 1038,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1042,
+    "prev_spell": 1026,
+    "first_spell": 635,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1052,
+    "prev_spell": 0,
+    "first_spell": 1052,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1058,
+    "prev_spell": 774,
+    "first_spell": 774,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1062,
+    "prev_spell": 339,
+    "first_spell": 339,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1075,
+    "prev_spell": 782,
+    "first_spell": 467,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1082,
+    "prev_spell": 0,
+    "first_spell": 1082,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1086,
+    "prev_spell": 706,
+    "first_spell": 706,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1088,
+    "prev_spell": 705,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1090,
+    "prev_spell": 700,
+    "first_spell": 700,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1094,
+    "prev_spell": 707,
+    "first_spell": 348,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1098,
+    "prev_spell": 0,
+    "first_spell": 1098,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1106,
+    "prev_spell": 1088,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1120,
+    "prev_spell": 0,
+    "first_spell": 1120,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1126,
+    "prev_spell": 0,
+    "first_spell": 1126,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1130,
+    "prev_spell": 0,
+    "first_spell": 1130,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1134,
+    "prev_spell": 0,
+    "first_spell": 1134,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1152,
+    "prev_spell": 0,
+    "first_spell": 1152,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1160,
+    "prev_spell": 0,
+    "first_spell": 1160,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1161,
+    "prev_spell": 0,
+    "first_spell": 1161,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1243,
+    "prev_spell": 0,
+    "first_spell": 1243,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1244,
+    "prev_spell": 1243,
+    "first_spell": 1243,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1245,
+    "prev_spell": 1244,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1430,
+    "prev_spell": 1058,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1454,
+    "prev_spell": 0,
+    "first_spell": 1454,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1455,
+    "prev_spell": 1454,
+    "first_spell": 1454,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1456,
+    "prev_spell": 1455,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1459,
+    "prev_spell": 0,
+    "first_spell": 1459,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1460,
+    "prev_spell": 1459,
+    "first_spell": 1459,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1461,
+    "prev_spell": 1460,
+    "first_spell": 1459,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1485,
+    "prev_spell": 0,
+    "first_spell": 1485,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1494,
+    "prev_spell": 0,
+    "first_spell": 1494,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1510,
+    "prev_spell": 0,
+    "first_spell": 1510,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1513,
+    "prev_spell": 0,
+    "first_spell": 1513,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1515,
+    "prev_spell": 0,
+    "first_spell": 1515,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1516,
+    "prev_spell": 0,
+    "first_spell": 1516,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1528,
+    "prev_spell": 1513,
+    "first_spell": 1513,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1543,
+    "prev_spell": 0,
+    "first_spell": 1543,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1608,
+    "prev_spell": 285,
+    "first_spell": 78,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1715,
+    "prev_spell": 0,
+    "first_spell": 1715,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1719,
+    "prev_spell": 0,
+    "first_spell": 1719,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1725,
+    "prev_spell": 0,
+    "first_spell": 1725,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1735,
+    "prev_spell": 99,
+    "first_spell": 99,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1752,
+    "prev_spell": 0,
+    "first_spell": 1752,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1757,
+    "prev_spell": 1752,
+    "first_spell": 1752,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1758,
+    "prev_spell": 1757,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1759,
+    "prev_spell": 1758,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1760,
+    "prev_spell": 1759,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1776,
+    "prev_spell": 0,
+    "first_spell": 1776,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1777,
+    "prev_spell": 1776,
+    "first_spell": 1776,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1784,
+    "prev_spell": 0,
+    "first_spell": 1784,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1785,
+    "prev_spell": 1784,
+    "first_spell": 1784,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1786,
+    "prev_spell": 1785,
+    "first_spell": 1784,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1822,
+    "prev_spell": 0,
+    "first_spell": 1822,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1823,
+    "prev_spell": 1822,
+    "first_spell": 1822,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1824,
+    "prev_spell": 1823,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1833,
+    "prev_spell": 0,
+    "first_spell": 1833,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1834,
+    "prev_spell": 1833,
+    "first_spell": 1833,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1842,
+    "prev_spell": 0,
+    "first_spell": 1842,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1856,
+    "prev_spell": 0,
+    "first_spell": 1856,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1860,
+    "prev_spell": 0,
+    "first_spell": 1860,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1866,
+    "prev_spell": 678,
+    "first_spell": 679,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1945,
+    "prev_spell": 0,
+    "first_spell": 1945,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1949,
+    "prev_spell": 0,
+    "first_spell": 1949,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1953,
+    "prev_spell": 0,
+    "first_spell": 1953,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1960,
+    "prev_spell": 0,
+    "first_spell": 1960,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1966,
+    "prev_spell": 0,
+    "first_spell": 1966,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1978,
+    "prev_spell": 0,
+    "first_spell": 1978,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 1979,
+    "prev_spell": 0,
+    "first_spell": 1979,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2006,
+    "prev_spell": 0,
+    "first_spell": 2006,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2008,
+    "prev_spell": 0,
+    "first_spell": 2008,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2010,
+    "prev_spell": 2006,
+    "first_spell": 2006,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2011,
+    "prev_spell": 2008,
+    "first_spell": 2008,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2050,
+    "prev_spell": 0,
+    "first_spell": 2050,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2052,
+    "prev_spell": 2050,
+    "first_spell": 2050,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2053,
+    "prev_spell": 2052,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2054,
+    "prev_spell": 0,
+    "first_spell": 2054,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2055,
+    "prev_spell": 2054,
+    "first_spell": 2054,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2060,
+    "prev_spell": 0,
+    "first_spell": 2060,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2070,
+    "prev_spell": 6770,
+    "first_spell": 6770,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2090,
+    "prev_spell": 1430,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2094,
+    "prev_spell": 0,
+    "first_spell": 2094,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2096,
+    "prev_spell": 0,
+    "first_spell": 2096,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2098,
+    "prev_spell": 0,
+    "first_spell": 2098,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2120,
+    "prev_spell": 0,
+    "first_spell": 2120,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2121,
+    "prev_spell": 2120,
+    "first_spell": 2120,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2136,
+    "prev_spell": 0,
+    "first_spell": 2136,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2137,
+    "prev_spell": 2136,
+    "first_spell": 2136,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2138,
+    "prev_spell": 2137,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2139,
+    "prev_spell": 0,
+    "first_spell": 2139,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2362,
+    "prev_spell": 0,
+    "first_spell": 2362,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2457,
+    "prev_spell": 0,
+    "first_spell": 2457,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2458,
+    "prev_spell": 0,
+    "first_spell": 2458,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2484,
+    "prev_spell": 0,
+    "first_spell": 2484,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2495,
+    "prev_spell": 680,
+    "first_spell": 679,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2537,
+    "prev_spell": 0,
+    "first_spell": 2537,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2589,
+    "prev_spell": 53,
+    "first_spell": 53,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2590,
+    "prev_spell": 2589,
+    "first_spell": 53,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2591,
+    "prev_spell": 2590,
+    "first_spell": 53,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2606,
+    "prev_spell": 2607,
+    "first_spell": 2607,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2607,
+    "prev_spell": 0,
+    "first_spell": 2607,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2608,
+    "prev_spell": 2606,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2609,
+    "prev_spell": 2608,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2610,
+    "prev_spell": 2609,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2616,
+    "prev_spell": 0,
+    "first_spell": 2616,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2617,
+    "prev_spell": 2616,
+    "first_spell": 2616,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2641,
+    "prev_spell": 0,
+    "first_spell": 2641,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2643,
+    "prev_spell": 0,
+    "first_spell": 2643,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2645,
+    "prev_spell": 0,
+    "first_spell": 2645,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2767,
+    "prev_spell": 992,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2791,
+    "prev_spell": 1245,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2800,
+    "prev_spell": 633,
+    "first_spell": 633,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2812,
+    "prev_spell": 0,
+    "first_spell": 2812,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2818,
+    "prev_spell": 0,
+    "first_spell": 2818,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2823,
+    "prev_spell": 0,
+    "first_spell": 2823,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2835,
+    "prev_spell": 0,
+    "first_spell": 2835,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2837,
+    "prev_spell": 2835,
+    "first_spell": 2835,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2856,
+    "prev_spell": 0,
+    "first_spell": 2856,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2866,
+    "prev_spell": 0,
+    "first_spell": 2866,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2870,
+    "prev_spell": 0,
+    "first_spell": 2870,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2871,
+    "prev_spell": 2870,
+    "first_spell": 2870,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2878,
+    "prev_spell": 0,
+    "first_spell": 2878,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2893,
+    "prev_spell": 0,
+    "first_spell": 2893,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2894,
+    "prev_spell": 2893,
+    "first_spell": 2893,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2895,
+    "prev_spell": 2894,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2937,
+    "prev_spell": 1090,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2941,
+    "prev_spell": 1094,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2970,
+    "prev_spell": 0,
+    "first_spell": 2970,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 2983,
+    "prev_spell": 0,
+    "first_spell": 2983,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3009,
+    "prev_spell": 0,
+    "first_spell": 3009,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3011,
+    "prev_spell": 0,
+    "first_spell": 3011,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3029,
+    "prev_spell": 1082,
+    "first_spell": 1082,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3035,
+    "prev_spell": 0,
+    "first_spell": 3035,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3036,
+    "prev_spell": 3035,
+    "first_spell": 3035,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3037,
+    "prev_spell": 3036,
+    "first_spell": 3035,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3038,
+    "prev_spell": 3037,
+    "first_spell": 3035,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3111,
+    "prev_spell": 136,
+    "first_spell": 136,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3127,
+    "prev_spell": 0,
+    "first_spell": 3127,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3140,
+    "prev_spell": 145,
+    "first_spell": 133,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3420,
+    "prev_spell": 0,
+    "first_spell": 3420,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3421,
+    "prev_spell": 3420,
+    "first_spell": 3420,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3472,
+    "prev_spell": 1042,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3487,
+    "prev_spell": 0,
+    "first_spell": 3487,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3561,
+    "prev_spell": 0,
+    "first_spell": 3561,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3562,
+    "prev_spell": 0,
+    "first_spell": 3562,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3563,
+    "prev_spell": 0,
+    "first_spell": 3563,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3565,
+    "prev_spell": 0,
+    "first_spell": 3565,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3566,
+    "prev_spell": 0,
+    "first_spell": 3566,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3567,
+    "prev_spell": 0,
+    "first_spell": 3567,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3599,
+    "prev_spell": 0,
+    "first_spell": 3599,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3661,
+    "prev_spell": 3111,
+    "first_spell": 136,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3662,
+    "prev_spell": 3661,
+    "first_spell": 136,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3668,
+    "prev_spell": 3038,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3698,
+    "prev_spell": 755,
+    "first_spell": 755,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3699,
+    "prev_spell": 3698,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3700,
+    "prev_spell": 3699,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 3747,
+    "prev_spell": 600,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4425,
+    "prev_spell": 0,
+    "first_spell": 4425,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4715,
+    "prev_spell": 0,
+    "first_spell": 4715,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4731,
+    "prev_spell": 0,
+    "first_spell": 4731,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4732,
+    "prev_spell": 0,
+    "first_spell": 4732,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4733,
+    "prev_spell": 0,
+    "first_spell": 4733,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4734,
+    "prev_spell": 0,
+    "first_spell": 4734,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4735,
+    "prev_spell": 0,
+    "first_spell": 4735,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4736,
+    "prev_spell": 0,
+    "first_spell": 4736,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4737,
+    "prev_spell": 0,
+    "first_spell": 4737,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4739,
+    "prev_spell": 0,
+    "first_spell": 4739,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4740,
+    "prev_spell": 0,
+    "first_spell": 4740,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4741,
+    "prev_spell": 0,
+    "first_spell": 4741,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4742,
+    "prev_spell": 0,
+    "first_spell": 4742,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4743,
+    "prev_spell": 0,
+    "first_spell": 4743,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4744,
+    "prev_spell": 0,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4745,
+    "prev_spell": 4744,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4746,
+    "prev_spell": 0,
+    "first_spell": 4746,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4747,
+    "prev_spell": 0,
+    "first_spell": 4747,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4748,
+    "prev_spell": 0,
+    "first_spell": 4748,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4750,
+    "prev_spell": 0,
+    "first_spell": 4750,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4766,
+    "prev_spell": 0,
+    "first_spell": 4766,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4767,
+    "prev_spell": 0,
+    "first_spell": 4767,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4768,
+    "prev_spell": 0,
+    "first_spell": 4768,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4769,
+    "prev_spell": 0,
+    "first_spell": 4769,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4770,
+    "prev_spell": 0,
+    "first_spell": 4770,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4771,
+    "prev_spell": 0,
+    "first_spell": 4771,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4772,
+    "prev_spell": 4771,
+    "first_spell": 4771,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4773,
+    "prev_spell": 4772,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4774,
+    "prev_spell": 4773,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4775,
+    "prev_spell": 0,
+    "first_spell": 4775,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4776,
+    "prev_spell": 4775,
+    "first_spell": 4775,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4777,
+    "prev_spell": 0,
+    "first_spell": 4777,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4782,
+    "prev_spell": 0,
+    "first_spell": 4782,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4783,
+    "prev_spell": 4782,
+    "first_spell": 4782,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4785,
+    "prev_spell": 4783,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4804,
+    "prev_spell": 0,
+    "first_spell": 4804,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4807,
+    "prev_spell": 0,
+    "first_spell": 4807,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4808,
+    "prev_spell": 4807,
+    "first_spell": 4807,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4814,
+    "prev_spell": 0,
+    "first_spell": 4814,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4815,
+    "prev_spell": 0,
+    "first_spell": 4815,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4816,
+    "prev_spell": 0,
+    "first_spell": 4816,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 4987,
+    "prev_spell": 0,
+    "first_spell": 4987,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5116,
+    "prev_spell": 0,
+    "first_spell": 5116,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5118,
+    "prev_spell": 0,
+    "first_spell": 5118,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5138,
+    "prev_spell": 0,
+    "first_spell": 5138,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5143,
+    "prev_spell": 0,
+    "first_spell": 5143,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5144,
+    "prev_spell": 5143,
+    "first_spell": 5143,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5145,
+    "prev_spell": 5144,
+    "first_spell": 5143,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5149,
+    "prev_spell": 0,
+    "first_spell": 5149,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5171,
+    "prev_spell": 0,
+    "first_spell": 5171,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5176,
+    "prev_spell": 0,
+    "first_spell": 5176,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5195,
+    "prev_spell": 1062,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5201,
+    "prev_spell": 3029,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5202,
+    "prev_spell": 5201,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5209,
+    "prev_spell": 0,
+    "first_spell": 5209,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5211,
+    "prev_spell": 0,
+    "first_spell": 5211,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5215,
+    "prev_spell": 0,
+    "first_spell": 5215,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5217,
+    "prev_spell": 0,
+    "first_spell": 5217,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5221,
+    "prev_spell": 0,
+    "first_spell": 5221,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5223,
+    "prev_spell": 0,
+    "first_spell": 5223,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5225,
+    "prev_spell": 0,
+    "first_spell": 5225,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5232,
+    "prev_spell": 1126,
+    "first_spell": 1126,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5234,
+    "prev_spell": 6756,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5242,
+    "prev_spell": 6673,
+    "first_spell": 6673,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5246,
+    "prev_spell": 0,
+    "first_spell": 5246,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5277,
+    "prev_spell": 0,
+    "first_spell": 5277,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5333,
+    "prev_spell": 0,
+    "first_spell": 5333,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5378,
+    "prev_spell": 0,
+    "first_spell": 5378,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5380,
+    "prev_spell": 5378,
+    "first_spell": 5378,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5381,
+    "prev_spell": 5380,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5382,
+    "prev_spell": 5381,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5383,
+    "prev_spell": 0,
+    "first_spell": 5383,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5384,
+    "prev_spell": 0,
+    "first_spell": 5384,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5388,
+    "prev_spell": 2645,
+    "first_spell": 2645,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5391,
+    "prev_spell": 1945,
+    "first_spell": 1945,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5394,
+    "prev_spell": 0,
+    "first_spell": 5394,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5395,
+    "prev_spell": 0,
+    "first_spell": 5395,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5398,
+    "prev_spell": 0,
+    "first_spell": 5398,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5399,
+    "prev_spell": 0,
+    "first_spell": 5399,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5500,
+    "prev_spell": 0,
+    "first_spell": 5500,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5502,
+    "prev_spell": 0,
+    "first_spell": 5502,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5504,
+    "prev_spell": 0,
+    "first_spell": 5504,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5505,
+    "prev_spell": 5504,
+    "first_spell": 5504,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5506,
+    "prev_spell": 5505,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5569,
+    "prev_spell": 2495,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5573,
+    "prev_spell": 498,
+    "first_spell": 498,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5588,
+    "prev_spell": 853,
+    "first_spell": 853,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5589,
+    "prev_spell": 5588,
+    "first_spell": 853,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5592,
+    "prev_spell": 0,
+    "first_spell": 5592,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5599,
+    "prev_spell": 1022,
+    "first_spell": 1022,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5601,
+    "prev_spell": 1052,
+    "first_spell": 1052,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5602,
+    "prev_spell": 5601,
+    "first_spell": 1052,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5606,
+    "prev_spell": 649,
+    "first_spell": 649,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5609,
+    "prev_spell": 5606,
+    "first_spell": 649,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5614,
+    "prev_spell": 879,
+    "first_spell": 879,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5615,
+    "prev_spell": 5614,
+    "first_spell": 879,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5618,
+    "prev_spell": 3487,
+    "first_spell": 3487,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5627,
+    "prev_spell": 2878,
+    "first_spell": 2878,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5645,
+    "prev_spell": 94,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5675,
+    "prev_spell": 0,
+    "first_spell": 5675,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5697,
+    "prev_spell": 0,
+    "first_spell": 5697,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5699,
+    "prev_spell": 0,
+    "first_spell": 5699,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5704,
+    "prev_spell": 0,
+    "first_spell": 5704,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5730,
+    "prev_spell": 0,
+    "first_spell": 5730,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5734,
+    "prev_spell": 0,
+    "first_spell": 5734,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5740,
+    "prev_spell": 0,
+    "first_spell": 5740,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5763,
+    "prev_spell": 0,
+    "first_spell": 5763,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5782,
+    "prev_spell": 0,
+    "first_spell": 5782,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 5784,
+    "prev_spell": 0,
+    "first_spell": 5784,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6058,
+    "prev_spell": 2617,
+    "first_spell": 2616,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6060,
+    "prev_spell": 1004,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6063,
+    "prev_spell": 2055,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6064,
+    "prev_spell": 6063,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6065,
+    "prev_spell": 3747,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6066,
+    "prev_spell": 6065,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6069,
+    "prev_spell": 5704,
+    "first_spell": 5704,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6074,
+    "prev_spell": 139,
+    "first_spell": 139,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6075,
+    "prev_spell": 6074,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6076,
+    "prev_spell": 6075,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6077,
+    "prev_spell": 6076,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6078,
+    "prev_spell": 6077,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6127,
+    "prev_spell": 5506,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6129,
+    "prev_spell": 990,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6131,
+    "prev_spell": 865,
+    "first_spell": 122,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6139,
+    "prev_spell": 1953,
+    "first_spell": 1953,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6141,
+    "prev_spell": 10,
+    "first_spell": 10,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6143,
+    "prev_spell": 0,
+    "first_spell": 6143,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6146,
+    "prev_spell": 246,
+    "first_spell": 246,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6148,
+    "prev_spell": 765,
+    "first_spell": 765,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6178,
+    "prev_spell": 100,
+    "first_spell": 100,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6190,
+    "prev_spell": 1160,
+    "first_spell": 1160,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6192,
+    "prev_spell": 5242,
+    "first_spell": 6673,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6196,
+    "prev_spell": 0,
+    "first_spell": 6196,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6197,
+    "prev_spell": 0,
+    "first_spell": 6197,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6201,
+    "prev_spell": 0,
+    "first_spell": 6201,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6202,
+    "prev_spell": 0,
+    "first_spell": 6202,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6213,
+    "prev_spell": 5782,
+    "first_spell": 5782,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6215,
+    "prev_spell": 6213,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6217,
+    "prev_spell": 1014,
+    "first_spell": 980,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6219,
+    "prev_spell": 5740,
+    "first_spell": 5740,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6222,
+    "prev_spell": 172,
+    "first_spell": 172,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6223,
+    "prev_spell": 6222,
+    "first_spell": 172,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6226,
+    "prev_spell": 5138,
+    "first_spell": 5138,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6229,
+    "prev_spell": 0,
+    "first_spell": 6229,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6230,
+    "prev_spell": 0,
+    "first_spell": 6230,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6284,
+    "prev_spell": 0,
+    "first_spell": 6284,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6312,
+    "prev_spell": 0,
+    "first_spell": 6312,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6318,
+    "prev_spell": 6312,
+    "first_spell": 6312,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6319,
+    "prev_spell": 6318,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6320,
+    "prev_spell": 6319,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6321,
+    "prev_spell": 6320,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6329,
+    "prev_spell": 0,
+    "first_spell": 6329,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6343,
+    "prev_spell": 0,
+    "first_spell": 6343,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6344,
+    "prev_spell": 6343,
+    "first_spell": 6343,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6346,
+    "prev_spell": 0,
+    "first_spell": 6346,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6363,
+    "prev_spell": 3599,
+    "first_spell": 3599,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6364,
+    "prev_spell": 6363,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6365,
+    "prev_spell": 6364,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6366,
+    "prev_spell": 6365,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6375,
+    "prev_spell": 5394,
+    "first_spell": 5394,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6376,
+    "prev_spell": 6377,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6377,
+    "prev_spell": 6375,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6378,
+    "prev_spell": 6376,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6387,
+    "prev_spell": 2484,
+    "first_spell": 2484,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6390,
+    "prev_spell": 5730,
+    "first_spell": 5730,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6391,
+    "prev_spell": 6390,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6392,
+    "prev_spell": 6391,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6448,
+    "prev_spell": 0,
+    "first_spell": 6448,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6495,
+    "prev_spell": 0,
+    "first_spell": 6495,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6510,
+    "prev_spell": 0,
+    "first_spell": 6510,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6539,
+    "prev_spell": 0,
+    "first_spell": 6539,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6546,
+    "prev_spell": 772,
+    "first_spell": 772,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6547,
+    "prev_spell": 6546,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6548,
+    "prev_spell": 6547,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6552,
+    "prev_spell": 0,
+    "first_spell": 6552,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6554,
+    "prev_spell": 6552,
+    "first_spell": 6552,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6555,
+    "prev_spell": 6554,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6572,
+    "prev_spell": 0,
+    "first_spell": 6572,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6574,
+    "prev_spell": 6572,
+    "first_spell": 6572,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6577,
+    "prev_spell": 0,
+    "first_spell": 6577,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6582,
+    "prev_spell": 0,
+    "first_spell": 6582,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6651,
+    "prev_spell": 0,
+    "first_spell": 6651,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6673,
+    "prev_spell": 0,
+    "first_spell": 6673,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6739,
+    "prev_spell": 645,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6756,
+    "prev_spell": 5232,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6760,
+    "prev_spell": 2098,
+    "first_spell": 2098,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6761,
+    "prev_spell": 6760,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6762,
+    "prev_spell": 6761,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6768,
+    "prev_spell": 1966,
+    "first_spell": 1966,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6770,
+    "prev_spell": 0,
+    "first_spell": 6770,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6772,
+    "prev_spell": 101,
+    "first_spell": 101,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6774,
+    "prev_spell": 5171,
+    "first_spell": 5171,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6783,
+    "prev_spell": 5215,
+    "first_spell": 5215,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6785,
+    "prev_spell": 0,
+    "first_spell": 6785,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6787,
+    "prev_spell": 6785,
+    "first_spell": 6785,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6788,
+    "prev_spell": 6787,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6789,
+    "prev_spell": 6788,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6793,
+    "prev_spell": 5217,
+    "first_spell": 5217,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6800,
+    "prev_spell": 5221,
+    "first_spell": 5221,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6807,
+    "prev_spell": 0,
+    "first_spell": 6807,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6808,
+    "prev_spell": 6807,
+    "first_spell": 6807,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6809,
+    "prev_spell": 6808,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6940,
+    "prev_spell": 0,
+    "first_spell": 6940,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6962,
+    "prev_spell": 1485,
+    "first_spell": 1485,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6963,
+    "prev_spell": 6962,
+    "first_spell": 1485,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6964,
+    "prev_spell": 6963,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6965,
+    "prev_spell": 6964,
+    "first_spell": 0,
+    "rank": 5,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6966,
+    "prev_spell": 6965,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6969,
+    "prev_spell": 1528,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6975,
+    "prev_spell": 1516,
+    "first_spell": 1516,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6976,
+    "prev_spell": 6975,
+    "first_spell": 1516,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6977,
+    "prev_spell": 6976,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6979,
+    "prev_spell": 3011,
+    "first_spell": 3011,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6980,
+    "prev_spell": 6979,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6984,
+    "prev_spell": 5116,
+    "first_spell": 5116,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6985,
+    "prev_spell": 6984,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6991,
+    "prev_spell": 1130,
+    "first_spell": 1130,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 6998,
+    "prev_spell": 2643,
+    "first_spell": 2643,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7000,
+    "prev_spell": 1978,
+    "first_spell": 1978,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7027,
+    "prev_spell": 1960,
+    "first_spell": 1960,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7028,
+    "prev_spell": 7027,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7029,
+    "prev_spell": 7028,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7128,
+    "prev_spell": 588,
+    "first_spell": 588,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7294,
+    "prev_spell": 0,
+    "first_spell": 7294,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7300,
+    "prev_spell": 168,
+    "first_spell": 168,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7301,
+    "prev_spell": 7300,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7302,
+    "prev_spell": 0,
+    "first_spell": 7302,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7320,
+    "prev_spell": 7302,
+    "first_spell": 7302,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7322,
+    "prev_spell": 837,
+    "first_spell": 116,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7325,
+    "prev_spell": 0,
+    "first_spell": 7325,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7328,
+    "prev_spell": 0,
+    "first_spell": 7328,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7369,
+    "prev_spell": 845,
+    "first_spell": 845,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7370,
+    "prev_spell": 7369,
+    "first_spell": 845,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7371,
+    "prev_spell": 7370,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7372,
+    "prev_spell": 1715,
+    "first_spell": 1715,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7373,
+    "prev_spell": 7372,
+    "first_spell": 1715,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7379,
+    "prev_spell": 6574,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7384,
+    "prev_spell": 0,
+    "first_spell": 7384,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7386,
+    "prev_spell": 0,
+    "first_spell": 7386,
+    "rank": 1,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7390,
+    "prev_spell": 355,
+    "first_spell": 355,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7391,
+    "prev_spell": 7390,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7400,
+    "prev_spell": 694,
+    "first_spell": 694,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7402,
+    "prev_spell": 7400,
+    "first_spell": 0,
+    "rank": 3,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7405,
+    "prev_spell": 7386,
+    "first_spell": 7386,
+    "rank": 2,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7641,
+    "prev_spell": 1106,
+    "first_spell": 0,
+    "rank": 6,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7648,
+    "prev_spell": 6223,
+    "first_spell": 172,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7651,
+    "prev_spell": 709,
+    "first_spell": 0,
+    "rank": 4,
+    "req_spell": 0
+  },
+  {
+    "spell_id": 7887,
+    "prev_spell": 7384,
+    "first_spell": 7384,
+    "rank": 2,
+    "req_spell": 0
+  }
+]

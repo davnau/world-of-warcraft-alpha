@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>BattleNet.Protocol.Tests</AssemblyName>
+    <RootNamespace>BattleNet.Protocol.Tests</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BattleNet.Server\BattleNet.Server.csproj" />
+    <ProjectReference Include="..\BattleNet.Persistence\BattleNet.Persistence.csproj" />
+    <ProjectReference Include="..\BattleNet.Protocol\BattleNet.Protocol.csproj" />
+  </ItemGroup>
+</Project>

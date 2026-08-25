@@ -1,0 +1,626 @@
+﻿[
+  {
+    "Guid": 1,
+    "SpellId": 78,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 81,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 107,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 196,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 198,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 201,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 203,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 204,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 268,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 522,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 668,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 1180,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 2382,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 2457,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 3050,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 3365,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 5301,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6233,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6246,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6247,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6477,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6478,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 6603,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 7266,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 7267,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 1,
+    "SpellId": 7355,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 81,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 107,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 196,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 203,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 204,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 264,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 268,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 522,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 668,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 671,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 743,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 1180,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 1485,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 2382,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 3050,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 3365,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 4081,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6233,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6246,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6247,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6477,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6478,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 6603,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 7266,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 7267,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 2,
+    "SpellId": 7355,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 78,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 81,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 107,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 196,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 198,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 201,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 203,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 204,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 268,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 522,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 668,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 1180,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 2382,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 2457,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 3050,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 3365,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 5301,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6233,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6246,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6247,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6477,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6478,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 6603,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 7266,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 7267,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 4,
+    "SpellId": 7355,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 81,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 203,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 204,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 522,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 668,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 669,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 686,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 687,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 1180,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 2382,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 3050,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 3365,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 4084,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 5009,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 5019,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 5227,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6233,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6246,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6247,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6477,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6478,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 6603,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 7266,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 7267,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 7355,
+    "Active": true,
+    "Disabled": false
+  },
+  {
+    "Guid": 5,
+    "SpellId": 7744,
+    "Active": true,
+    "Disabled": false
+  }
+]

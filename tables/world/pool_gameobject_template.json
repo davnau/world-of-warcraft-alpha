@@ -1,0 +1,590 @@
+[
+  {
+    "id": 175785,
+    "pool_entry": 22909,
+    "chance": 0,
+    "description": "LBRS - Inconspicuous Documents",
+    "flags": 0
+  },
+  {
+    "id": 1727,
+    "pool_entry": 1339,
+    "chance": 0,
+    "description": "Hillsbrad Foothills - Dun Garok - Keg of Shindigger Stout (1727)",
+    "flags": 0
+  },
+  {
+    "id": 2744,
+    "pool_entry": 1342,
+    "chance": 0,
+    "description": "Stranglethorn Vale - Giant Clam",
+    "flags": 0
+  },
+  {
+    "id": 375,
+    "pool_entry": 1597,
+    "chance": 0,
+    "description": "Tirisfal Glades - Tirisfal Pumpkin",
+    "flags": 0
+  },
+  {
+    "id": 152621,
+    "pool_entry": 21604,
+    "chance": 0,
+    "description": "Azshara - Azsharite Formation",
+    "flags": 0
+  },
+  {
+    "id": 152620,
+    "pool_entry": 21603,
+    "chance": 0,
+    "description": "Azshara - Azsharite Formation",
+    "flags": 0
+  },
+  {
+    "id": 175334,
+    "pool_entry": 139,
+    "chance": 0,
+    "description": "LBRS - Bijous Belongings",
+    "flags": 0
+  },
+  {
+    "id": 161557,
+    "pool_entry": 140,
+    "chance": 0,
+    "description": "Elwynn Forest - Milly's Harvest",
+    "flags": 0
+  },
+  {
+    "id": 175966,
+    "pool_entry": 141,
+    "chance": 0,
+    "description": "Stratholme - Enchanted Scarlet Thread",
+    "flags": 0
+  },
+  {
+    "id": 154357,
+    "pool_entry": 142,
+    "chance": 0,
+    "description": "Redridge Mountains - Glinting Mud",
+    "flags": 0
+  },
+  {
+    "id": 176249,
+    "pool_entry": 143,
+    "chance": 0,
+    "description": "Stratholme - Scourge Data",
+    "flags": 0
+  },
+  {
+    "id": 2086,
+    "pool_entry": 144,
+    "chance": 0,
+    "description": "Stranglethorn Vale - Bloodsail Charts",
+    "flags": 0
+  },
+  {
+    "id": 2087,
+    "pool_entry": 150,
+    "chance": 0,
+    "description": "Stranglethorn Vale - Bloodsail Orders",
+    "flags": 0
+  },
+  {
+    "id": 176753,
+    "pool_entry": 1010,
+    "chance": 0,
+    "description": "Tirisfal Glades - Doom Weed",
+    "flags": 0
+  },
+  {
+    "id": 175566,
+    "pool_entry": 1009,
+    "chance": 0,
+    "description": "Tirisfal Glades - Gloom Weed",
+    "flags": 0
+  },
+  {
+    "id": 1673,
+    "pool_entry": 1613,
+    "chance": 0,
+    "description": "Teldrassil - Fel Cone",
+    "flags": 0
+  },
+  {
+    "id": 4608,
+    "pool_entry": 1614,
+    "chance": 0,
+    "description": "Teldrassil - Timberling Sprout",
+    "flags": 0
+  },
+  {
+    "id": 3685,
+    "pool_entry": 1616,
+    "chance": 0,
+    "description": "The Barrens - Silithid Mound",
+    "flags": 0
+  },
+  {
+    "id": 1723,
+    "pool_entry": 1617,
+    "chance": 0,
+    "description": "Hillsbrad Foothills - Mudsnout Blossom",
+    "flags": 0
+  },
+  {
+    "id": 175928,
+    "pool_entry": 1618,
+    "chance": 0,
+    "description": "Thousand Needles - Incendia Agarve",
+    "flags": 0
+  },
+  {
+    "id": 2724,
+    "pool_entry": 1619,
+    "chance": 0,
+    "description": "Westfall - Sack of Oats",
+    "flags": 0
+  },
+  {
+    "id": 13360,
+    "pool_entry": 1636,
+    "chance": 0,
+    "description": "Darkshore - Mathystra Relic (Entry: 13360)",
+    "flags": 0
+  },
+  {
+    "id": 12654,
+    "pool_entry": 1636,
+    "chance": 0,
+    "description": "Darkshore - Mathystra Relic (Entry: 12654)",
+    "flags": 0
+  },
+  {
+    "id": 13872,
+    "pool_entry": 1636,
+    "chance": 0,
+    "description": "Darkshore - Mathystra Relic (Entry: 13872)",
+    "flags": 0
+  },
+  {
+    "id": 24798,
+    "pool_entry": 1620,
+    "chance": 0,
+    "description": "Swamp of Sorrows - Sundried Driftwood",
+    "flags": 0
+  },
+  {
+    "id": 28604,
+    "pool_entry": 1621,
+    "chance": 0,
+    "description": "Swamp of Sorrows - Scattered Crate",
+    "flags": 0
+  },
+  {
+    "id": 86492,
+    "pool_entry": 1622,
+    "chance": 0,
+    "description": "Darkshore - Crate of Elunite",
+    "flags": 0
+  },
+  {
+    "id": 89634,
+    "pool_entry": 1623,
+    "chance": 0,
+    "description": "Wetlands - Iron Coral",
+    "flags": 0
+  },
+  {
+    "id": 89635,
+    "pool_entry": 1624,
+    "chance": 0,
+    "description": "Thousand Needles - Sunscorched Shell",
+    "flags": 0
+  },
+  {
+    "id": 141931,
+    "pool_entry": 1625,
+    "chance": 0,
+    "description": "Feralas - Hippogryph Egg",
+    "flags": 0
+  },
+  {
+    "id": 148516,
+    "pool_entry": 1626,
+    "chance": 0,
+    "description": "Azshara - Tablet of Beth'Amara",
+    "flags": 0
+  },
+  {
+    "id": 148513,
+    "pool_entry": 1627,
+    "chance": 0,
+    "description": "Azshara - Tablet of Jinyael",
+    "flags": 0
+  },
+  {
+    "id": 148514,
+    "pool_entry": 1628,
+    "chance": 0,
+    "description": "Azshara - Tablet of Markri",
+    "flags": 0
+  },
+  {
+    "id": 148515,
+    "pool_entry": 1629,
+    "chance": 0,
+    "description": "Azshara - Tablet of Saelhai",
+    "flags": 0
+  },
+  {
+    "id": 152094,
+    "pool_entry": 1630,
+    "chance": 0,
+    "description": "Teldrassil - Hyacinth Mushroom",
+    "flags": 0
+  },
+  {
+    "id": 11713,
+    "pool_entry": 18858,
+    "chance": 0,
+    "description": "Darkshore - Death Cap",
+    "flags": 0
+  },
+  {
+    "id": 271,
+    "pool_entry": 18857,
+    "chance": 0,
+    "description": "Loch Modan - Miners League Crates",
+    "flags": 0
+  },
+  {
+    "id": 178195,
+    "pool_entry": 18856,
+    "chance": 0,
+    "description": "Ashenvale - Warsong Oils",
+    "flags": 0
+  },
+  {
+    "id": 140971,
+    "pool_entry": 14,
+    "chance": 0,
+    "description": "Tanaris - Gahz'ridian",
+    "flags": 0
+  },
+  {
+    "id": 3236,
+    "pool_entry": 18855,
+    "chance": 0,
+    "description": "Durotar - Gnomish Toolbox",
+    "flags": 0
+  },
+  {
+    "id": 176116,
+    "pool_entry": 3012,
+    "chance": 0,
+    "description": "Eastern Plaguelands - Pamela's Doll's Head",
+    "flags": 0
+  },
+  {
+    "id": 176142,
+    "pool_entry": 3013,
+    "chance": 0,
+    "description": "Eastern Plaguelands - Pamela's Doll's Left Side",
+    "flags": 0
+  },
+  {
+    "id": 176143,
+    "pool_entry": 3014,
+    "chance": 0,
+    "description": "Eastern Plaguelands - Pamela's Doll's Right Side",
+    "flags": 0
+  },
+  {
+    "id": 2560,
+    "pool_entry": 1635,
+    "chance": 0,
+    "description": "Stranglethorn Vale - Half Buried Bottle",
+    "flags": 0
+  },
+  {
+    "id": 142191,
+    "pool_entry": 41,
+    "chance": 0,
+    "description": "Hinterlands - Horde Supply Crate",
+    "flags": 0
+  },
+  {
+    "id": 19016,
+    "pool_entry": 18859,
+    "chance": 0,
+    "description": "Ashenvale - Stardust Covered Bush",
+    "flags": 0
+  },
+  {
+    "id": 276,
+    "pool_entry": 18860,
+    "chance": 0,
+    "description": "Dun Morogh - Shimmerweed Basket",
+    "flags": 0
+  },
+  {
+    "id": 153239,
+    "pool_entry": 18861,
+    "chance": 0,
+    "description": "Hinterlands - Wildkin Feather",
+    "flags": 0
+  },
+  {
+    "id": 177464,
+    "pool_entry": 18862,
+    "chance": 0,
+    "description": "Eastern Plaguelands - Large Termite Mound",
+    "flags": 0
+  },
+  {
+    "id": 2912,
+    "pool_entry": 18863,
+    "chance": 0,
+    "description": "Mulgore - Ambercorn",
+    "flags": 0
+  },
+  {
+    "id": 2068,
+    "pool_entry": 18864,
+    "chance": 0,
+    "description": "Hinterlands - Pupellyverbos Port",
+    "flags": 0
+  },
+  {
+    "id": 177785,
+    "pool_entry": 18865,
+    "chance": 0,
+    "description": "Moonglade - Bauble Container",
+    "flags": 0
+  },
+  {
+    "id": 152095,
+    "pool_entry": 18866,
+    "chance": 0,
+    "description": "Teldrassil - Moonpetal Lily",
+    "flags": 0
+  },
+  {
+    "id": 178185,
+    "pool_entry": 18867,
+    "chance": 0,
+    "description": "Blackfathom Deeps - Sapphire of Aku'Mai (178185)",
+    "flags": 0
+  },
+  {
+    "id": 177726,
+    "pool_entry": 18868,
+    "chance": 0,
+    "description": "Western Plaguelands - Tool Bucket",
+    "flags": 0
+  },
+  {
+    "id": 11714,
+    "pool_entry": 18869,
+    "chance": 0,
+    "description": "Darkshore - Scaber Stalk",
+    "flags": 0
+  },
+  {
+    "id": 2712,
+    "pool_entry": 21551,
+    "chance": 0,
+    "description": "Arathi Highlands - Calcified Elven Gems",
+    "flags": 0
+  },
+  {
+    "id": 2743,
+    "pool_entry": 63,
+    "chance": 0,
+    "description": "Badlands - Carved Stone Urn",
+    "flags": 0
+  },
+  {
+    "id": 2910,
+    "pool_entry": 64,
+    "chance": 0,
+    "description": "Mulgore - Well Stone",
+    "flags": 0
+  },
+  {
+    "id": 3240,
+    "pool_entry": 21552,
+    "chance": 0,
+    "description": "Durotar - Taillasher Eggs",
+    "flags": 0
+  },
+  {
+    "id": 3290,
+    "pool_entry": 95,
+    "chance": 0,
+    "description": "Durotar - Stolen Supply Sacks",
+    "flags": 0
+  },
+  {
+    "id": 22246,
+    "pool_entry": 96,
+    "chance": 0,
+    "description": "Desolace - Tear of Theradras",
+    "flags": 0
+  },
+  {
+    "id": 153123,
+    "pool_entry": 97,
+    "chance": 0,
+    "description": "Azshara - Kim'jael's Equipment",
+    "flags": 0
+  },
+  {
+    "id": 157936,
+    "pool_entry": 98,
+    "chance": 0,
+    "description": "UnGoro Crater - UnGoro Dirt Pile",
+    "flags": 0
+  },
+  {
+    "id": 161527,
+    "pool_entry": 99,
+    "chance": 0,
+    "description": "UnGoro Crater - Dinosaur Bone",
+    "flags": 0
+  },
+  {
+    "id": 164662,
+    "pool_entry": 100,
+    "chance": 0,
+    "description": "Tirisfal Glades - Equipment Boxes",
+    "flags": 0
+  },
+  {
+    "id": 161752,
+    "pool_entry": 101,
+    "chance": 0,
+    "description": "Barrens - Tool Bucket",
+    "flags": 0
+  },
+  {
+    "id": 164958,
+    "pool_entry": 102,
+    "chance": 0,
+    "description": "UnGoro Crater - Bloodpetal Sprout",
+    "flags": 0
+  },
+  {
+    "id": 175324,
+    "pool_entry": 103,
+    "chance": 0,
+    "description": "Winterspring - Frostmaul Shards",
+    "flags": 0
+  },
+  {
+    "id": 175384,
+    "pool_entry": 145,
+    "chance": 0,
+    "description": "Thousand Needles - Highperch Wyvern Egg",
+    "flags": 0
+  },
+  {
+    "id": 175708,
+    "pool_entry": 21553,
+    "chance": 0,
+    "description": "Barrens - Crossroads Supply Crates",
+    "flags": 0
+  },
+  {
+    "id": 176630,
+    "pool_entry": 147,
+    "chance": 0,
+    "description": "Arathi Highlands - Keepsake of Remembrance",
+    "flags": 0
+  },
+  {
+    "id": 176793,
+    "pool_entry": 148,
+    "chance": 0,
+    "description": "Elwynn Forest - Bundle of Wood",
+    "flags": 0
+  },
+  {
+    "id": 177926,
+    "pool_entry": 149,
+    "chance": 0,
+    "description": "Stonetalon Mountains - Gaea Seed",
+    "flags": 0
+  },
+  {
+    "id": 178144,
+    "pool_entry": 153,
+    "chance": 0,
+    "description": "Ashenvale - Troll Chest",
+    "flags": 0
+  },
+  {
+    "id": 178184,
+    "pool_entry": 154,
+    "chance": 0,
+    "description": "Blackfathom Deeps - Sapphire of Aku'Mais (178184)",
+    "flags": 0
+  },
+  {
+    "id": 178186,
+    "pool_entry": 157,
+    "chance": 0,
+    "description": "Blackfathom Deeps - Sapphire of Aku'Mais (178186)",
+    "flags": 0
+  },
+  {
+    "id": 153556,
+    "pool_entry": 161,
+    "chance": 0,
+    "description": "Burning Steppes - Thaurissan Relic",
+    "flags": 0
+  },
+  {
+    "id": 17282,
+    "pool_entry": 250,
+    "chance": 0,
+    "description": "Ashenvale - Plant Bundle",
+    "flags": 0
+  },
+  {
+    "id": 142344,
+    "pool_entry": 251,
+    "chance": 0,
+    "description": "Artificial Extrapolator - Gnomeregan",
+    "flags": 0
+  },
+  {
+    "id": 19903,
+    "pool_entry": 21601,
+    "chance": 0,
+    "description": "Indurium Mineral Vein - Uldaman",
+    "flags": 0
+  },
+  {
+    "id": 175565,
+    "pool_entry": 3585,
+    "chance": 0,
+    "description": "Thousand Needles - Alien Egg",
+    "flags": 0
+  },
+  {
+    "id": 175802,
+    "pool_entry": 3587,
+    "chance": 0,
+    "description": "Western Plaguelands - Small Lockbox",
+    "flags": 0
+  },
+  {
+    "id": 175407,
+    "pool_entry": 3588,
+    "chance": 0,
+    "description": "Winterspring - Moontouched Feather",
+    "flags": 0
+  }
+]

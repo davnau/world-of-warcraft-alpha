@@ -1,0 +1,246 @@
+[
+  {
+    "level": 0,
+    "base_xp": 0
+  },
+  {
+    "level": 1,
+    "base_xp": 5
+  },
+  {
+    "level": 2,
+    "base_xp": 15
+  },
+  {
+    "level": 3,
+    "base_xp": 25
+  },
+  {
+    "level": 4,
+    "base_xp": 35
+  },
+  {
+    "level": 5,
+    "base_xp": 45
+  },
+  {
+    "level": 6,
+    "base_xp": 55
+  },
+  {
+    "level": 7,
+    "base_xp": 65
+  },
+  {
+    "level": 8,
+    "base_xp": 70
+  },
+  {
+    "level": 9,
+    "base_xp": 80
+  },
+  {
+    "level": 10,
+    "base_xp": 85
+  },
+  {
+    "level": 11,
+    "base_xp": 90
+  },
+  {
+    "level": 12,
+    "base_xp": 90
+  },
+  {
+    "level": 13,
+    "base_xp": 90
+  },
+  {
+    "level": 14,
+    "base_xp": 100
+  },
+  {
+    "level": 15,
+    "base_xp": 105
+  },
+  {
+    "level": 16,
+    "base_xp": 115
+  },
+  {
+    "level": 17,
+    "base_xp": 125
+  },
+  {
+    "level": 18,
+    "base_xp": 135
+  },
+  {
+    "level": 19,
+    "base_xp": 145
+  },
+  {
+    "level": 20,
+    "base_xp": 155
+  },
+  {
+    "level": 21,
+    "base_xp": 165
+  },
+  {
+    "level": 22,
+    "base_xp": 175
+  },
+  {
+    "level": 23,
+    "base_xp": 185
+  },
+  {
+    "level": 24,
+    "base_xp": 195
+  },
+  {
+    "level": 25,
+    "base_xp": 200
+  },
+  {
+    "level": 26,
+    "base_xp": 210
+  },
+  {
+    "level": 27,
+    "base_xp": 220
+  },
+  {
+    "level": 28,
+    "base_xp": 230
+  },
+  {
+    "level": 29,
+    "base_xp": 240
+  },
+  {
+    "level": 30,
+    "base_xp": 245
+  },
+  {
+    "level": 31,
+    "base_xp": 250
+  },
+  {
+    "level": 32,
+    "base_xp": 255
+  },
+  {
+    "level": 33,
+    "base_xp": 265
+  },
+  {
+    "level": 34,
+    "base_xp": 270
+  },
+  {
+    "level": 35,
+    "base_xp": 275
+  },
+  {
+    "level": 36,
+    "base_xp": 280
+  },
+  {
+    "level": 37,
+    "base_xp": 285
+  },
+  {
+    "level": 38,
+    "base_xp": 285
+  },
+  {
+    "level": 39,
+    "base_xp": 300
+  },
+  {
+    "level": 40,
+    "base_xp": 315
+  },
+  {
+    "level": 41,
+    "base_xp": 330
+  },
+  {
+    "level": 42,
+    "base_xp": 345
+  },
+  {
+    "level": 43,
+    "base_xp": 360
+  },
+  {
+    "level": 44,
+    "base_xp": 375
+  },
+  {
+    "level": 45,
+    "base_xp": 390
+  },
+  {
+    "level": 46,
+    "base_xp": 405
+  },
+  {
+    "level": 47,
+    "base_xp": 420
+  },
+  {
+    "level": 48,
+    "base_xp": 440
+  },
+  {
+    "level": 49,
+    "base_xp": 455
+  },
+  {
+    "level": 50,
+    "base_xp": 470
+  },
+  {
+    "level": 51,
+    "base_xp": 490
+  },
+  {
+    "level": 52,
+    "base_xp": 510
+  },
+  {
+    "level": 53,
+    "base_xp": 530
+  },
+  {
+    "level": 54,
+    "base_xp": 540
+  },
+  {
+    "level": 55,
+    "base_xp": 560
+  },
+  {
+    "level": 56,
+    "base_xp": 580
+  },
+  {
+    "level": 57,
+    "base_xp": 600
+  },
+  {
+    "level": 58,
+    "base_xp": 620
+  },
+  {
+    "level": 59,
+    "base_xp": 640
+  },
+  {
+    "level": 60,
+    "base_xp": 660
+  }
+]

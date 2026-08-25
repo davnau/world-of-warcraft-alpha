@@ -1,0 +1,9 @@
+#pragma once
+#include "ENGINE/Source/Tempest/c3vector.h"
+#include "ENGINE/Source/Tempest/c34matrix.h"
+#include "ENGINE/Source/Tempest/c44matrix.h"
+#include "ENGINE/Source/Tempest/cimvector.h"
+#include <vector>
+struct VERTEX{NTempest::C3Vector position{};NTempest::CImVector color{};float time=0;}; struct SWING{std::vector<VERTEX> vertices;bool active=false;void Recycle();void Render();void AddVerts(const NTempest::C44Matrix*,const NTempest::C3Vector*,const NTempest::C3Vector*,const NTempest::CImVector*,unsigned char,const NTempest::C3Vector*);}; class WTOBJECT{public:void Recycle();void Render(const NTempest::C44Matrix*);void RenderVerts(const NTempest::C3Vector*);void FadeVerts();void DisableDrawing();void SetDrawTrail(const NTempest::CImVector*,int,int(*)(const void*,void*));void SetColor(NTempest::CImVector);void SetFadeOutRate(int);void SetDrawing(bool);std::vector<SWING> swings;NTempest::CImVector color{};int fadeOutRate=0;bool drawing=false;};
+void WeaponTrailsInitialize(); unsigned char ToggleCallback_0(const char*,void*); void WeaponTrailsShutdown(); WTOBJECT* WeaponTrailCreate(int); void GeosetRenderFunction(const NTempest::C34Matrix*,float*,WTOBJECT*); void WeaponTrailClose(void*,WTOBJECT*); void WeaponTrailSetColor(WTOBJECT*,NTempest::CImVector); void WeaponTrailSetFadeOutRate(WTOBJECT*,int); void WeaponTrailDisableDrawing(WTOBJECT*); void WeaponTrailSetDrawing(WTOBJECT*,const NTempest::CImVector*,int,int(*)(const void*,void*)); int DiscontinueTimerHandler(void*,int);
+extern float INFINITY_367; int _E2_367(); int _E1_367(); int _E159_3(); int _E156_2(); int _E158_3(); void _E157_2(); int _E164_2(); int _E161_1(); int _E163_2(); void _E162_1(); int _E169_2(); int _E166_0(); int _E168_2(); void _E167_0(); int _E174_2(); int _E171_1(); int _E173_1(); void _E172_0();

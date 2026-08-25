@@ -1,0 +1,412 @@
+[
+  {
+    "Race": 1,
+    "Class": 1,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 1,
+    "Class": 2,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 1,
+    "Class": 4,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 1,
+    "Class": 5,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 1,
+    "Class": 8,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 1,
+    "Class": 9,
+    "Map": 0,
+    "Zone": 12,
+    "PositionX": -8949.95,
+    "PositionY": -132.493,
+    "PositionZ": 83.5312,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 2,
+    "Class": 1,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 2,
+    "Class": 3,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 2,
+    "Class": 4,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 2,
+    "Class": 7,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 2,
+    "Class": 9,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 3,
+    "Class": 1,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 3,
+    "Class": 2,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 3,
+    "Class": 3,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 3,
+    "Class": 4,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 3,
+    "Class": 5,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 3,
+    "Class": 8,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 6.17716
+  },
+  {
+    "Race": 4,
+    "Class": 1,
+    "Map": 1,
+    "Zone": 141,
+    "PositionX": 10311.3,
+    "PositionY": 832.463,
+    "PositionZ": 1326.41,
+    "Orientation": 5.69632
+  },
+  {
+    "Race": 4,
+    "Class": 3,
+    "Map": 1,
+    "Zone": 141,
+    "PositionX": 10311.3,
+    "PositionY": 832.463,
+    "PositionZ": 1326.41,
+    "Orientation": 5.69632
+  },
+  {
+    "Race": 4,
+    "Class": 4,
+    "Map": 1,
+    "Zone": 141,
+    "PositionX": 10311.3,
+    "PositionY": 832.463,
+    "PositionZ": 1326.41,
+    "Orientation": 5.69632
+  },
+  {
+    "Race": 4,
+    "Class": 5,
+    "Map": 1,
+    "Zone": 141,
+    "PositionX": 10311.3,
+    "PositionY": 832.463,
+    "PositionZ": 1326.41,
+    "Orientation": 5.69632
+  },
+  {
+    "Race": 4,
+    "Class": 11,
+    "Map": 1,
+    "Zone": 141,
+    "PositionX": 10311.3,
+    "PositionY": 832.463,
+    "PositionZ": 1326.41,
+    "Orientation": 5.69632
+  },
+  {
+    "Race": 5,
+    "Class": 1,
+    "Map": 0,
+    "Zone": 85,
+    "PositionX": 1676.71,
+    "PositionY": 1678.31,
+    "PositionZ": 121.67,
+    "Orientation": 2.70526
+  },
+  {
+    "Race": 5,
+    "Class": 4,
+    "Map": 0,
+    "Zone": 85,
+    "PositionX": 1676.71,
+    "PositionY": 1678.31,
+    "PositionZ": 121.67,
+    "Orientation": 2.70526
+  },
+  {
+    "Race": 5,
+    "Class": 5,
+    "Map": 0,
+    "Zone": 85,
+    "PositionX": 1676.71,
+    "PositionY": 1678.31,
+    "PositionZ": 121.67,
+    "Orientation": 2.70526
+  },
+  {
+    "Race": 5,
+    "Class": 8,
+    "Map": 0,
+    "Zone": 85,
+    "PositionX": 1676.71,
+    "PositionY": 1678.31,
+    "PositionZ": 121.67,
+    "Orientation": 2.70526
+  },
+  {
+    "Race": 5,
+    "Class": 9,
+    "Map": 0,
+    "Zone": 85,
+    "PositionX": 1676.71,
+    "PositionY": 1678.31,
+    "PositionZ": 121.67,
+    "Orientation": 2.70526
+  },
+  {
+    "Race": 6,
+    "Class": 1,
+    "Map": 1,
+    "Zone": 215,
+    "PositionX": -2917.58,
+    "PositionY": -257.98,
+    "PositionZ": 52.9968,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 6,
+    "Class": 3,
+    "Map": 1,
+    "Zone": 215,
+    "PositionX": -2917.58,
+    "PositionY": -257.98,
+    "PositionZ": 52.9968,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 6,
+    "Class": 7,
+    "Map": 1,
+    "Zone": 215,
+    "PositionX": -2917.58,
+    "PositionY": -257.98,
+    "PositionZ": 52.9968,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 6,
+    "Class": 11,
+    "Map": 1,
+    "Zone": 215,
+    "PositionX": -2917.58,
+    "PositionY": -257.98,
+    "PositionZ": 52.9968,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 7,
+    "Class": 1,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 7,
+    "Class": 4,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 7,
+    "Class": 8,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 7,
+    "Class": 9,
+    "Map": 0,
+    "Zone": 1,
+    "PositionX": -6240.32,
+    "PositionY": 331.033,
+    "PositionZ": 382.758,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 1,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 3,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 4,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 5,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 7,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  },
+  {
+    "Race": 8,
+    "Class": 8,
+    "Map": 1,
+    "Zone": 14,
+    "PositionX": -618.518,
+    "PositionY": -4251.67,
+    "PositionZ": 38.718,
+    "Orientation": 0.0
+  }
+]
